@@ -1,0 +1,33 @@
+Country,AgeGroup,CustomerCount
+United States,Above 50,19757
+United States,36-50,7378
+United States,25-35,5418
+United Kingdom,Above 50,4432
+Germany,Above 50,3491
+Canada,Above 50,3002
+United Kingdom,36-50,1757
+Australia,Above 50,1753
+United Kingdom,25-35,1638
+Italy,Above 50,1543
+Germany,36-50,1353
+Canada,36-50,1275
+Netherlands,Above 50,1274
+United States,Under 25,1214
+France,Above 50,1023
+Germany,25-35,902
+Canada,25-35,870
+Australia,36-50,664
+Italy,36-50,574
+Netherlands,36-50,531
+Italy,25-35,459
+Australia,25-35,447
+Netherlands,25-35,351
+France,36-50,330
+United Kingdom,Under 25,313
+France,25-35,299
+Canada,Under 25,268
+Germany,Under 25,210
+Italy,Under 25,109
+Netherlands,Under 25,94
+France,Under 25,78
+Australia,Under 25,77

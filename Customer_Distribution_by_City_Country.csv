@@ -1,0 +1,6683 @@
+City,Country,CustomerCount
+Toronto,Canada,681
+Los Angeles,United States,579
+New York,United States,569
+Houston,United States,438
+Chicago,United States,385
+Philadelphia,United States,382
+Montreal,Canada,361
+Dallas,United States,289
+Calgary,Canada,267
+Atlanta,United States,248
+Southfield,United States,239
+Washington,United States,239
+San Francisco,United States,237
+Seattle,United States,235
+Portland,United States,230
+Miami,United States,223
+Oakland,United States,206
+Grand Rapids,United States,203
+San Antonio,United States,198
+Jackson,United States,189
+Memphis,United States,189
+Indianapolis,United States,185
+Ottawa,Canada,184
+Vancouver,Canada,182
+Phoenix,United States,179
+Lexington,United States,176
+San Diego,United States,176
+Tampa,United States,171
+Sacramento,United States,165
+Charlotte,United States,163
+Denver,United States,163
+Birmingham,United States,162
+Saint Louis,United States,153
+Pittsburgh,United States,153
+Boston,United States,151
+Columbus,United States,147
+Minneapolis,United States,141
+Edmonton,Canada,139
+Nashville,United States,138
+Baltimore,United States,136
+Little Rock,United States,136
+Detroit,United States,135
+Louisville,United States,132
+Jacksonville,United States,132
+Richmond,United States,131
+Newark,United States,131
+Las Vegas,United States,131
+Austin,United States,130
+Springfield,United States,130
+Anaheim,United States,128
+Greenville,United States,127
+Orlando,United States,125
+San Jose,United States,124
+Irvine,United States,119
+Cleveland,United States,118
+Milwaukee,United States,116
+Victoria,Canada,115
+Quebec,Canada,113
+Kansas City,United States,111
+Camden,United States,111
+Fresno,United States,110
+Albany,United States,108
+Oklahoma City,United States,106
+Madison,United States,103
+Dayton,United States,101
+Albuquerque,United States,100
+München,Germany,97
+Columbia,United States,97
+Raleigh,United States,97
+Cambridge,United States,97
+Akron,United States,94
+Arlington,United States,93
+Saginaw,United States,92
+Tulsa,United States,92
+Stockton,United States,92
+Reno,United States,91
+Salt Lake City,United States,90
+Englewood,United States,90
+Burbank,United States,87
+Amsterdam,Netherlands,82
+Montgomery,United States,82
+Wichita,United States,81
+Fort Lauderdale,United States,81
+West Palm Beach,United States,81
+El Paso,United States,80
+Corpus Christi,United States,80
+Omaha,United States,78
+Rochelle Park,United States,77
+Tucson,United States,77
+Worcester,United States,76
+Gainesville,United States,76
+Woburn,United States,75
+Fort Myers,United States,75
+Garden City,United States,73
+East Lansing,United States,73
+Brooklyn,United States,72
+Peoria,United States,72
+Elmsford,United States,71
+Fort Worth,United States,71
+Concord,United States,70
+Savannah,United States,69
+Toledo,United States,66
+Buffalo,United States,65
+Baton Rouge,United States,65
+Hartford,United States,65
+Manchester,United States,65
+Salinas,United States,65
+Greensboro,United States,65
+Eugene,United States,63
+Boca Raton,United States,63
+Syracuse,United States,62
+Tallahassee,United States,62
+Bloomfield Township,United States,61
+Cincinnati,United States,59
+Regina,Canada,58
+Saskatoon,Canada,58
+Hattiesburg,United States,58
+Shreveport,United States,58
+Florence,United States,58
+Wheeling,United States,58
+Utrecht,Netherlands,56
+Norcross,United States,56
+Mountain View,United States,56
+Charleston,United States,56
+Norfolk,United States,55
+Knoxville,United States,55
+Worthington,United States,55
+New Brunswick,United States,55
+Den Haag,Netherlands,53
+Westland,United States,53
+New Orleans,United States,52
+Harrisburg,United States,52
+Nürnberg,Germany,51
+Wayne,United States,51
+Lafayette,United States,51
+Bloomington,United States,51
+Winnipeg,Canada,50
+London,Canada,50
+Harlingen,United States,50
+Paris,France,49
+Fort Smith,United States,49
+Golden Valley,United States,49
+Mansfield,United States,49
+Westerville,United States,49
+Lincoln,United States,49
+Rochester,United States,48
+Boise,United States,48
+Ocala,United States,47
+Crafton,United States,47
+Hamilton,Canada,46
+Oshawa,Canada,46
+Livonia,United States,46
+Bakersfield,United States,46
+Bridgeview,United States,46
+Providence,United States,45
+New Haven,United States,45
+Hickory Hills,United States,45
+Youngstown,United States,45
+Huntsville,United States,44
+Silver Spring,United States,44
+Duluth,United States,44
+Portsmouth,United States,44
+Dresden,Germany,43
+Apeldoorn,Netherlands,43
+Winston Salem,United States,43
+Lansing,United States,43
+Jersey City,United States,43
+Marquette,United States,43
+Westminster,United States,43
+Everett,United States,43
+Trois Rivieres,Canada,42
+Kitchener,Canada,42
+Windsor,Canada,42
+Zwolle,Netherlands,42
+Eindhoven,Netherlands,42
+Bloomsburg,United States,42
+Santa Clara,United States,42
+Chattanooga,United States,42
+Arlington Heights,United States,42
+Brentwood,United States,42
+Rupert,United States,42
+New Westminster,Canada,41
+Honolulu,United States,41
+Reston,United States,41
+Lubbock,United States,41
+Waukesha,United States,41
+Eagleville,United States,40
+Wooster,United States,40
+Warrensville Heights,United States,40
+Bedford,United States,40
+Norwalk,United States,40
+Stlouis,United States,40
+Frisco,United States,40
+Pensacola,United States,39
+Plymouth,United States,39
+Cedar Rapids,United States,39
+Spokane,United States,39
+Des Moines,United States,39
+Chemnitz,Germany,38
+Midland,United States,38
+Beltsville,United States,38
+West Nyack,United States,38
+Piscataway,United States,38
+Poughkeepsie,United States,38
+Rotterdam,Netherlands,37
+Roanoke,United States,37
+Bridgeport,United States,37
+Decatur,United States,37
+Franklin,United States,37
+Red Bank,United States,37
+Warren,United States,37
+Burlington,Canada,36
+Red Deer,Canada,36
+Galdo Degli Alburni,Italy,36
+Ontario,United States,36
+Sugar Land,United States,36
+Anchorage,United States,36
+Fayetteville,United States,36
+Kelowna,Canada,35
+Dublin,United States,35
+Middletown,United States,35
+Beaverton,United States,35
+Deerfield Beach,United States,35
+El Monte,United States,35
+Bensenville,United States,35
+Chicoutimi,Canada,34
+Kiel,Germany,34
+Bridgeville,United States,34
+Alexandria,United States,34
+Mobile,United States,34
+Gardena,United States,34
+Owensboro,United States,34
+Green Bay,United States,34
+Riverside,United States,34
+Queens,United States,34
+Norderstedt,Germany,33
+Champaign,United States,33
+Grand Island,United States,33
+Henderson,United States,33
+Bellevue,United States,33
+Boulder,United States,33
+Troy,United States,33
+Burnaby,Canada,32
+Würzburg,Germany,32
+Anniston,United States,32
+Evansville,United States,32
+Wilmington,United States,32
+Conway,United States,32
+Bloomfield,United States,32
+Richmond,Canada,31
+Rockford,United States,31
+Hampton,United States,31
+Farmingdale,United States,31
+Binghamton,United States,31
+Aurora,United States,31
+Princeton,United States,31
+Plano,United States,31
+Hays,United States,31
+Mira Loma,United States,31
+Saint Cloud,United States,31
+North Bay,Canada,30
+Newmarket,Canada,30
+Athens,United States,30
+West Roxbury,United States,30
+Waco,United States,30
+Portage,United States,30
+Bryan,United States,30
+Sioux City,United States,30
+Garfield Heights,United States,30
+Lock Haven,United States,30
+Malton,Canada,29
+Bismark,Germany,29
+Lakewood,United States,29
+Dalton,United States,29
+Sedalia,United States,29
+Sedona,United States,29
+Miami Springs,United States,29
+Wenatchee,United States,29
+Bronx,United States,29
+Armonk Village,United States,29
+Otho,United States,29
+Laurel,United States,29
+Quincy,United States,29
+Davenport,United States,29
+Hosmer,United States,29
+Brantford,Canada,28
+Guelph,Canada,28
+Pieve Di Zignago,Italy,28
+Northbrook,United States,28
+Spokane Valley,United States,28
+Brighton,United States,28
+St Catharines,Canada,27
+Campbell River,Canada,27
+Cottbus,Germany,27
+Halberstadt,Germany,27
+CERGY,France,27
+GUYANCOURT,France,27
+Morano,Italy,27
+Breda,Netherlands,27
+Zoetermeer,Netherlands,27
+NANTMEL,United Kingdom,27
+Scottsdale,United States,27
+Saint Paul,United States,27
+Whitestone,United States,27
+Branchburg,United States,27
+Owatonna,United States,27
+Rolla,United States,27
+Rancho Cordova,United States,27
+Springdale,United States,27
+Piedmont,United States,27
+Elkhart,United States,27
+Oberstaufen,Germany,26
+MARSEILLE,France,26
+Groningen,Netherlands,26
+Arnhem,Netherlands,26
+Beaumont,United States,26
+Framingham,United States,26
+Fremont,United States,26
+Belleville,United States,26
+Hanover,United States,26
+Toms River,United States,26
+Metairie,United States,26
+Sharon,United States,26
+Kenner,United States,26
+Vista,United States,26
+Rock Hill,United States,26
+Ventura,United States,26
+Wahiawa,United States,26
+Plattsburgh,United States,26
+North Vancouver,Canada,25
+Barrie,Canada,25
+Augsburg,Germany,25
+Griesbach,Germany,25
+Schermbeck,Germany,25
+MONTPELLIER,France,25
+Rijswijk,Netherlands,25
+Almere,Netherlands,25
+BYFIELD,United Kingdom,25
+COOKSHILL,United Kingdom,25
+Clarksburg,United States,25
+Bolton,United States,25
+Overton,United States,25
+Seymour,United States,25
+Longview,United States,25
+Sarasota,United States,25
+Asheville,United States,25
+Ft Lauderdale,United States,25
+Altoona,United States,25
+Aberdeen,United States,25
+Huntington,United States,25
+Sunnyvale,United States,25
+Marietta,United States,25
+Rockville,United States,25
+Stayner,Canada,24
+Kamloops,Canada,24
+Brampton,Canada,24
+London,United Kingdom,24
+LARG,United Kingdom,24
+EDITHMEAD,United Kingdom,24
+FULLETBY,United Kingdom,24
+Farmington Hills,United States,24
+Herndon,United States,24
+East Syracuse,United States,24
+Utica,United States,24
+Lawrence,United States,24
+Lake Geneva,United States,24
+Fort Wayne,United States,24
+Cottonwood,United States,24
+Cairo (Allen),United States,24
+Rocky Mount,United States,24
+West Allis,United States,24
+Loveland,United States,24
+El Toro,United States,24
+Harvey,United States,24
+Sturtevant,United States,24
+Oakville,Canada,23
+Surrey,Canada,23
+Belleville,Canada,23
+List,Germany,23
+Leipzig,Germany,23
+STRASBOURG,France,23
+SHAMBELLIE,United Kingdom,23
+Maple Shade,United States,23
+Clinton,United States,23
+Daytona Beach,United States,23
+Tacoma,United States,23
+Needham,United States,23
+Conyers,United States,23
+Waltham,United States,23
+Pine Bluff,United States,23
+Laredo,United States,23
+Biloxi,United States,23
+Idaho Falls,United States,23
+Eagan,United States,23
+Streetsville,Canada,22
+Rüdersdorf,Germany,22
+Almelo,Netherlands,22
+Heemskerk,Netherlands,22
+DOWNHEAD,United Kingdom,22
+LANGTON LONG BLANDFORD,United Kingdom,22
+Irving,United States,22
+Dothan,United States,22
+Pontiac,United States,22
+Appleton,United States,22
+Wisconsin Dells,United States,22
+Penns Neck,United States,22
+Bay City,United States,22
+Bend,United States,22
+Paducah,United States,22
+Ocean Drive Beach,United States,22
+Anderson,United States,22
+South Bend,United States,22
+Manhattan,United States,22
+Casper,United States,22
+Maryville,United States,22
+South Burlington,United States,22
+Virginia Beach,United States,22
+Palo Alto,United States,22
+Essex Junction,United States,22
+Woodland Hills,United States,22
+Del Rio,United States,22
+Dorchester,United States,22
+Sherbrooke,Canada,21
+Etobicoke,Canada,21
+Huntsville,Canada,21
+Grande Prairie,Canada,21
+Nomborn,Germany,21
+GUÉRET,France,21
+LYON,France,21
+AIX-EN-PROVENCE,France,21
+ST MINVER,United Kingdom,21
+MELVERLEY,United Kingdom,21
+ALDERLEY EDGE,United Kingdom,21
+Carrollton,United States,21
+Chantilly,United States,21
+Chickasha,United States,21
+Glendale,United States,21
+Johnson City,United States,21
+Redwood City,United States,21
+Windsor,United States,21
+Coos Bay,United States,21
+Hornell,United States,21
+Millington,United States,21
+Petersburg,United States,21
+Saint Joseph,United States,21
+Stamford,United States,21
+Hackensack,United States,21
+Chalmette,United States,21
+Brewster,United States,21
+Torrance,United States,21
+Molt,United States,21
+Cochrane,Canada,20
+Trail,Canada,20
+Waldenburg,Germany,20
+Ingolstadt,Germany,20
+Dortmund,Germany,20
+Alfhausen,Germany,20
+Aschaffenburg,Germany,20
+Fimiani,Italy,20
+Gironico,Italy,20
+Castricum,Netherlands,20
+Halsteren,Netherlands,20
+Nieuwegein,Netherlands,20
+KILVERSTONE,United Kingdom,20
+LLANDDOGED,United Kingdom,20
+Staten Island,United States,20
+Three Rivers,United States,20
+Monroe,United States,20
+Angola,United States,20
+Albion,United States,20
+Trenton,United States,20
+Edinburg,United States,20
+Spider Lake,United States,20
+El Cajon,United States,20
+Pomona,United States,20
+Waimea,United States,20
+Larkspur,United States,20
+Manassas,United States,20
+Tualatin,United States,20
+Ardmore,United States,20
+Kokomo,United States,20
+Xenia,United States,20
+Fair Oaks,United States,20
+Buffalo Grove,United States,20
+Dearborn,United States,20
+Falls Church,United States,20
+Wisconsin Rapids,United States,20
+Morehead,United States,20
+East Orange,United States,20
+Vernon,Canada,19
+Fort Mcmurray,Canada,19
+Campbellford,Canada,19
+Potsdam,Germany,19
+Wiesbaden,Germany,19
+Bollendorf,Germany,19
+Berlin Prenzlauer Berg,Germany,19
+VILLENEUVE-D'ASCQ,France,19
+Sologno,Italy,19
+Enschede,Netherlands,19
+LITTLE TORBOLL,United Kingdom,19
+LONGHAM,United Kingdom,19
+Walla Walla,United States,19
+Tukwila,United States,19
+Enid,United States,19
+Maryland Heights,United States,19
+Weehawken,United States,19
+North Miami,United States,19
+East Hartford,United States,19
+Carlsbad,United States,19
+Hollywood,United States,19
+North Dade,United States,19
+Crystal Lake,United States,19
+Warrensburg,United States,19
+Elizabethtown,United States,19
+Gibsonia,United States,19
+Chesterton,United States,19
+Nicholasville,United States,19
+Dubuque,United States,19
+Danville,United States,19
+St Marys,United States,19
+Benndale,United States,19
+Kensington,Canada,18
+Sidney,Canada,18
+Lethbridge,Canada,18
+Fond Du Lac,Canada,18
+Merzig,Germany,18
+Bremen Schönebeck,Germany,18
+Bernburg,Germany,18
+RENNES,France,18
+Orgosolo,Italy,18
+Passalacqua,Italy,18
+Prasco,Italy,18
+Pescara,Italy,18
+Gouda,Netherlands,18
+Alkmaar,Netherlands,18
+Oldenzaal,Netherlands,18
+HAMPTON LUCY,United Kingdom,18
+BARNWELL ST ANDREW,United Kingdom,18
+THORNSETT,United Kingdom,18
+PLUMPTON HEAD,United Kingdom,18
+HELHOUGHTON,United Kingdom,18
+ASTON,United Kingdom,18
+MILL OF FORTUNE,United Kingdom,18
+ODDINGTON,United Kingdom,18
+THOMSHILL,United Kingdom,18
+NEWBIGGING,United Kingdom,18
+GRINDLE,United Kingdom,18
+LOOSLEY ROW,United Kingdom,18
+Lyndhurst,United States,18
+Centennial,United States,18
+Goshen,United States,18
+Elkton,United States,18
+Acton,United States,18
+Colorado Springs,United States,18
+Plymouth Meeting,United States,18
+Wadena,United States,18
+Tempe,United States,18
+Monroe City,United States,18
+Rapid City,United States,18
+Blairsville,United States,18
+Tigard,United States,18
+Lanham,United States,18
+Brattleboro,United States,18
+Moore,United States,18
+Burlington Junction,United States,18
+Antioch,United States,18
+Mayfield Heights,United States,18
+East Hampton,United States,18
+Vancouver,United States,18
+Olympia,United States,18
+Lyerly,United States,18
+Medway,United States,18
+Waterdown,Canada,17
+Burgthann,Germany,17
+Cochem,Germany,17
+Eisenhüttenstadt,Germany,17
+Baden-Baden,Germany,17
+Dormagen Dormagen-Mitte,Germany,17
+Haibach,Germany,17
+Willingshausen,Germany,17
+Darmstadt,Germany,17
+Stuttgart Feuerbach,Germany,17
+NICE,France,17
+FRÉJUS,France,17
+TORCY,France,17
+VIERZON,France,17
+PONTOISE,France,17
+Borsea,Italy,17
+Castello Inici,Italy,17
+Orti,Italy,17
+Valle Sauglio,Italy,17
+Dronten,Netherlands,17
+Nijverdal,Netherlands,17
+s-Hertogenbosch,Netherlands,17
+Nieuw Vennep,Netherlands,17
+NYTON,United Kingdom,17
+CHISELDON,United Kingdom,17
+FREISTON,United Kingdom,17
+KENYON,United Kingdom,17
+BRAMPTON BRYAN,United Kingdom,17
+SELATTYN,United Kingdom,17
+ODSTOCK,United Kingdom,17
+BLACKBRAES,United Kingdom,17
+KINGSAND,United Kingdom,17
+WERVIN,United Kingdom,17
+ROSEWELL,United Kingdom,17
+Burnsville,United States,17
+Shelton,United States,17
+Annapolis,United States,17
+Frederick,United States,17
+Horatio,United States,17
+Jonesville,United States,17
+Harvester,United States,17
+College Park,United States,17
+Carsonville,United States,17
+Lancaster,United States,17
+Port Jefferson Stati,United States,17
+Chester,United States,17
+Sioux Falls,United States,17
+Dulles,United States,17
+Augusta,United States,17
+Whitehouse,United States,17
+Durham,United States,17
+Kittanning,United States,17
+Maitland,United States,17
+Glendive,United States,17
+New Carlisle,United States,17
+Juda,United States,17
+BARWIDGEE,Australia,16
+Cornwall,Canada,16
+Brockville,Canada,16
+Kanata,Canada,16
+Richmond Hill,Canada,16
+Whitefish,Canada,16
+Warngau,Germany,16
+Niesky,Germany,16
+Lüdenscheid Freisenberg,Germany,16
+Ebermannstadt,Germany,16
+Brunsbüttel,Germany,16
+Lütz,Germany,16
+Hohenkammer,Germany,16
+Schonungen,Germany,16
+Aschenhausen,Germany,16
+Birkenwerder,Germany,16
+Altenmoor,Germany,16
+CANNES,France,16
+LOOS,France,16
+MARIGNANE,France,16
+MONTAUBAN,France,16
+DOUAI,France,16
+L'HAŸ-LES-ROSES,France,16
+Piraino,Italy,16
+Castelnuovo Di San Pio Delle Camere,Italy,16
+Pedescala,Italy,16
+Finale Ligure,Italy,16
+Teglia,Italy,16
+Epinel,Italy,16
+Deventer,Netherlands,16
+Heiloo,Netherlands,16
+LLANDDANIEL FAB,United Kingdom,16
+BEELEY,United Kingdom,16
+BROUGHTON,United Kingdom,16
+HOSE,United Kingdom,16
+Newton,United Kingdom,16
+TELSCOMBE,United Kingdom,16
+CORRY,United Kingdom,16
+Overton,United Kingdom,16
+NORTON MALREWARD,United Kingdom,16
+WHITEHILL,United Kingdom,16
+Gast Glacier Park,United States,16
+Plains,United States,16
+Cliffside Park,United States,16
+Mineola,United States,16
+Joplin,United States,16
+Lombard,United States,16
+Palmdale,United States,16
+Brookfield,United States,16
+Saint Peter,United States,16
+Clanton,United States,16
+Fairfax,United States,16
+Craig,United States,16
+Abilene,United States,16
+Olpe,United States,16
+Georgetown,United States,16
+Robinson,United States,16
+Downey,United States,16
+Freehold,United States,16
+Sherman Oaks,United States,16
+Fitchburg,United States,16
+Hutchinson,United States,16
+Helen,United States,16
+East Point,United States,16
+Machias,United States,16
+Twin Falls,United States,16
+Berlin,United States,16
+Ocean Park,United States,16
+West Valley City,United States,16
+Scranton,United States,16
+Lewisburg,United States,16
+Corona,United States,16
+Sterling,United States,16
+Gulfport,United States,16
+York,United States,16
+Marion,United States,16
+Leominster,United States,16
+Norwood,United States,16
+Fries,United States,16
+San Ramon,United States,16
+Bessemer,United States,16
+Burnet,United States,16
+Hamilton,United States,16
+Nisswa,United States,16
+SEVILLE,Australia,15
+REDWOOD,Australia,15
+KUNDA PARK,Australia,15
+KINGSTON,Canada,15
+Niagara Falls,Canada,15
+Vegreville,Canada,15
+Grassland,Canada,15
+Kentville,Canada,15
+Gibsons,Canada,15
+Katzenbach,Germany,15
+Bayreuth,Germany,15
+Bonn,Germany,15
+Schefflenz,Germany,15
+Horbach,Germany,15
+Oberkotzau,Germany,15
+Dillingen,Germany,15
+DUNKERQUE,France,15
+LA PLAINE-SAINT-DENIS,France,15
+LILLE,France,15
+ANGERS,France,15
+SAINTE-MARIE,France,15
+Castano Primo,Italy,15
+Ripatransone,Italy,15
+Vaglia,Italy,15
+Castelnuovo Dei Sabbioni,Italy,15
+Amstelveen,Netherlands,15
+Espel,Netherlands,15
+Haarlem,Netherlands,15
+CHURCHTOWN,United Kingdom,15
+WOKEFIELD PARK,United Kingdom,15
+GILLINGHAM,United Kingdom,15
+EASTRY,United Kingdom,15
+EDALE,United Kingdom,15
+LOWER PENN,United Kingdom,15
+BARTON-LE-STREET,United Kingdom,15
+TWITCHEN,United Kingdom,15
+CLAWTHORPE,United Kingdom,15
+WHINNYFOLD,United Kingdom,15
+TOTTERNHOE,United Kingdom,15
+AISLABY,United Kingdom,15
+NETHERHAMPTON,United Kingdom,15
+HUTHWAITE,United Kingdom,15
+BALGAVIES,United Kingdom,15
+CRAIGDALLIE,United Kingdom,15
+EVERLEIGH,United Kingdom,15
+MARSTON ST LAWRENCE,United Kingdom,15
+HIGH KILBURN,United Kingdom,15
+Walnut Creek,United States,15
+Madisonville,United States,15
+Allentown,United States,15
+Readlyn,United States,15
+Northglenn,United States,15
+Council Bluffs,United States,15
+Roosevelt,United States,15
+Pleasantville,United States,15
+Machesney Park,United States,15
+Wallingford,United States,15
+Santa Ana,United States,15
+Bristol,United States,15
+High Point,United States,15
+Fredericksburg,United States,15
+Tremont,United States,15
+Pascagoula,United States,15
+Burr Ridge,United States,15
+Marshalltown,United States,15
+Greenfield,United States,15
+Douglasville,United States,15
+Clute,United States,15
+Parksley,United States,15
+Soso,United States,15
+Miramar,United States,15
+Oak Park,United States,15
+Centralia,United States,15
+Matthews,United States,15
+San Angelo,United States,15
+Osceola,United States,15
+New Bedford,United States,15
+Doral,United States,15
+Monticello,United States,15
+Johnstown,United States,15
+Helena,United States,15
+Mc Kinney,United States,15
+Lake City,United States,15
+Milledgeville,United States,15
+Collinsville,United States,15
+San Rafael,United States,15
+Eunice,United States,15
+Royce Cityt,United States,15
+Virgie,United States,15
+Elton,United States,15
+Laurel Hill,United States,15
+West Alexander,United States,15
+HASTINGS POINT,Australia,14
+THE VINES,Australia,14
+St Jerome,Canada,14
+Contrecoeur,Canada,14
+South Pickering,Canada,14
+Brock,Canada,14
+Wolfe Island,Canada,14
+St Laurent,Canada,14
+Staffelstein,Germany,14
+Niederwallmenach,Germany,14
+Schauren,Germany,14
+Plauen,Germany,14
+Kirchensittenbach,Germany,14
+Grömbach,Germany,14
+Lüdenscheid Brügge,Germany,14
+Lahn,Germany,14
+Altenmarkt,Germany,14
+Neuweiler,Germany,14
+Heidenau,Germany,14
+COLOMIERS,France,14
+THIONVILLE,France,14
+YERRES,France,14
+MENTON,France,14
+Corigliano,Italy,14
+Ciminna,Italy,14
+Trino Vercellese,Italy,14
+San Marzano Oliveto,Italy,14
+Bellombra,Italy,14
+Chia,Italy,14
+Hengelo,Netherlands,14
+Zwijndrecht,Netherlands,14
+Amersfoort,Netherlands,14
+Zierikzee,Netherlands,14
+Zaandam,Netherlands,14
+Zutphen,Netherlands,14
+Abcoude,Netherlands,14
+Delft,Netherlands,14
+LLANDDEWI RHYDDERCH,United Kingdom,14
+ANGMERING,United Kingdom,14
+TERRINGTON,United Kingdom,14
+CHALTON,United Kingdom,14
+REDNAL,United Kingdom,14
+CROSSWELL,United Kingdom,14
+INNELLAN,United Kingdom,14
+ALLT NA H-AIRBHE,United Kingdom,14
+WEST BERGHOLT,United Kingdom,14
+ST DENNIS,United Kingdom,14
+BRIDESTOWE,United Kingdom,14
+THURNING,United Kingdom,14
+HERSHAM,United Kingdom,14
+White Plains,United States,14
+Overland Park,United States,14
+Wilton,United States,14
+Long Island City,United States,14
+Fairbanks,United States,14
+Kennewick,United States,14
+Ashland,United States,14
+Schaumburg,United States,14
+Olney,United States,14
+Shelby,United States,14
+Marlboro,United States,14
+Downers Grove,United States,14
+Silver Creek,United States,14
+Morrisville,United States,14
+Freeport,United States,14
+Teterboro,United States,14
+Murfreesboro,United States,14
+Harahan,United States,14
+La Plata,United States,14
+Newnan,United States,14
+Bethesda,United States,14
+Fairborn,United States,14
+Santa Barbara,United States,14
+West Los Angeles,United States,14
+La Harpe,United States,14
+Dagsboro,United States,14
+Trade Lake,United States,14
+Easton,United States,14
+Hawkinsville,United States,14
+Cheyenne,United States,14
+Monte Rio,United States,14
+Sumter,United States,14
+Waxahachie,United States,14
+Hamilton Square,United States,14
+St Peters,United States,14
+Odessa,United States,14
+Lilburn,United States,14
+BARHAM,Australia,13
+NERRING,Australia,13
+Thunder Bay,Canada,13
+Langley,Canada,13
+Lachute,Canada,13
+Hauterive,Canada,13
+Quesnel,Canada,13
+Woodbridge,Canada,13
+Oberthulba,Germany,13
+Magdeburg,Germany,13
+Kirburg,Germany,13
+Bad Rappenau,Germany,13
+Hohenwarth,Germany,13
+Weiden,Germany,13
+Käshofen,Germany,13
+Ostheim,Germany,13
+Mömlingen,Germany,13
+Coburg,Germany,13
+Hof,Germany,13
+Halle,Germany,13
+Gevenich,Germany,13
+Friedland,Germany,13
+Weidenbach,Germany,13
+Bebensee,Germany,13
+Bremen Schwachhausen,Germany,13
+Dietersheim,Germany,13
+Osterspai,Germany,13
+GRENOBLE,France,13
+VERTOU,France,13
+RUEIL-MALMAISON,France,13
+BOULOGNE-SUR-MER,France,13
+PÉRIGUEUX,France,13
+CLICHY-SOUS-BOIS,France,13
+CREIL,France,13
+Aglietti,Italy,13
+Roccapelago,Italy,13
+Manocalzati,Italy,13
+Taibon Agordino,Italy,13
+Colonna Stazione,Italy,13
+Epe,Netherlands,13
+Wageningen,Netherlands,13
+Coevorden,Netherlands,13
+Ede,Netherlands,13
+Maasbommel,Netherlands,13
+Bussum,Netherlands,13
+DENNYLOANHEAD,United Kingdom,13
+BREDON,United Kingdom,13
+RHYDYMWYN,United Kingdom,13
+GREAT PONTON,United Kingdom,13
+ITCHEN ABBAS,United Kingdom,13
+LITTLE BARNINGHAM,United Kingdom,13
+MIDDLEZOY,United Kingdom,13
+PLAS ISAF,United Kingdom,13
+ENOCHDU,United Kingdom,13
+TRESCOWE,United Kingdom,13
+BROMSASH,United Kingdom,13
+SHAVINGTON,United Kingdom,13
+Stanley,United Kingdom,13
+CONSTANTINE,United Kingdom,13
+ROSEBUSH,United Kingdom,13
+GIPPING,United Kingdom,13
+HARRINGTON,United Kingdom,13
+BREOCH,United Kingdom,13
+COMPTON PAUNCEFOOT,United Kingdom,13
+WOODCHESTER,United Kingdom,13
+BOXBUSH,United Kingdom,13
+CROSS LANE HEAD,United Kingdom,13
+ATCHAM,United Kingdom,13
+KIRKHILL,United Kingdom,13
+MANATON,United Kingdom,13
+HIGHLAWS,United Kingdom,13
+MUTTERTON,United Kingdom,13
+LLANISHEN,United Kingdom,13
+WITTON GILBERT,United Kingdom,13
+GLAN-CONWY,United Kingdom,13
+BLAENWAUN,United Kingdom,13
+BAWDRIP,United Kingdom,13
+STAINBY,United Kingdom,13
+THORNTON-LE-MOORS,United Kingdom,13
+ALTHORPE,United Kingdom,13
+HIGH LEVEN,United Kingdom,13
+Bellflower,United States,13
+Garden Grove,United States,13
+Oxford,United States,13
+Newman,United States,13
+Texarkana,United States,13
+Midvale,United States,13
+Medina,United States,13
+Independence,United States,13
+North Las Vegas,United States,13
+Santa Fe Springs,United States,13
+Corydon,United States,13
+Tomball,United States,13
+San Bernardino,United States,13
+Edgerton,United States,13
+North Hollywood,United States,13
+Port St Joe,United States,13
+Cypress Lake,United States,13
+Charles Town,United States,13
+Forsyth,United States,13
+Westborough,United States,13
+Gaithersburg,United States,13
+Ames,United States,13
+Mc Lean,United States,13
+Apex,United States,13
+Gap,United States,13
+Riverton,United States,13
+Strongsville,United States,13
+Silverdale,United States,13
+Juneau,United States,13
+Lovell,United States,13
+Truxton,United States,13
+Ridgeway,United States,13
+Lewiston,United States,13
+Cheektowaga,United States,13
+Victoria,United States,13
+Menasha,United States,13
+Bastrop,United States,13
+Clarksville,United States,13
+Mount Pleasant Mills,United States,13
+Bloomville,United States,13
+Alloy,United States,13
+Mililani,United States,13
+Santa Monica,United States,13
+Hampton Bays,United States,13
+Girard,United States,13
+Golden,United States,13
+Morgantown,United States,13
+Oswego,United States,13
+Bear River City,United States,13
+Adams,United States,13
+State College,United States,13
+Ashburn,United States,13
+Moreno Valley,United States,13
+Orange Beach,United States,13
+Hershey,United States,13
+Alpharetta,United States,13
+Warner Robins,United States,13
+NUNGURNER,Australia,12
+KANIMBLA,Australia,12
+GLENISLA,Australia,12
+NORTH MACLEAN,Australia,12
+Medicine Hat,Canada,12
+Peterborough,Canada,12
+Riviere Du Loup,Canada,12
+Prince George,Canada,12
+Fox Creek,Canada,12
+St Germain De Grantham,Canada,12
+Lutselk'e,Canada,12
+White Rock,Canada,12
+St Paul,Canada,12
+Lipporn,Germany,12
+Passau,Germany,12
+Trebbin,Germany,12
+Kaufering,Germany,12
+Hehlen,Germany,12
+Rantum,Germany,12
+Stoltebüll,Germany,12
+Düsseldorf Niederkassel,Germany,12
+Remscheid Innen,Germany,12
+Weimar,Germany,12
+Reutlingen Burgholz,Germany,12
+Pliening,Germany,12
+Kiedrich,Germany,12
+Kranzberg,Germany,12
+Fischbachau,Germany,12
+Schulzendorf,Germany,12
+Holtsee,Germany,12
+Königswinter,Germany,12
+Kausen,Germany,12
+DEUIL-LA-BARRE,France,12
+LE HAVRE,France,12
+VILLENEUVE-SUR-LOT,France,12
+TREMBLAY-EN-FRANCE,France,12
+LE MÉE-SUR-SEINE,France,12
+NOUMÉA,France,12
+SÈTE,France,12
+SAINT-BRIEUC,France,12
+San Michele Cavana,Italy,12
+Buonabitacolo,Italy,12
+Borgo A Mozzano,Italy,12
+Robegano,Italy,12
+Pozzol Groppo,Italy,12
+Leeuwarden,Netherlands,12
+Joure,Netherlands,12
+Dordrecht,Netherlands,12
+Beek,Netherlands,12
+Lienden,Netherlands,12
+Wateringen,Netherlands,12
+Hulst,Netherlands,12
+HOLLAND-ON-SEA,United Kingdom,12
+KINLET,United Kingdom,12
+BRYNGWYN,United Kingdom,12
+FERNIE,United Kingdom,12
+FARTHINGLOE,United Kingdom,12
+WOODMANCOTE,United Kingdom,12
+NORTHWOOD,United Kingdom,12
+BURTON,United Kingdom,12
+KINTRADWELL,United Kingdom,12
+ITTON,United Kingdom,12
+SPINDLESTONE,United Kingdom,12
+SUNDERLAND,United Kingdom,12
+SUTTON,United Kingdom,12
+REINIGEADAL,United Kingdom,12
+CALVER HILL,United Kingdom,12
+PORT SONACHAN,United Kingdom,12
+FIELD HEAD,United Kingdom,12
+PENGORFFWYSFA,United Kingdom,12
+FELKINGTON,United Kingdom,12
+REDISHAM,United Kingdom,12
+INWORTH,United Kingdom,12
+Walnut,United States,12
+Meriden,United States,12
+Goodland,United States,12
+Greenwood,United States,12
+Kingman,United States,12
+Senatobia,United States,12
+Walnut Grove,United States,12
+Fort Walton Beach,United States,12
+Mechanic Falls,United States,12
+Grand Prairie,United States,12
+Austell,United States,12
+Baldwin Park,United States,12
+North Little Rock,United States,12
+Cary,United States,12
+Marshall,United States,12
+Mercerville,United States,12
+Macon,United States,12
+Cecelia,United States,12
+Littleton,United States,12
+North Greenbush,United States,12
+Griffin,United States,12
+Moorestown,United States,12
+Yukon,United States,12
+Scottsbluff,United States,12
+Woodford,United States,12
+Ethel,United States,12
+Cleburne,United States,12
+Uniondale,United States,12
+Yakima,United States,12
+Happy Camp,United States,12
+Monterey,United States,12
+Winona,United States,12
+Bluefield,United States,12
+Northampton,United States,12
+Marysville,United States,12
+Plaquemine,United States,12
+New Ulm,United States,12
+New Stanton,United States,12
+Battle Creek,United States,12
+Lawrenceville,United States,12
+Bay Minette,United States,12
+Prosperity,United States,12
+Adairsville,United States,12
+La Crosse,United States,12
+Arkansas City,United States,12
+Missouri Valley,United States,12
+Denton,United States,12
+Mclean,United States,12
+Kentwood,United States,12
+Christine,United States,12
+South China,United States,12
+Port Ludlow,United States,12
+Roger Mills,United States,12
+Gig Harbor,United States,12
+Muncie,United States,12
+Winnsboro,United States,12
+Kerrville,United States,12
+Olivet,United States,12
+Port Protection,United States,12
+Abbeville,United States,12
+Fort Atkinson,United States,12
+Watertown,United States,12
+Moravia,United States,12
+CAPE HILLSBOROUGH,Australia,11
+BUSSELTON,Australia,11
+DHURRINGILE,Australia,11
+WAANYARRA,Australia,11
+Belmont,Australia,11
+Gordon,Australia,11
+KOOROONGARRA,Australia,11
+COWES,Australia,11
+Bonaventure,Canada,11
+Avonmore,Canada,11
+Nanaimo,Canada,11
+West Vancouver,Canada,11
+Orangeville,Canada,11
+Elliot Lake,Canada,11
+Provost,Canada,11
+Riviere Heva,Canada,11
+Meadow Lake,Canada,11
+Val Brillant,Canada,11
+Tilbury,Canada,11
+Kitscoty,Canada,11
+Neuendettelsau,Germany,11
+Düsseldorf Lohausen,Germany,11
+Berlin Britz,Germany,11
+Spabrücken,Germany,11
+Jena,Germany,11
+Taufkirchen,Germany,11
+Aschheim,Germany,11
+Essen,Germany,11
+Burgrieden,Germany,11
+Kempten,Germany,11
+Arnsdorf,Germany,11
+Nußloch,Germany,11
+Erzhausen,Germany,11
+Erfurt,Germany,11
+Dannewerk,Germany,11
+Viersen Hagenbroich,Germany,11
+Lindenau,Germany,11
+Steineroth,Germany,11
+Landsberg,Germany,11
+Lauperath,Germany,11
+Petershausen,Germany,11
+Hermsdorf,Germany,11
+Schönau,Germany,11
+Loreleystadt Sankt Goarshausen,Germany,11
+Miesbach,Germany,11
+Scheinfeld,Germany,11
+Remchingen,Germany,11
+Dettingen,Germany,11
+Kaltenkirchen,Germany,11
+ANNEMASSE,France,11
+GAGNY,France,11
+CENON,France,11
+MANOSQUE,France,11
+ERMONT,France,11
+SCHILTIGHEIM,France,11
+NOGENT-SUR-MARNE,France,11
+VILLEFRANCHE-SUR-SAÔNE,France,11
+LUNEL,France,11
+Roverdicre,Italy,11
+Sant'Elia,Italy,11
+Perugia,Italy,11
+Piano Del Conte,Italy,11
+Castellazzo Novarese,Italy,11
+Macchia Valfortore,Italy,11
+Spianate,Italy,11
+Den Helder,Netherlands,11
+Gorssel,Netherlands,11
+Etten-Leur,Netherlands,11
+Sassenheim,Netherlands,11
+Eemnes,Netherlands,11
+Boxtel,Netherlands,11
+Purmerend,Netherlands,11
+Uithoorn,Netherlands,11
+s-Gravenpolder,Netherlands,11
+Opheusden,Netherlands,11
+Erm,Netherlands,11
+CWMCARN,United Kingdom,11
+HOWE,United Kingdom,11
+ALVECOTE,United Kingdom,11
+WROTHAM,United Kingdom,11
+Dalton,United Kingdom,11
+Middleton,United Kingdom,11
+EAST WALTON,United Kingdom,11
+LANGTHWAITE,United Kingdom,11
+PORTHMEOR,United Kingdom,11
+AUCH,United Kingdom,11
+DOVASTON,United Kingdom,11
+FELMINGHAM,United Kingdom,11
+FULFORD,United Kingdom,11
+NEWSHOLME,United Kingdom,11
+OGMORE,United Kingdom,11
+THRIGBY,United Kingdom,11
+SPEYVIEW,United Kingdom,11
+DELAVORAR,United Kingdom,11
+CAMELSDALE,United Kingdom,11
+WESTON-ON-THE-GREEN,United Kingdom,11
+POTARCH,United Kingdom,11
+LENTON,United Kingdom,11
+INGRAVE,United Kingdom,11
+HOFF,United Kingdom,11
+COMBE ST NICHOLAS,United Kingdom,11
+BALVRAID,United Kingdom,11
+TREGELE,United Kingdom,11
+TORBEG,United Kingdom,11
+SCARBOROUGH,United Kingdom,11
+BARNBARROCH,United Kingdom,11
+HARDWICK,United Kingdom,11
+Dallas Center,United States,11
+Stamps,United States,11
+French Settlement,United States,11
+Quartzsite,United States,11
+San Mateo,United States,11
+Center,United States,11
+Melbourne,United States,11
+Ellicott City,United States,11
+Santa Fe,United States,11
+Marion Township,United States,11
+Lynnwood,United States,11
+Roswell,United States,11
+Temple,United States,11
+Porter,United States,11
+La Porte,United States,11
+Germantown,United States,11
+Conroe,United States,11
+Mount Vernon,United States,11
+Knightdale,United States,11
+Lake Village,United States,11
+Jefferson,United States,11
+Morton,United States,11
+Ann Arbor,United States,11
+Holland,United States,11
+Abrams,United States,11
+Aloha,United States,11
+Elk Grove Village,United States,11
+Bucyrus,United States,11
+Trumbull,United States,11
+Auburn,United States,11
+Madrid,United States,11
+Eau Claire,United States,11
+Bacheshall,United States,11
+Sango,United States,11
+Longmont,United States,11
+Hartford City,United States,11
+Stephenville,United States,11
+Goldsboro,United States,11
+Herbertsville,United States,11
+Heber City,United States,11
+Savage,United States,11
+Evanston,United States,11
+Wilson,United States,11
+Muscoy,United States,11
+Wellston,United States,11
+Notasulga,United States,11
+Sylmar,United States,11
+Leeds,United States,11
+Criders Corners,United States,11
+Steamboat Springs,United States,11
+Reseda,United States,11
+Sand Springs,United States,11
+Leesburg,United States,11
+N. Miami,United States,11
+Countryside,United States,11
+Crowley Lake,United States,11
+Polo,United States,11
+Orange City,United States,11
+La Mesa,United States,11
+Eagle Pass,United States,11
+Grove City,United States,11
+Viking,United States,11
+Tifton,United States,11
+Wheatland,United States,11
+Brookville,United States,11
+Ulysses,United States,11
+Kilgore,United States,11
+Jonesboro,United States,11
+Alamito,United States,11
+De Bary,United States,11
+MOUNT BUDD,Australia,10
+FYANS CREEK,Australia,10
+WILLIAMSTOWN,Australia,10
+YAMBUK,Australia,10
+CRYSTAL BROOK,Australia,10
+SOUTH DUDLEY,Australia,10
+PAYNEDALE,Australia,10
+MARLO MERRICAN,Australia,10
+DUVERNEY,Australia,10
+KWEDA,Australia,10
+KIAMA DOWNS,Australia,10
+MAYFIELD,Australia,10
+MARYS MOUNT,Australia,10
+SANDRINGHAM,Australia,10
+ILUKA,Australia,10
+MINGAY,Australia,10
+MUNIGANEEN,Australia,10
+MONOMEITH,Australia,10
+NOWERGUP,Australia,10
+ANTHONY,Australia,10
+Cranbrook,Canada,10
+Ste Anne Des Monts,Canada,10
+Houston,Canada,10
+Sudbury,Canada,10
+Port Elgin,Canada,10
+Chilliwack,Canada,10
+Rosedale,Canada,10
+Terrace,Canada,10
+Merrickville,Canada,10
+Lloydminster,Canada,10
+Chalk River,Canada,10
+Oliver,Canada,10
+St Odilon De Cranbourne,Canada,10
+Chatham,Canada,10
+Hope,Canada,10
+Halifax,Canada,10
+Harrow,Canada,10
+Warren,Canada,10
+Hausham,Germany,10
+Niederstotzingen,Germany,10
+Hamburg Harvestehude,Germany,10
+Henstedt-Ulzburg,Germany,10
+Karlsruhe Daxlanden,Germany,10
+Grönenbach,Germany,10
+Golßen,Germany,10
+Gera,Germany,10
+Niederschlettenbach,Germany,10
+Tarmstedt,Germany,10
+Zwota,Germany,10
+Unterföhring,Germany,10
+Egmating,Germany,10
+Dallgow,Germany,10
+Wuppertal Elberfeld,Germany,10
+Eichendorf,Germany,10
+Basedow,Germany,10
+Marktredwitz,Germany,10
+Teistungen,Germany,10
+Renningen,Germany,10
+Fürth,Germany,10
+Schrozberg,Germany,10
+Drage,Germany,10
+Gütersloh Innenstadt,Germany,10
+Geltendorf,Germany,10
+Warburg,Germany,10
+Düsseldorf Flehe,Germany,10
+Stuttgart Süd,Germany,10
+Lichte,Germany,10
+Wangerooge,Germany,10
+Lütjenwestedt,Germany,10
+Bad Harzburg,Germany,10
+Stockstadt,Germany,10
+Hamburg Lohbrügge,Germany,10
+Stuttgart Rohr,Germany,10
+Uhldingen-Mühlhofen,Germany,10
+Busenberg,Germany,10
+SAINT-BENOÎT,France,10
+POITIERS,France,10
+AURILLAC,France,10
+MAGAGNOSC,France,10
+SEDAN,France,10
+LE KREMLIN-BICÊTRE,France,10
+MEYZIEU,France,10
+BORDEAUX,France,10
+AJACCIO,France,10
+Genova,Italy,10
+Ribera,Italy,10
+Sant'Agabio,Italy,10
+Corte De' Frati,Italy,10
+Moncenisio,Italy,10
+Calvello,Italy,10
+Villa San Martino,Italy,10
+Lipomo,Italy,10
+Beverwijk,Netherlands,10
+Leiden,Netherlands,10
+EVERSHOT,United Kingdom,10
+HILLIARD'S CROSS,United Kingdom,10
+BOTTESFORD,United Kingdom,10
+WEST CAIRNCAKE,United Kingdom,10
+HAMBLETON,United Kingdom,10
+QUADRING,United Kingdom,10
+ABDON,United Kingdom,10
+COSTON,United Kingdom,10
+Clifton,United Kingdom,10
+FAWLEY,United Kingdom,10
+CAMB,United Kingdom,10
+WHITSBURY,United Kingdom,10
+STILLINGFLEET,United Kingdom,10
+BLAIRHULLICHAN,United Kingdom,10
+HILL HEAD,United Kingdom,10
+TWYFORD,United Kingdom,10
+BUSH BANK,United Kingdom,10
+GRANGE,United Kingdom,10
+EAST BUDLEIGH,United Kingdom,10
+INVERGORDON,United Kingdom,10
+KNOCK OF AUCHNAHANNET,United Kingdom,10
+WOODTOWN,United Kingdom,10
+ASHBY DE LA ZOUCH,United Kingdom,10
+NEWBY BRIDGE,United Kingdom,10
+HOWLE,United Kingdom,10
+YATE,United Kingdom,10
+KINGSWOOD,United Kingdom,10
+HERMON,United Kingdom,10
+ARMADALE,United Kingdom,10
+SACKERS GREEN,United Kingdom,10
+CONISBY,United Kingdom,10
+ST HILARY,United Kingdom,10
+OVER COMPTON,United Kingdom,10
+REGABY,United Kingdom,10
+RIVER BANK,United Kingdom,10
+CLYRO,United Kingdom,10
+MILTON REGIS,United Kingdom,10
+NEWBRIDGE,United Kingdom,10
+KIRKNEWTON,United Kingdom,10
+ARCHDEACON NEWTON,United Kingdom,10
+Henry,United States,10
+Atlantic City,United States,10
+Chula Vista,United States,10
+River Edge,United States,10
+Midlands,United States,10
+Asheboro,United States,10
+Warminster,United States,10
+Los Altos,United States,10
+Winner,United States,10
+Sylvester,United States,10
+Arroyo Grande,United States,10
+Richton,United States,10
+Emporia,United States,10
+Fruitland,United States,10
+Chappaqua,United States,10
+Fullerton,United States,10
+Fort Washington,United States,10
+Glen Allen,United States,10
+Cypress Springs,United States,10
+Taos,United States,10
+La Grange,United States,10
+Moss Point,United States,10
+Nora Springs,United States,10
+Hughes,United States,10
+Hermosa Beach,United States,10
+Boardman,United States,10
+Okeechobee,United States,10
+Rose Hill,United States,10
+Lebanon,United States,10
+Paola,United States,10
+O Fallon,United States,10
+Anton,United States,10
+Port Angeles,United States,10
+Zoneton,United States,10
+Belen,United States,10
+Foxborough,United States,10
+Bordentown,United States,10
+Starkville,United States,10
+Algonquin,United States,10
+Horsham,United States,10
+South Ozone Park,United States,10
+White River Junction,United States,10
+Beaver,United States,10
+Plainfield,United States,10
+Mcallen,United States,10
+Myra,United States,10
+Tarpon Springs,United States,10
+Monsey,United States,10
+Rochelle,United States,10
+Roselle,United States,10
+Falmouth,United States,10
+Spanish Fort,United States,10
+Bensalem,United States,10
+Chignik,United States,10
+Elwood,United States,10
+Washburn,United States,10
+Lexington Park,United States,10
+Mahanoy City,United States,10
+Calhan,United States,10
+Kirkwood,United States,10
+Meridian,United States,10
+Kenton,United States,10
+Lead Hill,United States,10
+Nevada,United States,10
+Bound Brook,United States,10
+Cresson,United States,10
+Artesia,United States,10
+Callaway,United States,10
+Coal Creek Canyon,United States,10
+Wyoming,United States,10
+Old Saybrook,United States,10
+Spur,United States,10
+Simpsonville,United States,10
+KOTTA,Australia,9
+SWAN BAY,Australia,9
+Oakhurst,Australia,9
+MADORA BAY,Australia,9
+WAROONA,Australia,9
+Tacoma,Australia,9
+ALLIGATOR CREEK,Australia,9
+BUNGUNDARRA,Australia,9
+BELLATA,Australia,9
+WALKERSTON,Australia,9
+SPRING BLUFF,Australia,9
+BUNJURGEN,Australia,9
+MERLYNSTON,Australia,9
+TAPPING,Australia,9
+AVOCA BEACH,Australia,9
+FORBES,Australia,9
+LARPENT,Australia,9
+Thornhill,Canada,9
+Paris,Canada,9
+Shawville,Canada,9
+Arviat,Canada,9
+Finch,Canada,9
+Grand Centre,Canada,9
+Ajax Pickering,Canada,9
+Rolphton,Canada,9
+Stirling,Canada,9
+Hespeler,Canada,9
+Decker Lake,Canada,9
+Wawa,Canada,9
+Herschel,Canada,9
+Pont Rouge,Canada,9
+Strathmore,Canada,9
+Sault Ste Marie,Canada,9
+Delisle,Canada,9
+Aberdeen,Canada,9
+Notre Dame De La Paix,Canada,9
+Renfrew,Canada,9
+Fürstenberg,Germany,9
+Georgenthal,Germany,9
+Jerrishoe,Germany,9
+Berlin Spandau,Germany,9
+Obermarchtal,Germany,9
+Sachsenhagen,Germany,9
+Leingarten,Germany,9
+Berlin Marzahn,Germany,9
+Görlitz,Germany,9
+Mötzing,Germany,9
+Irfersgrün,Germany,9
+Kirchheim,Germany,9
+Pechbrunn,Germany,9
+Neunkirchen,Germany,9
+Lutherstadt Wittenberg,Germany,9
+Gräfelfing,Germany,9
+Bad Vilbel,Germany,9
+Neustadt an der Weinstraße Geinsheim,Germany,9
+Weißenburg,Germany,9
+Ernsgaden,Germany,9
+Achtrup,Germany,9
+Sehlde,Germany,9
+Bad Lausick,Germany,9
+Blunk,Germany,9
+Unterkirnach,Germany,9
+Handorf,Germany,9
+Waddeweitz,Germany,9
+Filsen,Germany,9
+Heide,Germany,9
+Egestorf,Germany,9
+Nübel,Germany,9
+Lorch,Germany,9
+Viersen Hoser,Germany,9
+Bischofswiesen,Germany,9
+Fleckeby,Germany,9
+Erlbach-Kirchberg,Germany,9
+Lüdersburg,Germany,9
+REZÉ,France,9
+GARGES-LÈS-GONESSE,France,9
+PALAISEAU,France,9
+TOURNEFEUILLE,France,9
+LA CELLE-SAINT-CLOUD,France,9
+SAINT-LOUIS,France,9
+SARREGUEMINES,France,9
+COGNAC,France,9
+Isera,Italy,9
+Senales,Italy,9
+San Biagio Di Callalta,Italy,9
+Trani,Italy,9
+Villanova Di San Daniele,Italy,9
+Sant'Antonino Convento,Italy,9
+Ranzano,Italy,9
+Materdomini,Italy,9
+Castrovalva,Italy,9
+Monticchio,Italy,9
+Borgo Perrone,Italy,9
+Sarcedo,Italy,9
+Torrazza Piemonte,Italy,9
+Sessano Del Molise,Italy,9
+Tolentino,Italy,9
+Palestrina,Italy,9
+Montecorice,Italy,9
+Casette,Italy,9
+Anguillara Sabazia,Italy,9
+Diacceto,Italy,9
+Villanovetta,Italy,9
+Accaria,Italy,9
+Redona,Italy,9
+Brione,Italy,9
+Driebergen-Rijsenburg,Netherlands,9
+Capelle aan den IJssel,Netherlands,9
+Tienhoven,Netherlands,9
+Oss,Netherlands,9
+Hoorn,Netherlands,9
+Noordwijk,Netherlands,9
+Valkenburg,Netherlands,9
+Hoogkarspel,Netherlands,9
+ROSTON,United Kingdom,9
+WHITKIRK,United Kingdom,9
+ALLANGILLFOOT,United Kingdom,9
+ST BUDEAUX,United Kingdom,9
+LARKHALL,United Kingdom,9
+DALCHORK,United Kingdom,9
+VILLAVIN,United Kingdom,9
+MIDDLE DRUMS,United Kingdom,9
+BABBINSWOOD,United Kingdom,9
+HEDDON-ON-THE-WALL,United Kingdom,9
+GRAVELEY,United Kingdom,9
+CUBLINGTON,United Kingdom,9
+COLESHILL,United Kingdom,9
+MUCHELNEY,United Kingdom,9
+RINGMORE,United Kingdom,9
+DURDAR,United Kingdom,9
+FANANS,United Kingdom,9
+GIRTON,United Kingdom,9
+MAES-Y-CWMMER,United Kingdom,9
+COVE,United Kingdom,9
+POTTERTON,United Kingdom,9
+Kenton,United Kingdom,9
+GATESIDE,United Kingdom,9
+FALSTONE,United Kingdom,9
+STURTON BY STOW,United Kingdom,9
+EGTON,United Kingdom,9
+WELWICK,United Kingdom,9
+LOW STREET,United Kingdom,9
+SMAULL,United Kingdom,9
+WALKERTON,United Kingdom,9
+BACKBURN,United Kingdom,9
+DOUNREAY,United Kingdom,9
+WADDINGHAM,United Kingdom,9
+AUCHNABONY,United Kingdom,9
+THURSTONFIELD,United Kingdom,9
+HEADCORN,United Kingdom,9
+CILRHEDYN,United Kingdom,9
+LLANABER,United Kingdom,9
+SHADINGFIELD,United Kingdom,9
+BROMLEY COMMON,United Kingdom,9
+PRINCETOWN,United Kingdom,9
+PILSBURY,United Kingdom,9
+STONEHOUSE,United Kingdom,9
+CHIDHAM,United Kingdom,9
+HORDERLEY,United Kingdom,9
+BOASLEY CROSS,United Kingdom,9
+SOUTH WIDCOMBE,United Kingdom,9
+CROSS INN,United Kingdom,9
+GLASSON,United Kingdom,9
+GRINSHILL,United Kingdom,9
+WILKIESTON,United Kingdom,9
+WHITTINGTON,United Kingdom,9
+NAVESTOCK,United Kingdom,9
+LYDNEY,United Kingdom,9
+BRENCHLEY,United Kingdom,9
+EDDLEWOOD,United Kingdom,9
+LECK-HAMPTON,United Kingdom,9
+NETHER STOWEY,United Kingdom,9
+CRAILINGHALL,United Kingdom,9
+TOY'S HILL,United Kingdom,9
+NETHERTON,United Kingdom,9
+Pampa,United States,9
+Harlan,United States,9
+Brook Park,United States,9
+Westfield,United States,9
+Hazelwood,United States,9
+San Marcos,United States,9
+Moscow Mills,United States,9
+Huron,United States,9
+Ocean City,United States,9
+Lahoma,United States,9
+Elkin,United States,9
+Niles,United States,9
+Texas City,United States,9
+Merrillville,United States,9
+New Berlin,United States,9
+Escondido,United States,9
+Clovis,United States,9
+Bernardsville,United States,9
+Homer,United States,9
+Corbin,United States,9
+Sparks,United States,9
+New Iberia,United States,9
+Reedsville,United States,9
+Harold,United States,9
+Lenexa,United States,9
+Turrell,United States,9
+Beckville,United States,9
+Cibicue,United States,9
+Westbury,United States,9
+Richardson,United States,9
+Farmington,United States,9
+North Billerica,United States,9
+West Des Moines,United States,9
+Port Isabel,United States,9
+Scotts Valley,United States,9
+Rosemount,United States,9
+Orangeburg,United States,9
+Bethalto,United States,9
+Republic,United States,9
+Mandeville,United States,9
+Elizabeth,United States,9
+Brashear,United States,9
+Oakley,United States,9
+Orem,United States,9
+Myrtle Beach,United States,9
+Eureka Springs,United States,9
+Rindge,United States,9
+Barron,United States,9
+Laporte,United States,9
+Atmautluak,United States,9
+Clarion,United States,9
+Smyrna,United States,9
+St James,United States,9
+Jermyn,United States,9
+Winchester,United States,9
+Lima,United States,9
+Palominas,United States,9
+Cypress,United States,9
+Northridge,United States,9
+Pleasanton,United States,9
+West Chester,United States,9
+Medford,United States,9
+Elizabeth City,United States,9
+St Louis,United States,9
+Lacassine,United States,9
+Fort Collins,United States,9
+Finleyville,United States,9
+Las Cruces,United States,9
+West Haven,United States,9
+North Royalton,United States,9
+Quitman,United States,9
+Holden,United States,9
+Sellersburg,United States,9
+Whiting,United States,9
+Gillette,United States,9
+Oviedo,United States,9
+Jordan,United States,9
+Wasilla,United States,9
+Ephraim,United States,9
+Rosedale,United States,9
+NAMBOUR DC,Australia,8
+ARGENTON,Australia,8
+CLAREDALE,Australia,8
+GWINDINUP,Australia,8
+BANDYA,Australia,8
+CLAYTON,Australia,8
+DIGGORA,Australia,8
+LONG FLAT,Australia,8
+BAKERS CREEK,Australia,8
+BEERON,Australia,8
+COBAR,Australia,8
+KARRATHA INDUSTRIAL ESTATE,Australia,8
+HUON,Australia,8
+MOUNT EMLYN,Australia,8
+BERRINGAMA,Australia,8
+WARRENMANG,Australia,8
+PELTON,Australia,8
+TELLEBANG,Australia,8
+MORNINGTON ISLAND,Australia,8
+COOWONGA,Australia,8
+WATTLE HILL,Australia,8
+AVENELL HEIGHTS,Australia,8
+MELAWONDI,Australia,8
+COONGULLA,Australia,8
+PORT MACQUARIE,Australia,8
+BRINDABELLA,Australia,8
+MUSCLE CREEK,Australia,8
+Mission,Canada,8
+Chapleau,Canada,8
+Williams Lake,Canada,8
+North Pender Island,Canada,8
+Whitecourt,Canada,8
+Unionville,Canada,8
+Tignish,Canada,8
+Francois Lake,Canada,8
+Cambridge Bay,Canada,8
+Elk Lake,Canada,8
+Red Lake,Canada,8
+Cooksville,Canada,8
+Peace River,Canada,8
+St Gedeon De Beauce,Canada,8
+Elfros,Canada,8
+Stettler,Canada,8
+Barriere,Canada,8
+Kirkfield,Canada,8
+Rosalind,Canada,8
+Grande Cache,Canada,8
+Estevan,Canada,8
+Vidir,Canada,8
+Ellerslie,Canada,8
+Kaufbeuren,Germany,8
+Bischofsheim,Germany,8
+Zernien,Germany,8
+Kükels,Germany,8
+Scharnebeck,Germany,8
+Pielenhofen,Germany,8
+Waldkraiburg,Germany,8
+Aichach,Germany,8
+Adorf,Germany,8
+Berglicht,Germany,8
+Quiddelbach,Germany,8
+Sondershausen,Germany,8
+Pfreimd,Germany,8
+Bergisch Gladbach Herrenstrunden,Germany,8
+Buchloe,Germany,8
+Oberstreit,Germany,8
+Aurich,Germany,8
+Gütersloh Niehorst,Germany,8
+Münster,Germany,8
+Lüdinghausen,Germany,8
+Spesenroth,Germany,8
+Burglauer,Germany,8
+Sörth,Germany,8
+Düsseldorf Golzheim,Germany,8
+Großefehn,Germany,8
+Alsdorf,Germany,8
+Hinte,Germany,8
+Klostermansfeld,Germany,8
+Lünne,Germany,8
+Berlin Charlottenburg,Germany,8
+Reinbek,Germany,8
+Traunstein,Germany,8
+Heilenbach,Germany,8
+Gelchsheim,Germany,8
+Bayerisch Gmain,Germany,8
+Wohnste,Germany,8
+Reutlingen Römerschanze,Germany,8
+Großheirath,Germany,8
+Heckenbach,Germany,8
+Bremen Kattenesch,Germany,8
+Münchberg,Germany,8
+Hötensleben,Germany,8
+Haselund,Germany,8
+MAUBEUGE,France,8
+BEAUVAIS,France,8
+TROYES,France,8
+MANTES-LA-JOLIE,France,8
+TOULOUSE,France,8
+AIX-LES-BAINS,France,8
+PESSAC,France,8
+TOURCOING,France,8
+ÉCHIROLLES,France,8
+MONTFERMEIL,France,8
+VIRY-CHÂTILLON,France,8
+VÉNISSIEUX,France,8
+ARMENTIÈRES,France,8
+LA CIOTAT,France,8
+THIAIS,France,8
+Bardino Vecchio,Italy,8
+Fonterutoli,Italy,8
+Torrazza Coste,Italy,8
+Vigalzano,Italy,8
+Campagnola,Italy,8
+San Miniato,Italy,8
+Staturano,Italy,8
+Labro,Italy,8
+Mairano,Italy,8
+Loreto,Italy,8
+Castello Matese,Italy,8
+Menconico,Italy,8
+Prascorsano,Italy,8
+Toll,Italy,8
+Alfiano Natta,Italy,8
+Oris,Italy,8
+San Romualdo,Italy,8
+San Pietro Di Legnago,Italy,8
+Villaggio Garbagnate,Italy,8
+Colledoro,Italy,8
+Mondaino,Italy,8
+Premolo,Italy,8
+Praso,Italy,8
+Bagnoli,Italy,8
+Cascinare,Italy,8
+Rivarolo Ligure,Italy,8
+Weiteveen,Netherlands,8
+Landgraaf,Netherlands,8
+Diemen,Netherlands,8
+Soest,Netherlands,8
+Elst,Netherlands,8
+Veghel,Netherlands,8
+Maastricht,Netherlands,8
+Zuidwolde,Netherlands,8
+Landsmeer,Netherlands,8
+Maarsbergen,Netherlands,8
+Hoogezand,Netherlands,8
+Schiedam,Netherlands,8
+Pingjum,Netherlands,8
+Sneek,Netherlands,8
+Rozenburg,Netherlands,8
+Bergen op Zoom,Netherlands,8
+Kattendijke,Netherlands,8
+BOSSALL,United Kingdom,8
+ABERAMAN,United Kingdom,8
+LOWER TEAN,United Kingdom,8
+WESTON UNDER PENYARD,United Kingdom,8
+WEST END,United Kingdom,8
+ALDHAM,United Kingdom,8
+HENLEY CORNER,United Kingdom,8
+LEISTON,United Kingdom,8
+BUTLER'S CROSS,United Kingdom,8
+EDINBURGH,United Kingdom,8
+DENHAM,United Kingdom,8
+CURRY RIVEL,United Kingdom,8
+STOKE RIVERS,United Kingdom,8
+FERNHILL HEATH,United Kingdom,8
+HOPTON,United Kingdom,8
+CODDINGTON,United Kingdom,8
+AUCHNACLOICH,United Kingdom,8
+TRESPARRETT,United Kingdom,8
+WITCHBURN,United Kingdom,8
+CRAIGHEAD,United Kingdom,8
+COUNDON,United Kingdom,8
+CLOUSTA,United Kingdom,8
+Easton,United Kingdom,8
+LITTLE LEIGHS,United Kingdom,8
+ULCAT ROW,United Kingdom,8
+SHORTACOMBE,United Kingdom,8
+OVER WALLOP,United Kingdom,8
+OVER HADDON,United Kingdom,8
+SMITH END GREEN,United Kingdom,8
+NONINGTON,United Kingdom,8
+NEWTON MORRELL,United Kingdom,8
+RHANDIRMWYN,United Kingdom,8
+HAGWORTHINGHAM,United Kingdom,8
+FREMINGTON,United Kingdom,8
+BLACKDOWN,United Kingdom,8
+CARNOCK,United Kingdom,8
+OLD BEWICK,United Kingdom,8
+WHITEBRIDGE,United Kingdom,8
+FENNY COMPTON,United Kingdom,8
+Johnstown,United Kingdom,8
+BETTWS-Y-CRWYN,United Kingdom,8
+BELLASIZE,United Kingdom,8
+LITTLE CORBY,United Kingdom,8
+ACHFARY,United Kingdom,8
+ACHNALEA,United Kingdom,8
+THEALBY,United Kingdom,8
+LLANDEGLEY,United Kingdom,8
+BRIXWORTH,United Kingdom,8
+WHINBURGH,United Kingdom,8
+KNITSLEY,United Kingdom,8
+PREN-GWYN,United Kingdom,8
+WESTON,United Kingdom,8
+APPLETON-LE-MOORS,United Kingdom,8
+SHILLINGFORD,United Kingdom,8
+ST BREWARD,United Kingdom,8
+BARMER,United Kingdom,8
+STAINFORTH,United Kingdom,8
+TOAB,United Kingdom,8
+COSTESSEY,United Kingdom,8
+THE GREEN,United Kingdom,8
+KINLOCH,United Kingdom,8
+ERROGIE,United Kingdom,8
+BONCATH,United Kingdom,8
+NORTON HAWKFIELD,United Kingdom,8
+DALMARY,United Kingdom,8
+INVERARDOCH MAINS,United Kingdom,8
+EAST VILLAGE,United Kingdom,8
+KILLIEHUNTLY,United Kingdom,8
+MEDMENHAM,United Kingdom,8
+BRENT PELHAM,United Kingdom,8
+CARRON,United Kingdom,8
+GARIOB,United Kingdom,8
+COLNEY HEATH,United Kingdom,8
+OLDBURY,United Kingdom,8
+WARENTON,United Kingdom,8
+STAPLE CROSS,United Kingdom,8
+PONT-RHYD-Y-GROES,United Kingdom,8
+PENRHOS,United Kingdom,8
+Morristown,United States,8
+Gloucester,United States,8
+Woodbridge,United States,8
+Deerfield,United States,8
+Bethlehem,United States,8
+Durango,United States,8
+Walterboro,United States,8
+Orange,United States,8
+West Jefferson,United States,8
+Shelbyville,United States,8
+Spring Valley,United States,8
+Stillwater,United States,8
+Elberton,United States,8
+Trevor,United States,8
+Grinnell,United States,8
+Crane,United States,8
+Union,United States,8
+Great Falls,United States,8
+Bryans Road,United States,8
+Vining,United States,8
+Browns,United States,8
+Ogden,United States,8
+Oakhurst,United States,8
+Urbandale,United States,8
+Brussels,United States,8
+Gaylord,United States,8
+Walworth,United States,8
+Pardeeville,United States,8
+St Cloud,United States,8
+Allen,United States,8
+Ohatchee,United States,8
+Palmetto,United States,8
+Schenectady,United States,8
+Shaker Heights,United States,8
+Deerpark,United States,8
+Fayette,United States,8
+Iowa City,United States,8
+Lamar,United States,8
+Newton,United States,8
+Wakarusa,United States,8
+Lavaca,United States,8
+Hemlock,United States,8
+Cairo,United States,8
+Fort Thomas,United States,8
+Mesquite,United States,8
+La Grange (Dutchess),United States,8
+Laingsburg,United States,8
+Woodlawn,United States,8
+North Star,United States,8
+Benton Harbor,United States,8
+Witt,United States,8
+Somerville,United States,8
+Merna,United States,8
+Blue Ridge,United States,8
+Stigler,United States,8
+Montevideo,United States,8
+Muhlenburg,United States,8
+Valentine,United States,8
+Irmo,United States,8
+Churchville,United States,8
+Scott City,United States,8
+Redmond,United States,8
+Booneville,United States,8
+Camillus,United States,8
+Glenbrook,United States,8
+Lyons,United States,8
+Dixon,United States,8
+Auburndale,United States,8
+Forest Hills,United States,8
+Bourbon,United States,8
+Hewitt,United States,8
+Millwood,United States,8
+Cape Girardeau,United States,8
+Hicksville,United States,8
+Leland,United States,8
+Rancho Cucamonga,United States,8
+Milton,United States,8
+Waynesboro,United States,8
+Litile Egg Harbor To,United States,8
+Cochranton,United States,8
+Miramonte,United States,8
+Merchantville,United States,8
+Sarona,United States,8
+Reading,United States,8
+De Berry,United States,8
+Joseph City,United States,8
+Harwich,United States,8
+Cave Spring,United States,8
+ANNUELLO,Australia,7
+UMINA BEACH,Australia,7
+HMAS WATSON,Australia,7
+MYRTLE CREEK,Australia,7
+BEALIBA,Australia,7
+CLYDE,Australia,7
+LAKE CATHIE,Australia,7
+TINAMBA WEST,Australia,7
+KALGAN,Australia,7
+BOORCAN,Australia,7
+MARCHAGEE,Australia,7
+LAKE TOOLBRUNUP,Australia,7
+KINGSTON,Australia,7
+WOONGARRAH,Australia,7
+CASTLE DOYLE,Australia,7
+BIRDWOODTON,Australia,7
+POINT COOK,Australia,7
+Greenwood,Australia,7
+WANDIN NORTH,Australia,7
+NYRRABY,Australia,7
+STURT,Australia,7
+GRASSTREE BEACH,Australia,7
+SUMMER ISLAND,Australia,7
+GOL GOL,Australia,7
+HMAS ALBATROSS,Australia,7
+MAPOON,Australia,7
+TENNYSON,Australia,7
+SINGLETON,Australia,7
+MOUNT BUTE,Australia,7
+GUNYARRA,Australia,7
+GASCOYNE RIVER,Australia,7
+GOOLWA SOUTH,Australia,7
+TUMBLONG,Australia,7
+ROSLYNMEAD,Australia,7
+Norwich,Canada,7
+Longueuil,Canada,7
+Lacorne,Canada,7
+Cadillac,Canada,7
+Spencerville,Canada,7
+Kirkland Lake,Canada,7
+Balfour,Canada,7
+Drayton Valley,Canada,7
+Long Sault,Canada,7
+Iroquois,Canada,7
+Thessalon,Canada,7
+Digby,Canada,7
+Sayward,Canada,7
+Innisfree,Canada,7
+Lambeth,Canada,7
+Mayo,Canada,7
+Woss,Canada,7
+Schweinfurt,Germany,7
+Schutz,Germany,7
+Nonnenhorn,Germany,7
+Welver,Germany,7
+Kobern-Gondorf,Germany,7
+Obergröningen,Germany,7
+Loitzendorf,Germany,7
+Boos,Germany,7
+Mauer,Germany,7
+Suhl,Germany,7
+Waldbrunn,Germany,7
+Margetshöchheim,Germany,7
+Husum,Germany,7
+Merzalben,Germany,7
+Bad Füssing,Germany,7
+Klein Offenseth-Sparries,Germany,7
+Kirchgellersen,Germany,7
+Bruckmühl,Germany,7
+Solingen Solingen-Mitte,Germany,7
+Beedenbostel,Germany,7
+Igling,Germany,7
+Hamburg Tonndorf,Germany,7
+Lenggries,Germany,7
+Berglangenbach,Germany,7
+Zerbst,Germany,7
+Bremen Burgdamm,Germany,7
+Fuldabrück,Germany,7
+Gutach,Germany,7
+Stadtbergen,Germany,7
+Steinbach am Glan,Germany,7
+Oberhof,Germany,7
+Koblenz Vorstadt,Germany,7
+Böklund,Germany,7
+Mössingen,Germany,7
+Boostedt,Germany,7
+Hamburg Eißendorf,Germany,7
+Rottach-Egern,Germany,7
+Imsweiler,Germany,7
+Gusborn,Germany,7
+Elz,Germany,7
+Berlin Mariendorf,Germany,7
+Lohnweiler,Germany,7
+Gütersloh Isselhorst,Germany,7
+Lohberg,Germany,7
+Mühldorf,Germany,7
+Karlshausen,Germany,7
+Mörsdorf,Germany,7
+Kümmersbruck,Germany,7
+Schwebheim,Germany,7
+Fischach,Germany,7
+Winhöring,Germany,7
+Auderath,Germany,7
+Mönchengladbach Waldhausen,Germany,7
+Biberach,Germany,7
+Schwaigen,Germany,7
+Friedrichshafen Raderach,Germany,7
+Elmshorn,Germany,7
+Wahnwegen,Germany,7
+Hamburg Sasel,Germany,7
+Henschtal,Germany,7
+Jesteburg,Germany,7
+Ochsenfurt,Germany,7
+Burbach,Germany,7
+Wriedel,Germany,7
+Altenkunstadt,Germany,7
+Vahlberg,Germany,7
+Taching,Germany,7
+Hildburghausen,Germany,7
+Steinhöring,Germany,7
+Stahlhofen,Germany,7
+Düsseldorf Friedrichstadt,Germany,7
+Kreimbach-Kaulbach,Germany,7
+Burgoberbach,Germany,7
+Altdorf,Germany,7
+Berlin Schöneberg,Germany,7
+Putzbrunn,Germany,7
+Welkenbach,Germany,7
+AMIENS,France,7
+SAINT-RAPHAËL,France,7
+Olivet,France,7
+BEAUNE,France,7
+CHALON-SUR-SAÔNE,France,7
+WATTRELOS,France,7
+SAINT-MICHEL-SUR-ORGE,France,7
+BAIE-MAHAULT,France,7
+RILLIEUX-LA-PAPE,France,7
+CHOISY-LE-ROI,France,7
+LES ULIS,France,7
+SAVIGNY-LE-TEMPLE,France,7
+VANVES,France,7
+PIERREFITTE-SUR-SEINE,France,7
+VILLENAVE-D'ORNON,France,7
+Briga Alta,Italy,7
+Lamezia Terme,Italy,7
+Venegono Superiore,Italy,7
+Botticino,Italy,7
+Legoli,Italy,7
+Aviatico,Italy,7
+Valtina,Italy,7
+Pera Di Fassa,Italy,7
+Careri,Italy,7
+Messina,Italy,7
+Crociale,Italy,7
+Massa Finalese,Italy,7
+Castellazzo,Italy,7
+Roma,Italy,7
+Rho,Italy,7
+San Nicolo' A Tordino,Italy,7
+Moimacco,Italy,7
+Bonarcado,Italy,7
+Valganna,Italy,7
+San Vittore Olona,Italy,7
+Planaval,Italy,7
+Vicarello,Italy,7
+Pennapiedimonte,Italy,7
+Cenaia,Italy,7
+Villapiana,Italy,7
+Nesima Superiore,Italy,7
+Montanara,Italy,7
+Foresto Sparso,Italy,7
+Padergnone,Italy,7
+Borsano,Italy,7
+Fontane,Italy,7
+Azzanello,Italy,7
+Villa Ganzerla,Italy,7
+Arcugnano,Italy,7
+Campo Calabro,Italy,7
+Sabaudia,Italy,7
+Besenzone,Italy,7
+Pontelatone,Italy,7
+Corese Terra,Italy,7
+Didam,Netherlands,7
+Nijmegen,Netherlands,7
+Veenendaal,Netherlands,7
+Rheden,Netherlands,7
+Lelystad,Netherlands,7
+Sliedrecht,Netherlands,7
+Haaksbergen,Netherlands,7
+Roden,Netherlands,7
+Egmond aan Den Hoef,Netherlands,7
+Druten,Netherlands,7
+Tilburg,Netherlands,7
+Bergeijk,Netherlands,7
+Wijchen,Netherlands,7
+Munstergeleen,Netherlands,7
+Dirksland,Netherlands,7
+Biervliet,Netherlands,7
+Eckelrade,Netherlands,7
+Scherpenzeel,Netherlands,7
+Hollum,Netherlands,7
+Haulerwijk,Netherlands,7
+NORMANTON ON TRENT,United Kingdom,7
+CUCKNEY,United Kingdom,7
+COLEBROOKE,United Kingdom,7
+BRANSGORE,United Kingdom,7
+GRANDTULLY,United Kingdom,7
+WARMWELL,United Kingdom,7
+SANDPLACE,United Kingdom,7
+HASFIELD,United Kingdom,7
+MARGARET MARSH,United Kingdom,7
+GARFORD,United Kingdom,7
+WOOTTON,United Kingdom,7
+AMPTHILL,United Kingdom,7
+STOCKLAND,United Kingdom,7
+MILLER'S DALE,United Kingdom,7
+ARNISDALE,United Kingdom,7
+SWINHOPE,United Kingdom,7
+ROTTINGTON,United Kingdom,7
+WEST HANNINGFIELD,United Kingdom,7
+NENTHORN,United Kingdom,7
+AYR,United Kingdom,7
+FULLER STREET,United Kingdom,7
+DUNSCROFT,United Kingdom,7
+ST MICHAELS,United Kingdom,7
+BALCHLADICH,United Kingdom,7
+PENNYGOWN,United Kingdom,7
+PENPONT,United Kingdom,7
+GRUTING,United Kingdom,7
+TRIMLEY ST MARY,United Kingdom,7
+SARNESFIELD,United Kingdom,7
+BLACON,United Kingdom,7
+FATTAHEAD,United Kingdom,7
+RATHLIESBEAG,United Kingdom,7
+ABBOTSKERSWELL,United Kingdom,7
+RADWAY GREEN,United Kingdom,7
+BALGOWAN,United Kingdom,7
+BOHORTHA,United Kingdom,7
+HILLWELL,United Kingdom,7
+FFOREST,United Kingdom,7
+PARKMORE,United Kingdom,7
+MARCHINGTON,United Kingdom,7
+GLANRHYD,United Kingdom,7
+SOUTHWATER,United Kingdom,7
+CAPEL PARC,United Kingdom,7
+PONTANTWN,United Kingdom,7
+BONNYTON,United Kingdom,7
+DEOPHAM,United Kingdom,7
+TICKLERTON,United Kingdom,7
+CHALMINGTON,United Kingdom,7
+PENGOVER GREEN,United Kingdom,7
+QUEDGELEY,United Kingdom,7
+ASTON FLAMVILLE,United Kingdom,7
+LIENASSIE,United Kingdom,7
+HARDINGTON MANDEVILLE,United Kingdom,7
+ARTHOG,United Kingdom,7
+LAXFIRTH,United Kingdom,7
+HIGH ONN,United Kingdom,7
+PENCRAIG,United Kingdom,7
+OLD PORTLETHEN,United Kingdom,7
+KENLEY,United Kingdom,7
+WESTOW,United Kingdom,7
+BURNSIDE OF DUNTRUNE,United Kingdom,7
+BLACKWELL,United Kingdom,7
+Sunnyside,United Kingdom,7
+MELMERBY,United Kingdom,7
+SALINE,United Kingdom,7
+LOUNT,United Kingdom,7
+MULLION,United Kingdom,7
+WILBY,United Kingdom,7
+Brampton,United Kingdom,7
+PORTHTOWAN,United Kingdom,7
+KIRK ELLA,United Kingdom,7
+FERRYHILL,United Kingdom,7
+EAST BARKWITH,United Kingdom,7
+TARLAND,United Kingdom,7
+LLANFAIR,United Kingdom,7
+CRAIGMAUD,United Kingdom,7
+SWINDERBY,United Kingdom,7
+GISBURN,United Kingdom,7
+BAGENDON,United Kingdom,7
+WHELPO,United Kingdom,7
+KIRKLINTON,United Kingdom,7
+GUESTLING THORN,United Kingdom,7
+EDVIN LOACH,United Kingdom,7
+Charlestown,United Kingdom,7
+INGON,United Kingdom,7
+BROOME,United Kingdom,7
+PERT,United Kingdom,7
+CHUTE STANDEN,United Kingdom,7
+KEPPOCH,United Kingdom,7
+TOTEGAN,United Kingdom,7
+FORDWICH,United Kingdom,7
+FOLKINGHAM,United Kingdom,7
+ASTERBY,United Kingdom,7
+RED OAKS HILL,United Kingdom,7
+HANGING BRIDGE,United Kingdom,7
+NESTON,United Kingdom,7
+MILLTOWN OF EDINVILLIE,United Kingdom,7
+SWANTON MORLEY,United Kingdom,7
+RODWAY,United Kingdom,7
+FOXUP,United Kingdom,7
+LLANGELER,United Kingdom,7
+CROMHALL COMMON,United Kingdom,7
+LONGPARISH,United Kingdom,7
+LOWER END,United Kingdom,7
+LEITH,United Kingdom,7
+FRINDSBURY,United Kingdom,7
+TRUMPINGTON,United Kingdom,7
+CROSBY GARRETT,United Kingdom,7
+BALNESPICK,United Kingdom,7
+NEWTON ST LOE,United Kingdom,7
+PENTRE LLANRHAEADR,United Kingdom,7
+BYFORD,United Kingdom,7
+BALLEICH,United Kingdom,7
+UPPER HALLIFORD,United Kingdom,7
+LLANGYNIDR,United Kingdom,7
+OAD STREET,United Kingdom,7
+FORFAR,United Kingdom,7
+BETTWS GWERFIL GOCH,United Kingdom,7
+FARNDISH,United Kingdom,7
+COSHESTON,United Kingdom,7
+WESTERHAM,United Kingdom,7
+Eagle River,United States,7
+Winooski,United States,7
+Hanceville,United States,7
+Pena Blanca,United States,7
+Dillon,United States,7
+Purdy,United States,7
+Milwaukie,United States,7
+Sharonville,United States,7
+King Salmon,United States,7
+City Of Commerce,United States,7
+Farmland,United States,7
+Topeka,United States,7
+Wendover,United States,7
+Stonington,United States,7
+Mugu,United States,7
+Bowling Green,United States,7
+South Boston,United States,7
+Powers,United States,7
+North East,United States,7
+Sherman Mills,United States,7
+Sister Bay,United States,7
+Wyandotte,United States,7
+Hinton,United States,7
+Sheboygan Falls,United States,7
+Overland,United States,7
+Deer Park,United States,7
+Coffeeville,United States,7
+Pasadena,United States,7
+Quanah,United States,7
+Palmersville,United States,7
+Goodman,United States,7
+East Moline,United States,7
+Port Orange,United States,7
+Big Timber,United States,7
+Newtown,United States,7
+Elmhurst,United States,7
+Sanger,United States,7
+Ludlow,United States,7
+Plum,United States,7
+Avon Park,United States,7
+Pueblo,United States,7
+Moundridge,United States,7
+Schiller Park,United States,7
+Lynn,United States,7
+Reagan,United States,7
+Tupelo,United States,7
+Hordville,United States,7
+Newburyport,United States,7
+Williamsport,United States,7
+Floral Park,United States,7
+Rehoboth,United States,7
+Blairs,United States,7
+Boyertown,United States,7
+Hatton,United States,7
+Island Lake,United States,7
+Waldorf,United States,7
+Hiawatha,United States,7
+Oneida,United States,7
+Mechanicsburg,United States,7
+Ashwaubenon,United States,7
+Milford,United States,7
+Oriskany Falls,United States,7
+Perris,United States,7
+Ball Play,United States,7
+Drakesboro,United States,7
+Sergeant Bluff,United States,7
+Glenwood,United States,7
+Morning Sun,United States,7
+Snowshoe,United States,7
+Covina,United States,7
+Burlington,United States,7
+Interior,United States,7
+Logansport,United States,7
+Pahala,United States,7
+Mission Viejo,United States,7
+Lumberton,United States,7
+Nashua,United States,7
+Petaluma,United States,7
+Brooksville,United States,7
+Severna Park,United States,7
+Scotia,United States,7
+Plantation,United States,7
+Atoka,United States,7
+Bermuda Dunes,United States,7
+Earlington,United States,7
+Virginia,United States,7
+Phillips,United States,7
+Wilkinsburg,United States,7
+Sturgeon Lake,United States,7
+Richwood,United States,7
+Montville,United States,7
+Leavenworth,United States,7
+Braddock Heights,United States,7
+Woodbine,United States,7
+Rutherfordton,United States,7
+Damariscotta,United States,7
+San Augustine,United States,7
+Bull Shoals,United States,7
+Lawton,United States,7
+Crofton,United States,7
+Pump Station Three,United States,7
+MINJARY,Australia,6
+GREENHILL,Australia,6
+STANNUM,Australia,6
+Crestwood,Australia,6
+DAKENBA,Australia,6
+VICTORIA PARK,Australia,6
+GOSFORD,Australia,6
+GLENLYNN,Australia,6
+MORISSET,Australia,6
+BANNOCKBURN,Australia,6
+BURWOOD HEIGHTS,Australia,6
+DUCKINWILLA,Australia,6
+LAKE MOKOAN,Australia,6
+Golden Valley,Australia,6
+ROCKLEY MOUNT,Australia,6
+ALBERTON,Australia,6
+MOUNT RICHON,Australia,6
+JUBILEE HEIGHTS,Australia,6
+MOLESWORTH,Australia,6
+Montrose,Australia,6
+BRIGHTLY,Australia,6
+TORRYBURN,Australia,6
+WOODHILL,Australia,6
+COOLANA,Australia,6
+GLENLEE,Australia,6
+BORALLON,Australia,6
+TAMBAROORA,Australia,6
+WEST BUSSELTON,Australia,6
+LOCKWOOD,Australia,6
+THE HILL,Australia,6
+BRUCES CREEK,Australia,6
+Lemont,Australia,6
+UPPER CRYSTAL CREEK,Australia,6
+WEDGECARRUP,Australia,6
+CAMIRA,Australia,6
+GAYTHORNE,Australia,6
+TALBOT ISLAND,Australia,6
+EMU PARK,Australia,6
+NUNGARIN,Australia,6
+CETHANA,Australia,6
+PUNTHARI,Australia,6
+GLANMIRE,Australia,6
+ROCKY HALL,Australia,6
+DARTBROOK,Australia,6
+MURNUNGIN,Australia,6
+HILLTOWN,Australia,6
+Chelsea,Australia,6
+RINGTAIL CREEK,Australia,6
+CHAIN VALLEY BAY,Australia,6
+WIDGELLI,Australia,6
+COAL CREEK,Australia,6
+BALLIMORE,Australia,6
+BROOKSIDE CENTRE,Australia,6
+Legal,Canada,6
+Qualicum Beach,Canada,6
+Rimouski,Canada,6
+Tappen,Canada,6
+Bredenbury,Canada,6
+Gibbons,Canada,6
+Port Mcneill,Canada,6
+Roseneath,Canada,6
+La Tuque,Canada,6
+High Prairie,Canada,6
+Parry Sound,Canada,6
+Huntingdon,Canada,6
+Welland,Canada,6
+Yellowknife,Canada,6
+Ile Perrot,Canada,6
+Ste Eulalie,Canada,6
+Liverpool,Canada,6
+Sechelt,Canada,6
+Orillia,Canada,6
+Jansen,Canada,6
+Dorval,Canada,6
+Edson,Canada,6
+Midland,Canada,6
+Humboldt,Canada,6
+Kaslo,Canada,6
+Alexandra,Canada,6
+Carmangay,Canada,6
+Sherwood Park,Canada,6
+Giscome,Canada,6
+Fort St John,Canada,6
+Lengenbostel,Germany,6
+Bamberg,Germany,6
+Berlin Wittenau,Germany,6
+Taunusstein,Germany,6
+Kronach,Germany,6
+Neunkirchen Münchwies,Germany,6
+Münstermaifeld,Germany,6
+Trossingen,Germany,6
+Großenhain,Germany,6
+Neuss Stadionviertel,Germany,6
+Karlsruhe Innenstadt-West,Germany,6
+Ellerau,Germany,6
+Niederzissen,Germany,6
+Geratskirchen,Germany,6
+Weisenheim am Sand,Germany,6
+Samerberg,Germany,6
+Riekofen,Germany,6
+Immenstadt,Germany,6
+Bremen Blockland,Germany,6
+Mannheim Wohlgelegen,Germany,6
+Emmering,Germany,6
+Edesheim,Germany,6
+Bischofsgrün,Germany,6
+Forst,Germany,6
+Hohenöllen,Germany,6
+Geyer,Germany,6
+Dohr,Germany,6
+Eldena,Germany,6
+Speichersdorf,Germany,6
+Fluterschen,Germany,6
+Buchenbach,Germany,6
+Sauerlach,Germany,6
+Ober-Flörsheim,Germany,6
+Neckarsulm,Germany,6
+Hupperath,Germany,6
+Celle,Germany,6
+Kemberg,Germany,6
+Pforzheim Weststadt,Germany,6
+Höhr-Grenzhausen,Germany,6
+Weiding,Germany,6
+Koblenz Niederberg,Germany,6
+Dalberg,Germany,6
+Trier Trier-West-Pallien,Germany,6
+Großpostwitz,Germany,6
+Schmelz,Germany,6
+Bottrop Welheimer Mark,Germany,6
+Weinähr,Germany,6
+Waldhof-Falkenstein,Germany,6
+Hamburg Eimsbüttel,Germany,6
+Oberdischingen,Germany,6
+Kirsbach,Germany,6
+Waren,Germany,6
+Freudental,Germany,6
+Scheer,Germany,6
+Bingen am Rhein,Germany,6
+Oberstdorf,Germany,6
+Grünendeich,Germany,6
+Stuttgart Schönberg,Germany,6
+Benndorf,Germany,6
+Utzenfeld,Germany,6
+Deggendorf,Germany,6
+Wangerland,Germany,6
+Berlin Buckow,Germany,6
+Belg,Germany,6
+Ewighausen,Germany,6
+Simbach,Germany,6
+Halsenbach,Germany,6
+Wyhl,Germany,6
+Schnaittenbach,Germany,6
+Berlin Hellersdorf,Germany,6
+Weinsheim,Germany,6
+Ulm Oststadt,Germany,6
+Staßfurt,Germany,6
+Markdorf,Germany,6
+Alesheim,Germany,6
+Glinde,Germany,6
+Biebertal,Germany,6
+Hamburg Osdorf,Germany,6
+Saarbrücken Sankt Johann,Germany,6
+Affing,Germany,6
+Rottenburg,Germany,6
+Landau,Germany,6
+Roden,Germany,6
+Trier Weismark-Feyen,Germany,6
+Polle,Germany,6
+Worpswede,Germany,6
+Penzberg,Germany,6
+Andisleben,Germany,6
+Helmstadt-Bargen,Germany,6
+Thum,Germany,6
+SÈVRES,France,6
+ALBI,France,6
+PERPIGNAN,France,6
+CAHORS,France,6
+VILLENEUVE-LA-GARENNE,France,6
+CALAIS,France,6
+CONFLANS-SAINTE-HONORINE,France,6
+RODEZ,France,6
+EAUBONNE,France,6
+FRANCONVILLE-LA-GARENNE,France,6
+CHÂTEAUROUX,France,6
+DÉCINES-CHARPIEU,France,6
+Anduins,Italy,6
+Spinetta,Italy,6
+Monte Di Mezzo,Italy,6
+Melano Bastia,Italy,6
+Pissatola,Italy,6
+Giuncarico,Italy,6
+Gramolazzo,Italy,6
+Farra Di Soligo,Italy,6
+Armeno,Italy,6
+Polvica,Italy,6
+Sticciano Stazione,Italy,6
+Testa Dell'Acqua,Italy,6
+Marina Di Fiumefreddo Bruzio,Italy,6
+Oltrona Al Lago,Italy,6
+Rodeano Basso,Italy,6
+Pollone,Italy,6
+St. Christina,Italy,6
+Calvari,Italy,6
+Campione Del Garda,Italy,6
+Valle Di Cadore,Italy,6
+Lavena Ponte Tresa,Italy,6
+Cauria,Italy,6
+Lucinico,Italy,6
+Murano,Italy,6
+Cagliari,Italy,6
+Bevilacqua,Italy,6
+Terranova Di Pollino,Italy,6
+Santa Maria In Fabriago,Italy,6
+Pavone Del Mella,Italy,6
+Osasio,Italy,6
+Passo Del Tonale,Italy,6
+Gorgona Isola,Italy,6
+Vergato,Italy,6
+Sant'Agata Del Bianco,Italy,6
+Fossarmato,Italy,6
+Montecastrilli,Italy,6
+Presina,Italy,6
+Bagno Di Gavorrano,Italy,6
+Roggel,Netherlands,6
+Oostwold,Netherlands,6
+Spijkenisse,Netherlands,6
+Warfstermolen,Netherlands,6
+Beuningen,Netherlands,6
+Vleuten,Netherlands,6
+Toldijk,Netherlands,6
+Middelharnis,Netherlands,6
+Alphen aan den Rijn,Netherlands,6
+Bakel,Netherlands,6
+Venlo,Netherlands,6
+Doornenburg,Netherlands,6
+Diessen,Netherlands,6
+Emmeloord,Netherlands,6
+Andijk,Netherlands,6
+Tweede Exloërmond,Netherlands,6
+Hoogeveen,Netherlands,6
+Heemstede,Netherlands,6
+Feanwâlden,Netherlands,6
+Harlingen,Netherlands,6
+Voorthuizen,Netherlands,6
+Stedum,Netherlands,6
+Alphen,Netherlands,6
+Breezand,Netherlands,6
+Meerssen,Netherlands,6
+Monnickendam,Netherlands,6
+Roermond,Netherlands,6
+Sittard,Netherlands,6
+POPE HILL,United Kingdom,6
+HIGH BALANTYRE,United Kingdom,6
+OAKENCLOUGH,United Kingdom,6
+BROADSTONE,United Kingdom,6
+DUNALASTAIR,United Kingdom,6
+ETON,United Kingdom,6
+CREED,United Kingdom,6
+TALGARTH,United Kingdom,6
+SMELTHOUSES,United Kingdom,6
+GADDESDEN ROW,United Kingdom,6
+SPITTAL OF GLENSHEE,United Kingdom,6
+SPRINGSIDE,United Kingdom,6
+WOLL,United Kingdom,6
+THWAITE HEAD,United Kingdom,6
+SUTTON MADDOCK,United Kingdom,6
+ROSARIE,United Kingdom,6
+DUNTISH,United Kingdom,6
+LEZANT,United Kingdom,6
+EGYPT,United Kingdom,6
+MENSTRIE,United Kingdom,6
+LLANDRINIO,United Kingdom,6
+LYMPSTONE,United Kingdom,6
+TEMPLE GUITING,United Kingdom,6
+NETTLECOMBE,United Kingdom,6
+KIRKBY,United Kingdom,6
+BRIDGE OF DON,United Kingdom,6
+WEST CHINNOCK,United Kingdom,6
+KIRKLEY,United Kingdom,6
+ST GEORGES,United Kingdom,6
+BURRY PORT,United Kingdom,6
+SALTBY,United Kingdom,6
+RINMORE,United Kingdom,6
+ST PAUL'S WALDEN,United Kingdom,6
+KENNARDS HOUSE,United Kingdom,6
+CROOKHAM VILLAGE,United Kingdom,6
+WHEATLEY,United Kingdom,6
+STRATHDON,United Kingdom,6
+AUCHENLOCHAN,United Kingdom,6
+WYCK,United Kingdom,6
+LEIGHTON,United Kingdom,6
+KILBY,United Kingdom,6
+MINARD,United Kingdom,6
+KIRKIBOST,United Kingdom,6
+GRANTCHESTER,United Kingdom,6
+BYGRAVE,United Kingdom,6
+OLGRINMORE,United Kingdom,6
+PENNYGLEN,United Kingdom,6
+Hinton,United Kingdom,6
+FOULBOG,United Kingdom,6
+ORDIE,United Kingdom,6
+CWM-PARC,United Kingdom,6
+MARSTON ON DOVE,United Kingdom,6
+ASHFIELD,United Kingdom,6
+METHIL,United Kingdom,6
+SHAMLEY GREEN,United Kingdom,6
+YELLING,United Kingdom,6
+NEWTON ST FAITH,United Kingdom,6
+TULLICH MUIR,United Kingdom,6
+MEOPHAM GREEN,United Kingdom,6
+THRIEPLEY,United Kingdom,6
+NORTH BERWICK,United Kingdom,6
+KENNACRAIG,United Kingdom,6
+LEEMING BAR,United Kingdom,6
+MINTING,United Kingdom,6
+GLASINFRYN,United Kingdom,6
+LORBOTTLE HALL,United Kingdom,6
+NEWENT,United Kingdom,6
+TEMPAR,United Kingdom,6
+COLINSBURGH,United Kingdom,6
+MILE END,United Kingdom,6
+LIMEKILNBURN,United Kingdom,6
+LAPLEY,United Kingdom,6
+COWLEY,United Kingdom,6
+HALFPENNY GREEN,United Kingdom,6
+ADISHAM,United Kingdom,6
+CEIDIO FAWR,United Kingdom,6
+LOCHHILL,United Kingdom,6
+BRANSFORD BRIDGE,United Kingdom,6
+GLENDEVON,United Kingdom,6
+MYLOR,United Kingdom,6
+BELTON,United Kingdom,6
+TADWORTH,United Kingdom,6
+HEDLEY ON THE HILL,United Kingdom,6
+GADDESBY,United Kingdom,6
+WILCOTT,United Kingdom,6
+AVIEMORE,United Kingdom,6
+WIMBORNE ST GILES,United Kingdom,6
+TALKIN,United Kingdom,6
+CWMSYMLOG,United Kingdom,6
+PATTISWICK,United Kingdom,6
+BLACKHEATH,United Kingdom,6
+BECKFOOT,United Kingdom,6
+POLLIE,United Kingdom,6
+OXTON,United Kingdom,6
+MARTIN HUSSINGTREE,United Kingdom,6
+PILLERTON PRIORS,United Kingdom,6
+TOLLER DOWN GATE,United Kingdom,6
+PUMPHERSTON,United Kingdom,6
+SHRIPNEY,United Kingdom,6
+KELDY CASTLE,United Kingdom,6
+GLEADLESS,United Kingdom,6
+ST IVES,United Kingdom,6
+DOUGARIE,United Kingdom,6
+BEYTON GREEN,United Kingdom,6
+RAMSEY ST MARY'S,United Kingdom,6
+BROCKTON,United Kingdom,6
+AULTMORE,United Kingdom,6
+KNAPHILL,United Kingdom,6
+LILBURN TOWER,United Kingdom,6
+THE CRONK,United Kingdom,6
+GELLILYDAN,United Kingdom,6
+MILTON OF CAMPSIE,United Kingdom,6
+LINTON,United Kingdom,6
+FIVE ASH DOWN,United Kingdom,6
+SPELSBURY,United Kingdom,6
+LITTLE WALDINGFIELD,United Kingdom,6
+TANGY,United Kingdom,6
+BIDBOROUGH,United Kingdom,6
+KINGSBURY,United Kingdom,6
+DRYGRANGE,United Kingdom,6
+PORTHYRHYD,United Kingdom,6
+ROMANSLEIGH,United Kingdom,6
+PORT ELLEN,United Kingdom,6
+COBBATON,United Kingdom,6
+CHESELBOURNE,United Kingdom,6
+CANON FROME,United Kingdom,6
+DALESS,United Kingdom,6
+IRONSIDE,United Kingdom,6
+Edison,United States,6
+Pittsboro,United States,6
+Manes,United States,6
+Camarillo,United States,6
+Omak,United States,6
+West Portsmouth,United States,6
+Salem,United States,6
+Hagerstown,United States,6
+Creston,United States,6
+Glenwood Springs,United States,6
+Tarrytown,United States,6
+Elmore City,United States,6
+Cankton,United States,6
+Nicasio,United States,6
+Farmers Branch,United States,6
+Quantico,United States,6
+Logan,United States,6
+Petrolia,United States,6
+Modesto,United States,6
+Minooka,United States,6
+Pleasant Hill,United States,6
+Martinsville,United States,6
+Garner,United States,6
+Turner,United States,6
+Carbondale,United States,6
+Lake Los Angeles,United States,6
+Santa Rosa,United States,6
+Brunswick,United States,6
+Congers,United States,6
+Secaucus,United States,6
+Tampico,United States,6
+El Segundo,United States,6
+Hillsdale,United States,6
+Mason,United States,6
+Hollister,United States,6
+Flint,United States,6
+Northfield,United States,6
+Round Lake,United States,6
+Levittown,United States,6
+Ephrata,United States,6
+Cusseta,United States,6
+Sugar Notch,United States,6
+Roslyn,United States,6
+Carthage,United States,6
+Breckenridge,United States,6
+Fairport,United States,6
+Jackpot,United States,6
+Beaufort,United States,6
+Steele,United States,6
+Chesapeake,United States,6
+Green River,United States,6
+Bethany,United States,6
+Palmyra,United States,6
+Salina,United States,6
+Mcloud,United States,6
+Winter Haven,United States,6
+Covington,United States,6
+Hanapepe,United States,6
+Raytown,United States,6
+Destin,United States,6
+Dumas,United States,6
+Henryetta,United States,6
+Suffield,United States,6
+Burrows,United States,6
+Oldtown,United States,6
+Edenton,United States,6
+South Sioux City,United States,6
+Lapeer,United States,6
+Lowell,United States,6
+Summit,United States,6
+Estacada,United States,6
+Collingswood,United States,6
+Harper,United States,6
+Torrington,United States,6
+Summerville,United States,6
+Nowata,United States,6
+Chamblee,United States,6
+Baker City,United States,6
+Toomsuba,United States,6
+Feather Sound,United States,6
+Sylvania,United States,6
+Merrimack,United States,6
+Regent,United States,6
+Meadville,United States,6
+Winnebago,United States,6
+Tomales,United States,6
+Folsom,United States,6
+Lake Benton,United States,6
+Galvez,United States,6
+Silver Bay,United States,6
+Denison,United States,6
+Lewisville,United States,6
+Waterford,United States,6
+Atwater,United States,6
+Cashmere,United States,6
+Corvallis,United States,6
+Palm Beach Gardens,United States,6
+Wiscasset,United States,6
+Lake Charles,United States,6
+Azusa,United States,6
+Bramanville,United States,6
+Charlestown,United States,6
+Coin,United States,6
+Avon Lake,United States,6
+New Providence,United States,6
+Siesta Key,United States,6
+Kissimmee,United States,6
+Lake Huntington,United States,6
+Farber,United States,6
+Port Huron,United States,6
+Wilkes Barre,United States,6
+Dana,United States,6
+Harrisonburg,United States,6
+Bishop,United States,6
+EDITH RIVER,Australia,5
+BIDWILL,Australia,5
+BUNKERS HILL,Australia,5
+OCEAN REEF,Australia,5
+WYNDHAM VALE,Australia,5
+RANSOME,Australia,5
+TOOBORAC,Australia,5
+CAMBRIDGE GARDENS,Australia,5
+CARLYLE,Australia,5
+WINTHROP,Australia,5
+HEYTESBURY LOWER,Australia,5
+WITTENOOM,Australia,5
+SHIRLEY,Australia,5
+PARK AVENUE,Australia,5
+Woodford,Australia,5
+MOYARRA,Australia,5
+FITZGERALDS MOUNT,Australia,5
+OATLANDS,Australia,5
+JACKEYS MARSH,Australia,5
+BALCOLYN,Australia,5
+WOOMBYE,Australia,5
+TOWNSON,Australia,5
+BUCKENBOWRA,Australia,5
+THE GLEN,Australia,5
+PHOENIX PARK,Australia,5
+HILLGROVE,Australia,5
+HIGHBURY,Australia,5
+CAROONA,Australia,5
+POINT LEO,Australia,5
+NORTHLAKES,Australia,5
+MAXWELTON,Australia,5
+KILBIRNIE,Australia,5
+THALOO,Australia,5
+WARAMANGA,Australia,5
+THE GULF,Australia,5
+YELARBON,Australia,5
+BARWITE,Australia,5
+MOORONG,Australia,5
+NORWELL,Australia,5
+THE SHADES,Australia,5
+BLACKBUTT,Australia,5
+SEGENHOE,Australia,5
+TOORAK,Australia,5
+LEIGH CREEK,Australia,5
+TABLE CAPE,Australia,5
+COONDLE,Australia,5
+CLARE,Australia,5
+WEST ARMIDALE,Australia,5
+TIBERIAS,Australia,5
+RIDDELLS CREEK,Australia,5
+WILSONS PLAINS,Australia,5
+BAMAWM EXTENSION,Australia,5
+Torrington,Australia,5
+O'REILLY,Australia,5
+MUNGAY CREEK,Australia,5
+SPOTSWOOD,Australia,5
+METUNG,Australia,5
+EAST WICKEPIN,Australia,5
+LA PEROUSE,Australia,5
+MUNDIJONG,Australia,5
+HUME WEIR,Australia,5
+NORTH WIALKI,Australia,5
+BUANGLA,Australia,5
+TABULAM,Australia,5
+ROSEBERRY CREEK,Australia,5
+BOLGART,Australia,5
+TURTONS CREEK,Australia,5
+GAGEBROOK,Australia,5
+TEWKESBURY,Australia,5
+SUNRISE BEACH,Australia,5
+PONTYPOOL,Australia,5
+BREAKWATER,Australia,5
+DURACK,Australia,5
+Haliburton,Canada,5
+Pointe Au Baril,Canada,5
+Williamsburg,Canada,5
+East Hereford,Canada,5
+Gorrie,Canada,5
+Creelman,Canada,5
+Timmins,Canada,5
+Ladysmith,Canada,5
+Dubreuilville,Canada,5
+Beachburg,Canada,5
+Hemlock Valley,Canada,5
+Cargill,Canada,5
+Georgetown,Canada,5
+Sayabec,Canada,5
+Woodstock,Canada,5
+Okotoks,Canada,5
+Fort Langley,Canada,5
+Stouffville,Canada,5
+Strathroy,Canada,5
+Antigonish,Canada,5
+Bragg Creek,Canada,5
+Didsbury,Canada,5
+Shawinigan,Canada,5
+Dillon,Canada,5
+Kemptville,Canada,5
+Drummondville,Canada,5
+Berghausen,Germany,5
+Altbach,Germany,5
+Dormitz,Germany,5
+Neuenmarkt,Germany,5
+Quedlinburg,Germany,5
+Grafing,Germany,5
+Wachenheim an der Weinstraße,Germany,5
+Schwaförden,Germany,5
+Dausenau,Germany,5
+Starkenburg,Germany,5
+Zwickau,Germany,5
+Bergisch Gladbach Heidkamp,Germany,5
+Bitburg,Germany,5
+Bremen Mittelshuchting,Germany,5
+Hohenstein-Ernstthal,Germany,5
+Durchhausen,Germany,5
+Kirchenlamitz,Germany,5
+Gröbenzell,Germany,5
+Memmingen,Germany,5
+Tangermünde,Germany,5
+Gillenbeuren,Germany,5
+Alfstedt,Germany,5
+Pronsfeld,Germany,5
+Fließem,Germany,5
+Bielefeld Eckardtsheim,Germany,5
+Hildesheim,Germany,5
+Birkenhain,Germany,5
+Ehlenz,Germany,5
+Gnotzheim,Germany,5
+Schwabach,Germany,5
+Geisenheim,Germany,5
+Böddensell,Germany,5
+Nufringen,Germany,5
+Marktleugast,Germany,5
+Hamburg Moorfleet,Germany,5
+Nordwalde,Germany,5
+Schifferstadt,Germany,5
+Mühlheim,Germany,5
+Königsmoor,Germany,5
+Ortenburg,Germany,5
+Ensch,Germany,5
+Arzberg,Germany,5
+Erftstadt,Germany,5
+Pressath,Germany,5
+Illingen,Germany,5
+Frankleben,Germany,5
+Untereisesheim,Germany,5
+Borne,Germany,5
+Auhagen,Germany,5
+Eichelhardt,Germany,5
+Kipfenberg,Germany,5
+Prezelle,Germany,5
+Serrig,Germany,5
+Hütten,Germany,5
+Arnsgereuth,Germany,5
+Seifen,Germany,5
+Gerstetten,Germany,5
+Stemmen,Germany,5
+Neu-Ulm,Germany,5
+Winden,Germany,5
+Wickenrodt,Germany,5
+Sonderhof,Germany,5
+Wellheim,Germany,5
+Stuttgart Obertürkheim,Germany,5
+Laurenburg,Germany,5
+Wörthsee,Germany,5
+Tiefenthal,Germany,5
+Bremen Vegesack,Germany,5
+Freiburg Stadt,Germany,5
+Lichtenstein,Germany,5
+Isterberg,Germany,5
+Vellmar,Germany,5
+Rees,Germany,5
+Dickel,Germany,5
+Wilhelmsfeld,Germany,5
+Selzen,Germany,5
+Fischbach,Germany,5
+Hamburg Klostertor,Germany,5
+Ringstedt,Germany,5
+Perkam,Germany,5
+Iffeldorf,Germany,5
+Ransbach-Baumbach,Germany,5
+Blankenburg,Germany,5
+Trier Kernscheid,Germany,5
+Röhrmoos,Germany,5
+Wadern,Germany,5
+Bad Soden am Taunus,Germany,5
+GONESSE,France,5
+FONTENAY-SOUS-BOIS,France,5
+LE TAMPON,France,5
+SAINT-LEU,France,5
+SAINT-ÉTIENNE,France,5
+COMBS-LA-VILLE,France,5
+BÉZIERS,France,5
+SAINT-PRIEST,France,5
+MONTREUIL,France,5
+LE PETIT-QUEVILLY,France,5
+TRAPPES,France,5
+CLICHY,France,5
+DENAIN,France,5
+CACHAN,France,5
+DRAVEIL,France,5
+BOURGOIN-JALLIEU,France,5
+MONT-DE-MARSAN,France,5
+NEUILLY-SUR-MARNE,France,5
+SOISSONS,France,5
+BRUNOY,France,5
+DRANCY,France,5
+SAINT-MARTIN,France,5
+LAON,France,5
+SUCY-EN-BRIE,France,5
+Cocomaro Di Cona,Italy,5
+Cese,Italy,5
+Fontaniva,Italy,5
+Andrate,Italy,5
+Fisciano,Italy,5
+Dagala Del Re,Italy,5
+Tresivio,Italy,5
+Villastellone,Italy,5
+Tadasuni,Italy,5
+Vigevano,Italy,5
+Viconovo,Italy,5
+Sant'Ilario,Italy,5
+Casolla,Italy,5
+Salitto,Italy,5
+Selci,Italy,5
+Carchitti,Italy,5
+Armo,Italy,5
+Bienate,Italy,5
+Sant'Antonio,Italy,5
+Gnocchetto,Italy,5
+San Martino Di Castrozza,Italy,5
+Mezzojuso,Italy,5
+Pietravairano,Italy,5
+Montagna,Italy,5
+San Cassiano,Italy,5
+Ruvo Di Puglia,Italy,5
+Cereglio,Italy,5
+Lasino,Italy,5
+Casilli,Italy,5
+Montefano,Italy,5
+Spinadesco,Italy,5
+Pollutri,Italy,5
+Minervino Di Lecce,Italy,5
+Garofalo,Italy,5
+Feronia,Italy,5
+Ono San Pietro,Italy,5
+Fellicarolo,Italy,5
+Pianta,Italy,5
+Graglia,Italy,5
+Briatico,Italy,5
+Cogliandrino,Italy,5
+Napoli,Italy,5
+Prime Case,Italy,5
+Granarolo Dell'Emilia,Italy,5
+Grumes,Italy,5
+Valperga,Italy,5
+San Quirico Valleriana,Italy,5
+Pavarolo,Italy,5
+Torino,Italy,5
+Laterina Stazione,Italy,5
+Basella,Italy,5
+Huis ter Heide,Netherlands,5
+Kaatsheuvel,Netherlands,5
+Leusden,Netherlands,5
+Someren,Netherlands,5
+Oosthuizen,Netherlands,5
+Nootdorp,Netherlands,5
+Leidschendam,Netherlands,5
+Waalwijk,Netherlands,5
+Heijenrath,Netherlands,5
+Baarn,Netherlands,5
+Lunteren,Netherlands,5
+Keijenborg,Netherlands,5
+Venray,Netherlands,5
+Nuenen,Netherlands,5
+Zeewolde,Netherlands,5
+Babyloniënbroek,Netherlands,5
+Dongen,Netherlands,5
+Berlicum,Netherlands,5
+Nieuwerkerk,Netherlands,5
+Hoogvliet,Netherlands,5
+Ridderkerk,Netherlands,5
+Vriezenveen,Netherlands,5
+Raerd,Netherlands,5
+Appingedam,Netherlands,5
+Wijk bij Duurstede,Netherlands,5
+Mill,Netherlands,5
+Ommen,Netherlands,5
+Hoogblokland,Netherlands,5
+Delfzijl,Netherlands,5
+Wormer,Netherlands,5
+Dreumel,Netherlands,5
+NORTH COTES,United Kingdom,5
+FINSTALL,United Kingdom,5
+PLWMP,United Kingdom,5
+SYRE,United Kingdom,5
+SNETTERTON,United Kingdom,5
+DRYMUIR,United Kingdom,5
+CHELWOOD,United Kingdom,5
+POLYPHANT,United Kingdom,5
+DUNSMORE,United Kingdom,5
+BROOMFLEET,United Kingdom,5
+WESTWOODSIDE,United Kingdom,5
+CRAIGMYLE HO.,United Kingdom,5
+CROSSFORD,United Kingdom,5
+GREAT WASHBOURNE,United Kingdom,5
+STOURTON,United Kingdom,5
+STANBOROUGH,United Kingdom,5
+KINGSLEY,United Kingdom,5
+BOWBANK,United Kingdom,5
+Stockton,United Kingdom,5
+WALTHAM CROSS,United Kingdom,5
+KEIL,United Kingdom,5
+CLWT-Y-BONT,United Kingdom,5
+TRINITY,United Kingdom,5
+HOUNDWOOD,United Kingdom,5
+NEWTON BURGOLAND,United Kingdom,5
+HAWKSWORTH,United Kingdom,5
+SUNNY BANK,United Kingdom,5
+KIRKTON OF GLENBUCHAT,United Kingdom,5
+SCOFTON,United Kingdom,5
+LISWERRY,United Kingdom,5
+OGBOURNE ST ANDREW,United Kingdom,5
+BRIDGEND,United Kingdom,5
+DALGIG,United Kingdom,5
+LOWER DINCHOPE,United Kingdom,5
+GORSLEY,United Kingdom,5
+Washington,United Kingdom,5
+CULTYBRAGGAN CAMP,United Kingdom,5
+WATERSTOCK,United Kingdom,5
+STAYLITTLE,United Kingdom,5
+ABERGYNOLWYN,United Kingdom,5
+RHOSHIRWAUN,United Kingdom,5
+CHICHELEY,United Kingdom,5
+MONTRAVE,United Kingdom,5
+MILTON INVERAMSAY,United Kingdom,5
+FIFEHEAD NEVILLE,United Kingdom,5
+NASTY,United Kingdom,5
+ALLEXTON,United Kingdom,5
+TRE-VAUGHAN,United Kingdom,5
+LATCHLEY,United Kingdom,5
+LYNE,United Kingdom,5
+KILLEN,United Kingdom,5
+GRAFFHAM,United Kingdom,5
+ALLTBEITHE,United Kingdom,5
+GLENRAZIE,United Kingdom,5
+SEATOLLER,United Kingdom,5
+LOWER PENNINGTON,United Kingdom,5
+OLDMELDRUM,United Kingdom,5
+HIGHFIELD,United Kingdom,5
+BOWCOMBE,United Kingdom,5
+WHEATON ASTON,United Kingdom,5
+ROMANBY,United Kingdom,5
+TORRISHOLME,United Kingdom,5
+MANFIELD,United Kingdom,5
+CRAIGTON,United Kingdom,5
+UFFCULME,United Kingdom,5
+PONTYCLUN,United Kingdom,5
+GOUDHURST,United Kingdom,5
+POLLDUBH,United Kingdom,5
+HEATHER,United Kingdom,5
+BODHAM STREET,United Kingdom,5
+HERNER,United Kingdom,5
+SOUTH GODSTONE,United Kingdom,5
+WEST CHEVINGTON,United Kingdom,5
+CROMWELL,United Kingdom,5
+BURSCOUGH BRIDGE,United Kingdom,5
+CROSBY,United Kingdom,5
+WINTERBOURNE,United Kingdom,5
+CLAYTHORPE,United Kingdom,5
+HENGRAVE,United Kingdom,5
+SKIDBROOKE,United Kingdom,5
+ASTON ON CLUN,United Kingdom,5
+BHATARSAIGH,United Kingdom,5
+KINKNOCKIE,United Kingdom,5
+LITTLE DENS,United Kingdom,5
+CLOVA,United Kingdom,5
+CRAIG-Y-NOS,United Kingdom,5
+SALSBURGH,United Kingdom,5
+OSGATHORPE,United Kingdom,5
+LANGLEE,United Kingdom,5
+TORNAHAISH,United Kingdom,5
+LINSTEAD PARVA,United Kingdom,5
+EVINGTON,United Kingdom,5
+WEST WILLIAMSTON,United Kingdom,5
+STANTON,United Kingdom,5
+WALCOTE,United Kingdom,5
+CRESSWELL,United Kingdom,5
+WEST LAMBROOK,United Kingdom,5
+BOULSTON,United Kingdom,5
+Willoughby,United Kingdom,5
+BONT NEWYDD,United Kingdom,5
+EASTRINGTON,United Kingdom,5
+UBBESTON GREEN,United Kingdom,5
+HORTON,United Kingdom,5
+GARTHORPE,United Kingdom,5
+BRANSTON BOOTHS,United Kingdom,5
+MIDDLEBIE,United Kingdom,5
+ODD DOWN,United Kingdom,5
+FIONNPHORT,United Kingdom,5
+PENCOMBE,United Kingdom,5
+BRAEMORE,United Kingdom,5
+WHITSON,United Kingdom,5
+Falmouth,United Kingdom,5
+BROCKLESBY,United Kingdom,5
+CRANFORD ST JOHN,United Kingdom,5
+Laupahoehoe,United States,5
+Port Charlotte,United States,5
+Cutchogue,United States,5
+Indian Rocks (Beach),United States,5
+Centerville,United States,5
+Waipahu,United States,5
+Oak Brook,United States,5
+Cicero,United States,5
+Amarillo,United States,5
+Sebring,United States,5
+Thomasville,United States,5
+Tullahoma,United States,5
+Coleridge,United States,5
+Dover,United States,5
+Apple Springs,United States,5
+Natick,United States,5
+Folly Beach,United States,5
+Plant City,United States,5
+Table Mesa,United States,5
+Sparland,United States,5
+Bishopville,United States,5
+Grand Isle,United States,5
+Boron,United States,5
+Yuma,United States,5
+Menlo Park,United States,5
+Sheffield,United States,5
+Rocklin,United States,5
+Norman,United States,5
+Radcliff,United States,5
+Beason,United States,5
+Sheboygan,United States,5
+Tioga,United States,5
+Altamonte Springs,United States,5
+Palm Bay,United States,5
+Carlock,United States,5
+Archie,United States,5
+Birdsboro,United States,5
+Scurry,United States,5
+Fairview,United States,5
+Victor,United States,5
+Dawsonville,United States,5
+Charlevoix,United States,5
+White Cloud,United States,5
+Vidalia,United States,5
+Sheridan,United States,5
+Saint Clairsville,United States,5
+East Liverpool,United States,5
+Tharp,United States,5
+Derby,United States,5
+Gilbert,United States,5
+Litchfield Park,United States,5
+Toano,United States,5
+Rockwall,United States,5
+Double Springs,United States,5
+Foxboro,United States,5
+Steubenville,United States,5
+Conchas Dam,United States,5
+Ringgold,United States,5
+Mineral Wells,United States,5
+Perth Amboy,United States,5
+Spalding,United States,5
+Euless,United States,5
+Stone,United States,5
+Chandler,United States,5
+Alamogordo,United States,5
+Pottsville,United States,5
+Blue Island,United States,5
+Palm Springs,United States,5
+Sante Fe,United States,5
+Sunapee,United States,5
+Buford,United States,5
+Tewksbury,United States,5
+Hatboro,United States,5
+Loganville,United States,5
+Salisbury,United States,5
+Lake Andes,United States,5
+Hopedale,United States,5
+Browerville,United States,5
+Clarksdale,United States,5
+Staunton,United States,5
+Beloit,United States,5
+Traverse City,United States,5
+New Albany,United States,5
+Coahoma,United States,5
+Farmersburg,United States,5
+Guymon,United States,5
+Williamson,United States,5
+Franklin Boro,United States,5
+Faribault,United States,5
+Searcy,United States,5
+Mayo,United States,5
+Laurel Springs,United States,5
+Libertyville,United States,5
+Burrton,United States,5
+Owendale,United States,5
+Crowley,United States,5
+Terre Haute,United States,5
+Cloverdale,United States,5
+Garland,United States,5
+Douglas,United States,5
+Grand Forks Air Base,United States,5
+Pottstown,United States,5
+Tonawanda,United States,5
+Troutville,United States,5
+Klamath Falls,United States,5
+Alva,United States,5
+Chico,United States,5
+Draper,United States,5
+Glen Elder,United States,5
+Beverly Hills,United States,5
+Los Alamos,United States,5
+Canal Winchester,United States,5
+Eagle Bay,United States,5
+Elsie,United States,5
+Waterloo,United States,5
+Bickleton,United States,5
+Branford,United States,5
+Stratford,United States,5
+Clarks,United States,5
+Warrenton,United States,5
+Rock Springs,United States,5
+Solomons,United States,5
+Pittsburg,United States,5
+Ten Sleep,United States,5
+Incline Village,United States,5
+Sefton,United States,5
+Bellfountain,United States,5
+Red Cloud,United States,5
+Valdosta,United States,5
+Russellville,United States,5
+Mission,United States,5
+Stanley,United States,5
+Morganton,United States,5
+Sudbury,United States,5
+Mattoon,United States,5
+WINJALLOK,Australia,4
+GREEN LAKE,Australia,4
+NEDS CORNER,Australia,4
+BLAKEBROOK,Australia,4
+CORUNNUN,Australia,4
+SEPPINGS,Australia,4
+KURRACA,Australia,4
+SWANHAVEN,Australia,4
+FORRESTERS BEACH,Australia,4
+BOOLCARROLL,Australia,4
+TURRAMURRA,Australia,4
+BOWES,Australia,4
+BEACONSFIELD,Australia,4
+WANGANUI,Australia,4
+TORRENS,Australia,4
+CARWELL,Australia,4
+DOUBLE BAY,Australia,4
+East Point,Australia,4
+ELLEKER,Australia,4
+MILLFIELD,Australia,4
+MOUNT MURCHISON,Australia,4
+MOUNT MORIAC,Australia,4
+DOLLYS FLAT,Australia,4
+CORNDALE,Australia,4
+ASHMONT,Australia,4
+NORTHLAND CENTRE,Australia,4
+POSSUM BRUSH,Australia,4
+LESLEY,Australia,4
+ZADOWS LANDING,Australia,4
+CROYDON PARK,Australia,4
+GIN GIN,Australia,4
+PAGES RIVER,Australia,4
+GOULBURN,Australia,4
+Bangor,Australia,4
+NEUREA,Australia,4
+STANHOPE,Australia,4
+CANUNDA,Australia,4
+LOVETT BAY,Australia,4
+COCKATOO,Australia,4
+CRAIGNISH,Australia,4
+DUDININ,Australia,4
+MURRAGAMBA,Australia,4
+APPIN,Australia,4
+MARX HILL,Australia,4
+BARMAH,Australia,4
+BUNJIL,Australia,4
+TWEED HEADS SOUTH,Australia,4
+LOWER MACDONALD,Australia,4
+MOUNT MOLLOY,Australia,4
+VIRGINIA DC,Australia,4
+WEIPA,Australia,4
+SOUTH BROKEN HILL,Australia,4
+OURA,Australia,4
+WOLLEMI,Australia,4
+KUDARDUP,Australia,4
+FAR MEADOW,Australia,4
+CINNABAR,Australia,4
+PINNACLES,Australia,4
+FOUR MILE CREEK,Australia,4
+NAIRIBIN,Australia,4
+JARRA CREEK,Australia,4
+WEST KEMPSEY,Australia,4
+TRIAMBLE,Australia,4
+COOLATAI,Australia,4
+RUTHERGLEN,Australia,4
+HOXTON PARK,Australia,4
+BILAMBIL HEIGHTS,Australia,4
+CAMOOWEAL,Australia,4
+COBBANNAH,Australia,4
+WANDONG,Australia,4
+NUNDLE,Australia,4
+PAXTON,Australia,4
+ERIGOLIA,Australia,4
+COREE,Australia,4
+KIALLA,Australia,4
+BALMATTUM,Australia,4
+Rosemount,Australia,4
+MARYBOROUGH,Australia,4
+FARRANTS HILL,Australia,4
+WEATHERBOARD,Australia,4
+BUFFER CREEK,Australia,4
+SHELBOURNE,Australia,4
+WERRIS CREEK,Australia,4
+OBERNE CREEK,Australia,4
+MOUNT SYLVIA,Australia,4
+KINDRED,Australia,4
+BOORT,Australia,4
+PARAPARAP,Australia,4
+BARROW CREEK,Australia,4
+BELL PARK,Australia,4
+KOTARA EAST,Australia,4
+KADNOOK,Australia,4
+DILSTON,Australia,4
+GEEVESTON,Australia,4
+HENTY,Australia,4
+INNALOO,Australia,4
+BOORAL,Australia,4
+RAWSON,Australia,4
+St Camille De Bellechasse,Canada,4
+Boyle,Canada,4
+Espanola,Canada,4
+Rutland,Canada,4
+Neustadt,Canada,4
+Petawawa,Canada,4
+Pembroke,Canada,4
+Cap Chat,Canada,4
+Middleton,Canada,4
+Canmore,Canada,4
+Kintore,Canada,4
+Etzikom,Canada,4
+Port Hope,Canada,4
+Port Hardy,Canada,4
+Fort Vermilion,Canada,4
+Sarnia,Canada,4
+Rollet,Canada,4
+Allan,Canada,4
+Rawdon,Canada,4
+Slocan,Canada,4
+Baie Ste Catherine,Canada,4
+Salmon Arm,Canada,4
+Weagamow,Canada,4
+Weyburn,Canada,4
+Cassiar,Canada,4
+Balmertown,Canada,4
+Stoney Creek,Canada,4
+Wekweti,Canada,4
+Lac La Hache,Canada,4
+Carnduff,Canada,4
+Kenosee Lake,Canada,4
+Belleterre,Canada,4
+Leamington,Canada,4
+Port Franks,Canada,4
+Lavaltrie,Canada,4
+Rock Creek,Canada,4
+Slave Lake,Canada,4
+Prince Albert,Canada,4
+Thamesville,Canada,4
+Claresholm,Canada,4
+Birch Hills,Canada,4
+Waldgrehweiler,Germany,4
+Waldaschaff,Germany,4
+Wiesenttal,Germany,4
+Schmalkalden,Germany,4
+Lindenberg,Germany,4
+Hillesheim,Germany,4
+Keidelheim,Germany,4
+Roßtal,Germany,4
+Hamburg Francop,Germany,4
+Bargfeld-Stegen,Germany,4
+Gutenstetten,Germany,4
+Lützen,Germany,4
+Hochscheid,Germany,4
+Viersen Rahser,Germany,4
+Hamburg Rotherbaum,Germany,4
+Crivitz,Germany,4
+Kradenbach,Germany,4
+Friedrichskoog,Germany,4
+Schwaikheim,Germany,4
+Wiebelsheim,Germany,4
+Mölln,Germany,4
+Stoetze,Germany,4
+Appenweier,Germany,4
+Lamerdingen,Germany,4
+Reinheim,Germany,4
+Melbeck,Germany,4
+Bonndorf,Germany,4
+Erdweg,Germany,4
+Höchstadt,Germany,4
+Fuchstal,Germany,4
+Trebur,Germany,4
+Lünen,Germany,4
+Witten Stockum,Germany,4
+Kulmbach,Germany,4
+Prittriching,Germany,4
+Reutlingen Altenburg,Germany,4
+Besdorf,Germany,4
+Eberswalde,Germany,4
+Neubiberg,Germany,4
+Stuttgart Uhlbach,Germany,4
+Stühlingen,Germany,4
+Marktheidenfeld,Germany,4
+Offenbach am Main,Germany,4
+Börfink,Germany,4
+Grafenwöhr,Germany,4
+Mannheim Innenstadt,Germany,4
+Bad Reichenhall,Germany,4
+Bad Sachsa,Germany,4
+Osterburg,Germany,4
+Garmisch-Partenkirchen,Germany,4
+Flensburg,Germany,4
+Getelo,Germany,4
+Rostock,Germany,4
+Luhden,Germany,4
+Mengkofen,Germany,4
+Hamburg Stellingen,Germany,4
+Wertheim,Germany,4
+Rathenow,Germany,4
+Viersen Helenabrunn,Germany,4
+Heimbuchenthal,Germany,4
+Altenburg,Germany,4
+Stuttgart Stammheim,Germany,4
+Geroldsgrün,Germany,4
+Zittau,Germany,4
+Eggermühlen,Germany,4
+Allmersbach,Germany,4
+Dockweiler,Germany,4
+Helgoland,Germany,4
+Hamburg Rothenburgsort,Germany,4
+Gardelegen,Germany,4
+Saalfeld,Germany,4
+Hameln,Germany,4
+Schwanfeld,Germany,4
+Worms Horchheim,Germany,4
+Dessau,Germany,4
+Kempenich,Germany,4
+Dienethal,Germany,4
+Zeil,Germany,4
+Ehr,Germany,4
+Eibenstock,Germany,4
+Sommerhausen,Germany,4
+Elsterberg,Germany,4
+Oberotterbach,Germany,4
+Schleusingen,Germany,4
+Schwandorf,Germany,4
+Betzigau,Germany,4
+Diethardt,Germany,4
+Trassem,Germany,4
+Karstädt,Germany,4
+Bönningstedt,Germany,4
+Paderborn Kernstadt,Germany,4
+Ronneburg,Germany,4
+Garching,Germany,4
+Frammersbach,Germany,4
+Frauenneuharting,Germany,4
+Duderstadt,Germany,4
+Frohnhofen,Germany,4
+Hamburg Wandsbek,Germany,4
+Rellingen,Germany,4
+Maisborn,Germany,4
+Karlstadt,Germany,4
+Göhrde,Germany,4
+Schwarzenbek,Germany,4
+Lahstedt,Germany,4
+Hollen,Germany,4
+LES ABYMES,France,4
+BRIVE-LA-GAILLARDE,France,4
+LA COURNEUVE,France,4
+LIÉVIN,France,4
+ÉPERNAY,France,4
+DREUX,France,4
+MONTMORENCY,France,4
+PRIVAS,France,4
+FORT-DE-FRANCE,France,4
+VALENCE,France,4
+HOUILLES,France,4
+VILLEPINTE,France,4
+ORVAULT,France,4
+BASTIA,France,4
+LIMOGES,France,4
+AUXERRE,France,4
+COUDEKERQUE-BRANCHE,France,4
+ALFORTVILLE,France,4
+SAINT-OUEN,France,4
+SURESNES,France,4
+TOULON,France,4
+LANESTER,France,4
+PONTAULT-COMBAULT,France,4
+MONTBÉLIARD,France,4
+OYONNAX,France,4
+DIGNE-LES-BAINS,France,4
+SAINT-CHAMOND,France,4
+Rettorgole,Italy,4
+Tamara,Italy,4
+Modica Alta,Italy,4
+Faule,Italy,4
+Cesole,Italy,4
+Treschietto,Italy,4
+Bargi,Italy,4
+Loreggia,Italy,4
+Porto Santa Margherita,Italy,4
+Montegaldella,Italy,4
+Piantedo,Italy,4
+Trecate,Italy,4
+Sauze D'Oulx,Italy,4
+Masciago Primo,Italy,4
+Conversano,Italy,4
+Amandola,Italy,4
+Giammoro,Italy,4
+Sesto San Giovanni,Italy,4
+Sartirana Lomellina,Italy,4
+Orsogna,Italy,4
+Irgoli,Italy,4
+Calosso,Italy,4
+Varcaturo,Italy,4
+Florinas,Italy,4
+Trieste,Italy,4
+BomPietro,Italy,4
+Pietraroja,Italy,4
+Santa Maria Di Licodia,Italy,4
+Lugnano Citta' Di Castello,Italy,4
+Timoline,Italy,4
+Casale,Italy,4
+Treciminiere,Italy,4
+Torella Del Sannio,Italy,4
+Montecchia Di Crosara,Italy,4
+Villa Garibaldi,Italy,4
+Villa Caldari,Italy,4
+Casal Palocco,Italy,4
+Camurana,Italy,4
+Bostone,Italy,4
+Carunchio,Italy,4
+Sessa Aurunca,Italy,4
+Meana Sardo,Italy,4
+Casalduni,Italy,4
+Masino,Italy,4
+Castel Porziano,Italy,4
+Tombazosana,Italy,4
+Cinigiano,Italy,4
+Calavino,Italy,4
+Ossana,Italy,4
+Pieve Di Trebbio,Italy,4
+Lardaro,Italy,4
+Ombriano,Italy,4
+Talana,Italy,4
+Mariglianella,Italy,4
+Civo,Italy,4
+Barbarasco,Italy,4
+Sant'Agata Mugello,Italy,4
+Pettorazza,Italy,4
+Erica,Netherlands,4
+Benthuizen,Netherlands,4
+Helmond,Netherlands,4
+Woerden,Netherlands,4
+Weesp,Netherlands,4
+Rijssen,Netherlands,4
+Nieuwleusen,Netherlands,4
+Pernis,Netherlands,4
+Heesch,Netherlands,4
+IJzendoorn,Netherlands,4
+Schagerbrug,Netherlands,4
+Zeist,Netherlands,4
+Brouwershaven,Netherlands,4
+Oudemirdum,Netherlands,4
+Ittervoort,Netherlands,4
+Doesburg,Netherlands,4
+Echt,Netherlands,4
+Sint-Oedenrode,Netherlands,4
+Brielle,Netherlands,4
+Berg en Terblijt,Netherlands,4
+WESTWOOD,United Kingdom,4
+UPPER HULME,United Kingdom,4
+BARLEYHILL,United Kingdom,4
+BORTHWICK,United Kingdom,4
+CLAXBY,United Kingdom,4
+HENTON,United Kingdom,4
+PETHAM,United Kingdom,4
+TRETOWER,United Kingdom,4
+CHITTLEHAMPTON,United Kingdom,4
+CEDIG,United Kingdom,4
+BAGSTONE,United Kingdom,4
+KING'S STANLEY,United Kingdom,4
+Hope,United Kingdom,4
+TREDINGTON,United Kingdom,4
+GARDHAM,United Kingdom,4
+STEEN'S BRIDGE,United Kingdom,4
+BUCKHAVEN,United Kingdom,4
+MORDEN HALL PARK,United Kingdom,4
+YARMOUTH,United Kingdom,4
+NASH,United Kingdom,4
+LOGIN,United Kingdom,4
+HORTON-CUM-STUDLEY,United Kingdom,4
+LYDDINGTON,United Kingdom,4
+GRETNA GREEN,United Kingdom,4
+TODENHAM,United Kingdom,4
+BRIG O'TURK,United Kingdom,4
+SOWERBY,United Kingdom,4
+FORDER GREEN,United Kingdom,4
+Whitestone,United Kingdom,4
+FORDSTREET,United Kingdom,4
+TARVIE,United Kingdom,4
+MARKET WARSOP,United Kingdom,4
+SELSFIELD COMMON,United Kingdom,4
+COYLUMBRIDGE,United Kingdom,4
+EASTHOPE,United Kingdom,4
+LLANFALLTEG WEST,United Kingdom,4
+THURLSTONE,United Kingdom,4
+ANTROBUS,United Kingdom,4
+SLIMBRIDGE,United Kingdom,4
+OUSTON,United Kingdom,4
+WATER ORTON,United Kingdom,4
+THORALBY,United Kingdom,4
+LLECHRYD,United Kingdom,4
+STOW LONGA,United Kingdom,4
+RUSHALL,United Kingdom,4
+ILLEY,United Kingdom,4
+HAY STREET,United Kingdom,4
+ARDMINISH,United Kingdom,4
+GALHAMPTON,United Kingdom,4
+GEDNEY DROVE END,United Kingdom,4
+TRIANGLE,United Kingdom,4
+NEW WINTON,United Kingdom,4
+PENEGOES,United Kingdom,4
+HORTON GREEN,United Kingdom,4
+BRIGSTEER,United Kingdom,4
+FLINTHAM,United Kingdom,4
+PENUWCH,United Kingdom,4
+FISHWICK,United Kingdom,4
+MINEHEAD,United Kingdom,4
+LLANHILLETH,United Kingdom,4
+KINLOCH HOURN,United Kingdom,4
+Alexandria,United Kingdom,4
+BISTERNE,United Kingdom,4
+ECKINGTON,United Kingdom,4
+OREHAM COMMON,United Kingdom,4
+BOWLAND BRIDGE,United Kingdom,4
+TOTLAND,United Kingdom,4
+NEUADD,United Kingdom,4
+HIGHWAY,United Kingdom,4
+BLINDCRAKE,United Kingdom,4
+BRIGHTONS,United Kingdom,4
+BRONABER,United Kingdom,4
+UDIMORE,United Kingdom,4
+CLACHANTURN,United Kingdom,4
+BROADWATER,United Kingdom,4
+Bowden,United Kingdom,4
+STURMINSTER MARSHALL,United Kingdom,4
+CLAYDON,United Kingdom,4
+DAIL BHO THUATH,United Kingdom,4
+RYTON,United Kingdom,4
+BONINGALE,United Kingdom,4
+ST KEVERNE,United Kingdom,4
+SINGLETON,United Kingdom,4
+CLARDON,United Kingdom,4
+SALACHAIL,United Kingdom,4
+SAUGHALL MASSIE,United Kingdom,4
+BURNHAM OVERY,United Kingdom,4
+DIDWORTHY,United Kingdom,4
+BURRADON,United Kingdom,4
+BEDBURN,United Kingdom,4
+CLACHAN-SEIL,United Kingdom,4
+CODMORE HILL,United Kingdom,4
+SYMBISTER,United Kingdom,4
+ULDALE,United Kingdom,4
+ASKERSWELL,United Kingdom,4
+APPLEBY MAGNA,United Kingdom,4
+ULROME,United Kingdom,4
+HOADEN,United Kingdom,4
+NORTH LEE,United Kingdom,4
+Jamestown,United Kingdom,4
+BROMSBERROW HEATH,United Kingdom,4
+RATTEN ROW,United Kingdom,4
+TRUMPAN,United Kingdom,4
+PERRANZABULOE,United Kingdom,4
+TOMNAVEN,United Kingdom,4
+KNOCKHOLT STATION,United Kingdom,4
+CATESBY,United Kingdom,4
+ASHMORE,United Kingdom,4
+ATHELNEY,United Kingdom,4
+DALLINGTON,United Kingdom,4
+HORSEHAY,United Kingdom,4
+BUNLOIT,United Kingdom,4
+JOHNBY,United Kingdom,4
+CARCLEW,United Kingdom,4
+HOTON,United Kingdom,4
+SANDYLANDS,United Kingdom,4
+ADWELL,United Kingdom,4
+JORDANS,United Kingdom,4
+EDRADYNATE,United Kingdom,4
+EDERN,United Kingdom,4
+PARKGATE,United Kingdom,4
+TILTUPS END,United Kingdom,4
+BLACKSTONE,United Kingdom,4
+WEST SOMERTON,United Kingdom,4
+MILTON LOCKHART,United Kingdom,4
+LLANFILO,United Kingdom,4
+GISLINGHAM,United Kingdom,4
+PRAZE-AN-BEEBLE,United Kingdom,4
+BATE HEATH,United Kingdom,4
+NANSTALLON,United Kingdom,4
+POYS STREET,United Kingdom,4
+SOUTH GREEN,United Kingdom,4
+NEW CLIPSTONE,United Kingdom,4
+Morton,United Kingdom,4
+BAILLIESWARD,United Kingdom,4
+BETTON,United Kingdom,4
+WARBSTOW,United Kingdom,4
+HUNDALEE,United Kingdom,4
+MARSH,United Kingdom,4
+RHOSGOCH,United Kingdom,4
+CHEBSEY,United Kingdom,4
+CATCLEUGH,United Kingdom,4
+CALLOW END,United Kingdom,4
+BUSBRIDGE,United Kingdom,4
+BREDON'S HARDWICK,United Kingdom,4
+LAITHERS,United Kingdom,4
+ALTARNUN,United Kingdom,4
+WILLINGTON,United Kingdom,4
+WIVELISCOMBE,United Kingdom,4
+WALTON,United Kingdom,4
+VENN,United Kingdom,4
+RYE HARBOUR,United Kingdom,4
+BOARHILLS,United Kingdom,4
+SLACK,United Kingdom,4
+LLANVAIR-DISCOED,United Kingdom,4
+GORSEDD,United Kingdom,4
+CORNHILL,United Kingdom,4
+SCOLTON,United Kingdom,4
+WRANGLE,United Kingdom,4
+ALVERSTONE,United Kingdom,4
+NORTH STAINLEY,United Kingdom,4
+GLEANN THOLASTAIDH,United Kingdom,4
+CORNSAY COLLIERY,United Kingdom,4
+CHURCH END,United Kingdom,4
+KILBEG,United Kingdom,4
+FORCHES CROSS,United Kingdom,4
+THEDDLETHORPE ALL SAINTS,United Kingdom,4
+AUCHGOURISH,United Kingdom,4
+BELLSDYKE,United Kingdom,4
+TORRIDON,United Kingdom,4
+GONFIRTH,United Kingdom,4
+WEST KINGTON,United Kingdom,4
+EAST BRADENHAM,United Kingdom,4
+FORTH,United Kingdom,4
+LEVINGTON,United Kingdom,4
+CHAPEL HILL,United Kingdom,4
+Eaton,United States,4
+Kirkland,United States,4
+Batesville,United States,4
+Stevens Point,United States,4
+Camp Hill,United States,4
+Murphy,United States,4
+New Brighton,United States,4
+Beulaville,United States,4
+Metropolis,United States,4
+Corrigan,United States,4
+Duncan,United States,4
+Jefferson City,United States,4
+Russell,United States,4
+Bridgewater,United States,4
+La Center,United States,4
+San Simon,United States,4
+West Lebanon,United States,4
+Morrilton,United States,4
+Thomaston,United States,4
+Racine,United States,4
+Elk Lake,United States,4
+Unionville,United States,4
+Burien,United States,4
+Beatrice,United States,4
+Hayward,United States,4
+Luckey,United States,4
+Linneus,United States,4
+Winamac,United States,4
+Charlottesville,United States,4
+Pawtucket,United States,4
+Stark City,United States,4
+Bangor,United States,4
+Superior,United States,4
+Bethpage,United States,4
+Renton,United States,4
+Green Valley,United States,4
+Havelock,United States,4
+Naugatuck,United States,4
+Bentonville,United States,4
+Pittston,United States,4
+Southern Pines,United States,4
+Grayslake,United States,4
+Fort Madison,United States,4
+Rehoboth Beach,United States,4
+Frankenmuth,United States,4
+Glenn,United States,4
+Blue Ash,United States,4
+Cardington,United States,4
+Liverpool,United States,4
+Canistota,United States,4
+Wills Point,United States,4
+Italy,United States,4
+Byron,United States,4
+Greensburg,United States,4
+Mannington,United States,4
+Brooks,United States,4
+Murrieta,United States,4
+Los Gatos,United States,4
+Vacaville,United States,4
+Port Orford,United States,4
+San Leandro,United States,4
+Bayonne,United States,4
+Darrouzett,United States,4
+Sallisaw,United States,4
+Indian Head,United States,4
+Show Low,United States,4
+Kingfisher,United States,4
+Kearns,United States,4
+Ada,United States,4
+California,United States,4
+Brisbane,United States,4
+Crown Point,United States,4
+Rockwood,United States,4
+Weaverville,United States,4
+Genoa,United States,4
+Sunburg,United States,4
+Mount Zion,United States,4
+North Wilkesboro,United States,4
+Wawaka,United States,4
+Burlingame,United States,4
+Sloatsburg,United States,4
+Cedar City,United States,4
+Hayneville,United States,4
+Bluffton,United States,4
+Duck Creek,United States,4
+Clifton,United States,4
+Mount Hope,United States,4
+Tuckahoe,United States,4
+Sutherlin,United States,4
+Gays,United States,4
+Mousie,United States,4
+Murray,United States,4
+Fredonia,United States,4
+Verona,United States,4
+Hempstead,United States,4
+Walpole,United States,4
+Beaver Dam,United States,4
+Bayside,United States,4
+Baraga,United States,4
+Coldwater,United States,4
+Fork,United States,4
+Nacogdoches,United States,4
+Panama City,United States,4
+Orange Park,United States,4
+Tarkio,United States,4
+Clearfield,United States,4
+Calipatria,United States,4
+Kennett,United States,4
+Delft,United States,4
+Manvel,United States,4
+Orono,United States,4
+Munich,United States,4
+Norton Shores,United States,4
+Willow,United States,4
+Dunn Center,United States,4
+Bradford,United States,4
+Whitesville,United States,4
+Rochester Hills,United States,4
+Everest,United States,4
+Newcastle,United States,4
+Aubrey,United States,4
+Hazel Run,United States,4
+Union City,United States,4
+Roseglen,United States,4
+Deanville,United States,4
+Lenox,United States,4
+Rowlett,United States,4
+Cocoa,United States,4
+Willimantic,United States,4
+West Burke,United States,4
+Galva,United States,4
+Fruita,United States,4
+Paw Paw,United States,4
+East Douglas,United States,4
+Westbrook,United States,4
+Rossville,United States,4
+Silas,United States,4
+Oshkosh,United States,4
+Candia,United States,4
+Flagstaff,United States,4
+Sibley,United States,4
+Corning,United States,4
+Reedville,United States,4
+Smith Point,United States,4
+Birch Run,United States,4
+Elkhorn City,United States,4
+Kattskill Bay,United States,4
+Layton,United States,4
+Hyannis,United States,4
+Oak Lawn,United States,4
+Fuquay Varina,United States,4
+TAWONGA SOUTH,Australia,3
+BRUCKNELL,Australia,3
+JUNG,Australia,3
+SMITHTON,Australia,3
+KONONGWOOTONG,Australia,3
+SANDFORD,Australia,3
+KOOREH,Australia,3
+KILLARA,Australia,3
+SOUTH GREENOUGH,Australia,3
+WARUMBUL,Australia,3
+BLUE MOUNTAIN HEIGHTS,Australia,3
+BOYER,Australia,3
+MARRAWEENEY,Australia,3
+KAYUGA,Australia,3
+WATTLE GLEN,Australia,3
+BOOROLITE,Australia,3
+HOWTH,Australia,3
+Cleveland,Australia,3
+TUROSS,Australia,3
+GLEN MARTIN,Australia,3
+BRENDA,Australia,3
+WAMBAN,Australia,3
+BYNG,Australia,3
+WARRANWOOD,Australia,3
+FERNHILL,Australia,3
+LUGARNO,Australia,3
+GHERANG,Australia,3
+YELTA,Australia,3
+WOOROONOOK,Australia,3
+RISDON,Australia,3
+SORELL,Australia,3
+KANGIARA,Australia,3
+SNOWTOWN,Australia,3
+SPRING HILL,Australia,3
+UNDULLAH,Australia,3
+EAST LAUNCESTON,Australia,3
+ELINGAMITE,Australia,3
+SOUTH FREMANTLE,Australia,3
+RAINBOW,Australia,3
+GOSNELLS,Australia,3
+CARLINGFORD,Australia,3
+FOREST GLEN,Australia,3
+POZIERES,Australia,3
+KOOROOMOOL,Australia,3
+NORVAL,Australia,3
+ARGOON,Australia,3
+MOUNT OUSLEY,Australia,3
+GREEN HILLS,Australia,3
+MARMOR,Australia,3
+MARENGO,Australia,3
+DARLINGTON POINT,Australia,3
+BAERAMI CREEK,Australia,3
+NICHOLSON,Australia,3
+PALMYRA DC,Australia,3
+CHATSBURY,Australia,3
+TINGALPA BC,Australia,3
+TAREN POINT,Australia,3
+RYDE,Australia,3
+DAYSDALE,Australia,3
+RUNNING STREAM,Australia,3
+STAVELY,Australia,3
+HYANDRA,Australia,3
+GARIE,Australia,3
+TRIABUNNA,Australia,3
+AUSTINMER,Australia,3
+BULLER,Australia,3
+WEE WEE RUP,Australia,3
+BUSHLEY,Australia,3
+DINGO FOREST,Australia,3
+PAPPINBARRA,Australia,3
+EMPIRE BAY,Australia,3
+PITURIE,Australia,3
+REVESBY HEIGHTS,Australia,3
+APPLETHORPE,Australia,3
+PEACOCK SIDING,Australia,3
+PAMPAS,Australia,3
+Woodbury,Australia,3
+Waterloo,Australia,3
+TERRIGAL,Australia,3
+BURTON,Australia,3
+TRENTHAM,Australia,3
+CHARBON,Australia,3
+LOCKSLEY,Australia,3
+MILPARINKA,Australia,3
+ELDERSLIE,Australia,3
+CHESHUNT SOUTH,Australia,3
+EMU BAY,Australia,3
+BREDDAN,Australia,3
+BROUGHTON,Australia,3
+NORONG,Australia,3
+HOWRAH,Australia,3
+Brunswick,Australia,3
+DONCASTER EAST,Australia,3
+NUMERALLA,Australia,3
+FLOREAT,Australia,3
+THORNTON BEACH,Australia,3
+IREDALE,Australia,3
+WOOLSHED,Australia,3
+WARRABKOOK,Australia,3
+BALD HILLS,Australia,3
+HUNTLEY,Australia,3
+MYRTLE PARK,Australia,3
+BETHUNGRA,Australia,3
+MOUNT ELLIOT,Australia,3
+ST AGNES,Australia,3
+BOODUA,Australia,3
+BYELLEE,Australia,3
+NORTH STIRLINGS,Australia,3
+MOUNT AUSTIN,Australia,3
+BARNSLEY,Australia,3
+DONOVANS FOREST,Australia,3
+ST GEORGES BASIN,Australia,3
+CLINTONVALE,Australia,3
+CYPRESS GARDENS,Australia,3
+CAMMERAY,Australia,3
+HIGHTON,Australia,3
+ALVIE,Australia,3
+BRISBANE MARKET,Australia,3
+MOUNT HARDEY,Australia,3
+EATONSVILLE,Australia,3
+UPPER DAINTREE,Australia,3
+UPPER BLESSINGTON,Australia,3
+EAST FREMANTLE,Australia,3
+CALIFAT,Australia,3
+CADIA,Australia,3
+WULGULMERANG EAST,Australia,3
+MACQUARIE HEADS,Australia,3
+JUNORTOUN,Australia,3
+INDOOROOPILLY CENTRE,Australia,3
+CAMBOOYA,Australia,3
+Collingwood,Canada,3
+Chambord,Canada,3
+Hardisty,Canada,3
+STAVELY,Canada,3
+Pikangikum,Canada,3
+Mulhurst Bay,Canada,3
+Bjorkdale,Canada,3
+Wha Ti,Canada,3
+Carbon,Canada,3
+Cobalt,Canada,3
+Radway,Canada,3
+Penticton,Canada,3
+Charlottetown,Canada,3
+Beauharnois,Canada,3
+Fillmore,Canada,3
+Priddis,Canada,3
+Turner Valley,Canada,3
+Hubbards,Canada,3
+Seton Portage,Canada,3
+Delhi,Canada,3
+Brookland,Canada,3
+Minaki,Canada,3
+Castlegar,Canada,3
+Village Green,Canada,3
+Abbotsford,Canada,3
+Buckingham,Canada,3
+Mahone Bay,Canada,3
+Beeton,Canada,3
+Wyoming,Canada,3
+White River,Canada,3
+Musquodoboit Harbour,Canada,3
+Mont Louis,Canada,3
+Torrington,Canada,3
+Rainbow Lake,Canada,3
+Irricana,Canada,3
+Ridgetown,Canada,3
+Osoyoos,Canada,3
+Bourget,Canada,3
+Port Mouton,Canada,3
+La Pocatiere,Canada,3
+Mactier,Canada,3
+Sainte-Gertrude,Canada,3
+Caledon East,Canada,3
+Jasper,Canada,3
+Thorhild,Canada,3
+Rosetown,Canada,3
+Fort Saskatchewan,Canada,3
+Clyde River,Canada,3
+Whistler,Canada,3
+Chesterville,Canada,3
+Barons,Canada,3
+Hemsbach,Germany,3
+Obernzenn,Germany,3
+Duisburg,Germany,3
+Schapen,Germany,3
+Leiningen,Germany,3
+Aschau,Germany,3
+Lohheide,Germany,3
+Ovelgönne,Germany,3
+Ahlen,Germany,3
+Geisenfeld,Germany,3
+Fahren,Germany,3
+St Wendel,Germany,3
+Eslarn,Germany,3
+Temmels,Germany,3
+Holzerath,Germany,3
+Ratzert,Germany,3
+Gossersweiler-Stein,Germany,3
+Tostedt,Germany,3
+Zeithain,Germany,3
+Hamminkeln,Germany,3
+Lehrensteinsfeld,Germany,3
+Sehestedt,Germany,3
+Bad Tölz,Germany,3
+Scheidegg,Germany,3
+Bad Alexandersbad,Germany,3
+Saarbrücken Jägersfreude,Germany,3
+Bielefeld Dalbke,Germany,3
+Berlin Hessenwinkel,Germany,3
+Schrobenhausen,Germany,3
+Harsdorf,Germany,3
+Hamburg Bergstedt,Germany,3
+Regensburg,Germany,3
+Aschersleben,Germany,3
+Bautzen,Germany,3
+Bornholt,Germany,3
+Siefersheim,Germany,3
+Klein Berßen,Germany,3
+Forst an der Weinstraße,Germany,3
+Frensdorf,Germany,3
+Berlin Dahlem,Germany,3
+Peine,Germany,3
+Nonnweiler,Germany,3
+Bockenau,Germany,3
+Pforzheim Hohenwart,Germany,3
+Weigendorf,Germany,3
+Auerbach,Germany,3
+Bremerhaven Geestemünde,Germany,3
+Rülzheim,Germany,3
+Gröde,Germany,3
+Berlin Waidmannslust,Germany,3
+Heimborn,Germany,3
+Neuwied Altwied,Germany,3
+Siedenburg,Germany,3
+Haverlah,Germany,3
+Gönnebek,Germany,3
+Erlangen,Germany,3
+Düsseldorf Karlstadt,Germany,3
+Vöhl,Germany,3
+Algenstedt,Germany,3
+Soest,Germany,3
+Meiningen,Germany,3
+Marpingen,Germany,3
+Leutershausen,Germany,3
+Kellenbach,Germany,3
+Nister,Germany,3
+Wöllstein,Germany,3
+Dintesheim,Germany,3
+Bärenstein,Germany,3
+Hettstadt,Germany,3
+Daldorf,Germany,3
+Lobbach,Germany,3
+Mülbach,Germany,3
+Gunzenhausen,Germany,3
+Niederndodeleben,Germany,3
+Zorneding,Germany,3
+Brodersby,Germany,3
+Kühbach,Germany,3
+Schauenstein,Germany,3
+Grafrath,Germany,3
+Bad Tennstedt,Germany,3
+Ulm Mähringen,Germany,3
+Heiligenstadt,Germany,3
+Tüßling,Germany,3
+Hünxe,Germany,3
+Hamm,Germany,3
+Karlsruhe Hohenwettersbach,Germany,3
+Adelsdorf,Germany,3
+Angelburg,Germany,3
+Meißen,Germany,3
+Armstorf,Germany,3
+Römhild,Germany,3
+Pforzheim Würm,Germany,3
+Aalen Wasseralfingen,Germany,3
+Otterberg,Germany,3
+Gescher,Germany,3
+Hamburg Altstadt,Germany,3
+Trippstadt,Germany,3
+Natendorf,Germany,3
+Roßwein,Germany,3
+Endlichhofen,Germany,3
+Hamburg Hamm-Nord,Germany,3
+Gottenheim,Germany,3
+Kommen,Germany,3
+Schiffweiler,Germany,3
+Ermsleben,Germany,3
+Böhl-Iggelheim,Germany,3
+Bleicherode,Germany,3
+Wangelnstedt,Germany,3
+Lübeck,Germany,3
+Wurzen,Germany,3
+Enger,Germany,3
+Immenhausen,Germany,3
+Bellenberg,Germany,3
+Straubenhardt,Germany,3
+Seedorf,Germany,3
+Berlin Schmargendorf,Germany,3
+Niederviehbach,Germany,3
+Pinzberg,Germany,3
+Baienfurt,Germany,3
+Naunhof,Germany,3
+Rabenau,Germany,3
+Schirnding,Germany,3
+Freyung,Germany,3
+Kalbe,Germany,3
+Reimerath,Germany,3
+Heilbach,Germany,3
+Scheuern,Germany,3
+Düsseldorf Hassels,Germany,3
+Bleialf,Germany,3
+Berlin Wedding,Germany,3
+Münsing,Germany,3
+Memmelsdorf,Germany,3
+Clausen,Germany,3
+Pfarrkirchen,Germany,3
+COLMAR,France,3
+NANTERRE,France,3
+THONON-LES-BAINS,France,3
+MEUDON,France,3
+NOISY-LE-GRAND,France,3
+ORLY,France,3
+FONTENAY-AUX-ROSES,France,3
+CHAMPS-SUR-MARNE,France,3
+ÉVREUX,France,3
+METZ,France,3
+BRUAY-LA-BUISSIÈRE,France,3
+DIEPPE,France,3
+COLOMBES,France,3
+MARTIGUES,France,3
+CAVAILLON,France,3
+NANTES,France,3
+VALENCIENNES,France,3
+BASSE-TERRE,France,3
+LE PUY-EN-VELAY,France,3
+RIS-ORANGIS,France,3
+LA GARENNE-COLOMBES,France,3
+VERSAILLES,France,3
+CHÂLONS-EN-CHAMPAGNE,France,3
+MÂCON,France,3
+MILLAU,France,3
+CHARENTON-LE-PONT,France,3
+LA ROCHELLE,France,3
+Villanova Di Guidonia,Italy,3
+Milano,Italy,3
+Acquarica Di Lecce,Italy,3
+Ferruzzano,Italy,3
+Montegranaro,Italy,3
+Orsago,Italy,3
+Ottana,Italy,3
+Santa Maria Di Castellabate,Italy,3
+Santa Maria Di Catanzaro,Italy,3
+Valmareno,Italy,3
+Borgo Sant'Antonio Abate,Italy,3
+Gessate,Italy,3
+Parona Di Valpolicella,Italy,3
+San Possidonio,Italy,3
+Marmora,Italy,3
+Trinitapoli,Italy,3
+Valle San Giovanni,Italy,3
+Anoia Superiore,Italy,3
+Montanera,Italy,3
+Mara,Italy,3
+San Cosma,Italy,3
+Mandatoriccio,Italy,3
+Frassinelle Polesine,Italy,3
+Randazzo,Italy,3
+Musei,Italy,3
+St. Jakob im Ahrntal,Italy,3
+Correggioli,Italy,3
+Mombello,Italy,3
+Maciano,Italy,3
+Ospedaletto Di Gemona,Italy,3
+Cannigione,Italy,3
+Labico,Italy,3
+Castel Di Tora,Italy,3
+Nusenna,Italy,3
+Cornedo Vicentino,Italy,3
+Concesio,Italy,3
+Fornazzo,Italy,3
+La Verna,Italy,3
+Ricadi,Italy,3
+Scheggia,Italy,3
+Carrara San Giorgio,Italy,3
+Elva,Italy,3
+Riolunato,Italy,3
+Brescia,Italy,3
+Fonte Alto,Italy,3
+San Vito,Italy,3
+Cavanella D'Adige,Italy,3
+San Nicola,Italy,3
+Sant'Anna Pelago,Italy,3
+San Piero A Ponti,Italy,3
+Selva Di Val Gardena,Italy,3
+Castell'Umberto,Italy,3
+Casalini,Italy,3
+Lecco,Italy,3
+Arina,Italy,3
+Gualtieri Sicamino,Italy,3
+Borgoforte,Italy,3
+Durazzano,Italy,3
+Alesso,Italy,3
+Jerzu,Italy,3
+Castelvecchio Di Vellano,Italy,3
+Amendolara,Italy,3
+Comenduno,Italy,3
+Castel Trosino,Italy,3
+Noto,Italy,3
+Santa Tecla,Italy,3
+Chiaromonte,Italy,3
+Prun,Italy,3
+Cerdomare,Italy,3
+Torri D'Arcugnano,Italy,3
+Ponte A Tressa,Italy,3
+Villafranca Di Verona,Italy,3
+Badia Calavena,Italy,3
+Torre Santa Susanna,Italy,3
+Santa Maria Apparente,Italy,3
+Onna,Italy,3
+Savorgnano Del Torre,Italy,3
+Baricetta,Italy,3
+Ponte Barizzo,Italy,3
+Acquicella,Italy,3
+Fosso,Italy,3
+Pianoro Vecchio,Italy,3
+San Prospero,Italy,3
+Narzole,Italy,3
+Guinadi,Italy,3
+Savoniero,Italy,3
+Vaassen,Netherlands,3
+Den Hoorn,Netherlands,3
+Heerhugowaard,Netherlands,3
+Maasland,Netherlands,3
+Burgum,Netherlands,3
+Bleiswijk,Netherlands,3
+Wagenberg,Netherlands,3
+Vroomshoop,Netherlands,3
+Dedemsvaart,Netherlands,3
+Groessen,Netherlands,3
+Winschoten,Netherlands,3
+Well,Netherlands,3
+Zandeweer,Netherlands,3
+Hartwerd,Netherlands,3
+Tiel,Netherlands,3
+Obdam,Netherlands,3
+Barchem,Netherlands,3
+Sweikhuizen,Netherlands,3
+Waalre,Netherlands,3
+Staphorst,Netherlands,3
+Stein,Netherlands,3
+Roosteren,Netherlands,3
+Schiermonnikoog,Netherlands,3
+Woudenberg,Netherlands,3
+Doetinchem,Netherlands,3
+Boskoop,Netherlands,3
+Warmond,Netherlands,3
+Wilnis,Netherlands,3
+Putten,Netherlands,3
+Suwâld,Netherlands,3
+Hasselt,Netherlands,3
+Sint Geertruid,Netherlands,3
+Hem,Netherlands,3
+Rotsterhaule,Netherlands,3
+Hulsberg,Netherlands,3
+Rijsenhout,Netherlands,3
+Borne,Netherlands,3
+Nieuwkoop,Netherlands,3
+Millingen aan de Rijn,Netherlands,3
+Kampen,Netherlands,3
+Nagele,Netherlands,3
+Emmer-Compascuum,Netherlands,3
+Silvolde,Netherlands,3
+Zwaag,Netherlands,3
+BROOMHEAD,United Kingdom,3
+Waterloo,United Kingdom,3
+BUTCOMBE,United Kingdom,3
+WADDINGTON,United Kingdom,3
+INVERIE,United Kingdom,3
+HIGH ELLINGTON,United Kingdom,3
+SOUTHWOOD,United Kingdom,3
+BILTING,United Kingdom,3
+CARNHELL GREEN,United Kingdom,3
+THATCHAM,United Kingdom,3
+GREENLOANING,United Kingdom,3
+TILLYFOURIE,United Kingdom,3
+MONEWDEN,United Kingdom,3
+TIDCOMBE,United Kingdom,3
+SIMONBURN,United Kingdom,3
+CHIRBURY,United Kingdom,3
+ALTON BARNES,United Kingdom,3
+GATESHEATH,United Kingdom,3
+TURNERS PUDDLE,United Kingdom,3
+QUIDHAMPTON,United Kingdom,3
+DRAETHEN,United Kingdom,3
+CROSS GREEN,United Kingdom,3
+KNOTTY ASH,United Kingdom,3
+DRYHOPE,United Kingdom,3
+MANORDEILO,United Kingdom,3
+BODDAM,United Kingdom,3
+COLKIRK,United Kingdom,3
+HOOK NORTON,United Kingdom,3
+IRELAND,United Kingdom,3
+MUNDERFIELD ROW,United Kingdom,3
+HOOK GREEN,United Kingdom,3
+FISHERSTREET,United Kingdom,3
+RYTHER,United Kingdom,3
+MORFA BYCHAN,United Kingdom,3
+ALLTMAWR,United Kingdom,3
+ILKESTON,United Kingdom,3
+ANNSCROFT,United Kingdom,3
+BADLUARCHRACH,United Kingdom,3
+CHILTON POLDEN,United Kingdom,3
+COLDEN COMMON,United Kingdom,3
+BIRTHORPE,United Kingdom,3
+BOLTON BRIDGE,United Kingdom,3
+MILL OF MONQUICH,United Kingdom,3
+COTHAM,United Kingdom,3
+SNITTON,United Kingdom,3
+CONON BRIDGE,United Kingdom,3
+MARCUS,United Kingdom,3
+CHRYSTON,United Kingdom,3
+LONG NEWNTON,United Kingdom,3
+PITCAIRNGREEN,United Kingdom,3
+BALLYAURGAN,United Kingdom,3
+PITNACREE,United Kingdom,3
+HOGHA GEARRAIDH,United Kingdom,3
+PONDERSBRIDGE,United Kingdom,3
+BENTHOUL,United Kingdom,3
+GWENNAP,United Kingdom,3
+CHURCH LANGLEY,United Kingdom,3
+BALINTORE,United Kingdom,3
+FONTHILL GIFFORD,United Kingdom,3
+FLEUR-DE-LIS,United Kingdom,3
+UPPER GREEN,United Kingdom,3
+SCOUSBURGH,United Kingdom,3
+LEAVELAND,United Kingdom,3
+BRIDGE OF DEE,United Kingdom,3
+KILWINNING,United Kingdom,3
+MAINSTONE,United Kingdom,3
+CURDWORTH,United Kingdom,3
+SHARDLOW,United Kingdom,3
+OULTON STREET,United Kingdom,3
+ONSLOW VILLAGE,United Kingdom,3
+CHALE GREEN,United Kingdom,3
+LITTLEWORTH,United Kingdom,3
+LYDGATE,United Kingdom,3
+HUTTON BONVILLE,United Kingdom,3
+WINTERCLEUGH,United Kingdom,3
+BURNHAM,United Kingdom,3
+FOUR CROSSES,United Kingdom,3
+DRUMRUNIE,United Kingdom,3
+LLANWRDA,United Kingdom,3
+BAMBER'S GREEN,United Kingdom,3
+PUBIL,United Kingdom,3
+CASTLE HEDINGHAM,United Kingdom,3
+PENPERLLENI,United Kingdom,3
+BRANCHILL,United Kingdom,3
+COTON,United Kingdom,3
+GREAT RYTON,United Kingdom,3
+PANTPERTHOG,United Kingdom,3
+BIRCHAM NEWTON,United Kingdom,3
+RAMSBOTTOM,United Kingdom,3
+SALTWICK,United Kingdom,3
+WATTON,United Kingdom,3
+Springfield,United Kingdom,3
+THEAKSTON,United Kingdom,3
+LITTLE HALLINGBURY,United Kingdom,3
+PINCHBECK,United Kingdom,3
+SELBORNE,United Kingdom,3
+CAMBO,United Kingdom,3
+HASLINGFIELD,United Kingdom,3
+BUCKSBURN,United Kingdom,3
+WELLESBOURNE,United Kingdom,3
+BLAKESHALL,United Kingdom,3
+DACRE,United Kingdom,3
+SHIPBOURNE,United Kingdom,3
+HYCEMOOR,United Kingdom,3
+BURITON,United Kingdom,3
+LANGLEEFORD,United Kingdom,3
+KILNINIAN,United Kingdom,3
+PRIMETHORPE,United Kingdom,3
+MAESYCRUGIAU,United Kingdom,3
+GALASHIELS,United Kingdom,3
+HARRIETFIELD,United Kingdom,3
+NORTH CORNELLY,United Kingdom,3
+SHERRINGTON,United Kingdom,3
+MILTON ON STOUR,United Kingdom,3
+LICKEY END,United Kingdom,3
+MIDDLESTONE MOOR,United Kingdom,3
+LEACHKIN,United Kingdom,3
+RHODMAD,United Kingdom,3
+LITTLE BRAMPTON,United Kingdom,3
+SHOLDEN,United Kingdom,3
+WHITBECK,United Kingdom,3
+BAGBY,United Kingdom,3
+BERRY POMEROY,United Kingdom,3
+HURY,United Kingdom,3
+MONK'S GATE,United Kingdom,3
+STRETTON SUGWAS,United Kingdom,3
+EVERTON,United Kingdom,3
+ITTON COMMON,United Kingdom,3
+LLOYNEY,United Kingdom,3
+WREAY,United Kingdom,3
+DALCHREICHART,United Kingdom,3
+KILNSEY,United Kingdom,3
+REW,United Kingdom,3
+BARLEY,United Kingdom,3
+UPPER HACKNEY,United Kingdom,3
+CACRABANK,United Kingdom,3
+HANBURY WOODEND,United Kingdom,3
+CREACOMBE,United Kingdom,3
+LATCHINGDON,United Kingdom,3
+HEYBRIDGE,United Kingdom,3
+Brooks,United Kingdom,3
+FOUR MILE BRIDGE,United Kingdom,3
+KIRKTON,United Kingdom,3
+AUCHRONIE,United Kingdom,3
+GULLANE,United Kingdom,3
+KETTLETHORPE,United Kingdom,3
+BERSTANE,United Kingdom,3
+RINGLES CROSS,United Kingdom,3
+HILTON OF DELNIES,United Kingdom,3
+KINGTON,United Kingdom,3
+BOREHAM STREET,United Kingdom,3
+CRICCIETH,United Kingdom,3
+CLEISH,United Kingdom,3
+CORNHOLME,United Kingdom,3
+IBWORTH,United Kingdom,3
+WADDESDON,United Kingdom,3
+TREGURRIAN,United Kingdom,3
+GREAT EDSTONE,United Kingdom,3
+DALTON-ON-TEES,United Kingdom,3
+BRIDGE OF AVON,United Kingdom,3
+LITTLE WOLFORD,United Kingdom,3
+CRAWLEY DOWN,United Kingdom,3
+SOUTH ELKINGTON,United Kingdom,3
+DRUM,United Kingdom,3
+SHIELHILL,United Kingdom,3
+GEDGRAVE HALL,United Kingdom,3
+DRUID,United Kingdom,3
+SELLACK,United Kingdom,3
+TRECWN,United Kingdom,3
+HORNING,United Kingdom,3
+STRATFORD TONY,United Kingdom,3
+MICKFIELD,United Kingdom,3
+SPROUSTON,United Kingdom,3
+AIKERNESS,United Kingdom,3
+LINCHMERE,United Kingdom,3
+Hampton,United Kingdom,3
+GREAT HORMEAD,United Kingdom,3
+WHITCOMBE,United Kingdom,3
+OXWICK,United Kingdom,3
+NORTON,United Kingdom,3
+GATESLACK,United Kingdom,3
+CRULABHIG,United Kingdom,3
+LOWER WYCHE,United Kingdom,3
+KIPLIN,United Kingdom,3
+BATTLE,United Kingdom,3
+BARTON COMMON,United Kingdom,3
+THREE CROSSES,United Kingdom,3
+BUTTERSHAW,United Kingdom,3
+KEMNAY,United Kingdom,3
+EDIAL,United Kingdom,3
+CHERINGTON,United Kingdom,3
+CHECKENDON,United Kingdom,3
+PONTSHILL,United Kingdom,3
+YOCKENTHWAITE,United Kingdom,3
+LOOSE,United Kingdom,3
+MEALASTA,United Kingdom,3
+CILGWYN,United Kingdom,3
+BARNSTONE,United Kingdom,3
+HUMBERSTONE,United Kingdom,3
+ALLANTON,United Kingdom,3
+Snow Hill,United States,3
+Ahoskie,United States,3
+Stafford,United States,3
+Mankato,United States,3
+Prattsville,United States,3
+East Waterford,United States,3
+Bell,United States,3
+Miltonvale,United States,3
+Millburn,United States,3
+Globe,United States,3
+Hingham,United States,3
+Warwick,United States,3
+Venice,United States,3
+Garwood,United States,3
+Sissonville,United States,3
+Fort Jennings,United States,3
+Butte,United States,3
+San Fernando,United States,3
+Terrell,United States,3
+Mccurtain,United States,3
+Okemos,United States,3
+Delta,United States,3
+Woodstock,United States,3
+Big Piney,United States,3
+Vanderbilt,United States,3
+Newalla,United States,3
+Wimberley,United States,3
+Rancho Mirage,United States,3
+Delhi,United States,3
+Valdez Creek Mine,United States,3
+Northport,United States,3
+Stanardsville,United States,3
+Somerset,United States,3
+North Gulf Beach,United States,3
+Edgewood,United States,3
+Bellefontaine,United States,3
+Laurinburg,United States,3
+Jamestown,United States,3
+Pompano Beach,United States,3
+New Brockton,United States,3
+Phila,United States,3
+Wells,United States,3
+Newburgh,United States,3
+Benton,United States,3
+Bellefonte,United States,3
+Flatonia,United States,3
+Watkinsville,United States,3
+Vermilion,United States,3
+Roseville,United States,3
+Lynchburg,United States,3
+Quilcene,United States,3
+Cutler,United States,3
+Wahpeton,United States,3
+Le Mars,United States,3
+Benld,United States,3
+Bemidji,United States,3
+Colebrook,United States,3
+New Florence,United States,3
+Cuyahoga Falls,United States,3
+St Petersburg,United States,3
+Danvers,United States,3
+Gresham,United States,3
+Ramona,United States,3
+Colton,United States,3
+Kopperl,United States,3
+Bryn Mawr,United States,3
+Bon Wier,United States,3
+Ridge,United States,3
+Brevard,United States,3
+Van Buren,United States,3
+Federal Way,United States,3
+Hercules,United States,3
+Aztec,United States,3
+San Bruno,United States,3
+Atascosa,United States,3
+Washta,United States,3
+Jasper,United States,3
+Tyler,United States,3
+Hinesville,United States,3
+Mcdade,United States,3
+Hayesville,United States,3
+Hillsboro,United States,3
+Sedro Woolley,United States,3
+Little Ferry,United States,3
+Chester Heights,United States,3
+Cookeville,United States,3
+Nucla,United States,3
+Donaldsonville,United States,3
+Albemarle,United States,3
+Battle Lake,United States,3
+Pullman,United States,3
+Thayerville,United States,3
+North Beach,United States,3
+Malvern,United States,3
+Harrison,United States,3
+Hickory Tavern,United States,3
+Monrovia,United States,3
+Merrill,United States,3
+Golden City,United States,3
+Rockingham,United States,3
+Chula,United States,3
+Humboldt,United States,3
+Hammondsport,United States,3
+Roanoke Rapids,United States,3
+Newport,United States,3
+San Luis Obispo,United States,3
+Six Mile,United States,3
+Oakdale,United States,3
+Lohn,United States,3
+Maydelle,United States,3
+Cochran,United States,3
+Dow City,United States,3
+Latham,United States,3
+Landenberg,United States,3
+Bear Valley Springs,United States,3
+Page,United States,3
+Opelousas,United States,3
+Rancho Santa Margarita,United States,3
+Paso Robles,United States,3
+Prue,United States,3
+Forreston,United States,3
+Randolph,United States,3
+Bonners Ferry,United States,3
+Nichols,United States,3
+Milpitas,United States,3
+West Milford,United States,3
+Spencer,United States,3
+Elko,United States,3
+Mustang,United States,3
+King Of Prussia,United States,3
+Coweta,United States,3
+Woodbury,United States,3
+Sonora,United States,3
+Sperryville,United States,3
+Grass Valley,United States,3
+Pinehurst,United States,3
+Schaefferstown,United States,3
+The Plains,United States,3
+Grants Pass,United States,3
+Justice,United States,3
+Humphrey,United States,3
+Young Harris,United States,3
+Orleans,United States,3
+Haynesville,United States,3
+Simi Valley,United States,3
+Wichita Falls,United States,3
+Bay St Louis,United States,3
+Wynnewood,United States,3
+China Lake,United States,3
+Jim Hogg,United States,3
+Kooskia,United States,3
+Twin Lakes,United States,3
+Maiden Rock,United States,3
+Glen Burnie,United States,3
+Pleasantville (Atlantic),United States,3
+Keaau,United States,3
+Gooding,United States,3
+LANKEYS CREEK,Australia,2
+DARTMOUTH,Australia,2
+KALKARINDJI,Australia,2
+BEELBANGERA,Australia,2
+STEEPLE FLAT,Australia,2
+NABAWA,Australia,2
+CUBALLING,Australia,2
+KALGOORLIE,Australia,2
+WYNNUM,Australia,2
+WATANOBBI,Australia,2
+FLINDERS VIEW,Australia,2
+ELIZABETH BEACH,Australia,2
+MARRICKVILLE SOUTH,Australia,2
+MILLCHESTER,Australia,2
+LINDENOW,Australia,2
+ST KILDA ROAD CENTRAL,Australia,2
+THREE BRIDGES,Australia,2
+BLUE VALE,Australia,2
+MOUNT DAVID,Australia,2
+TOMAHAWK,Australia,2
+UPPER YARRAMAN,Australia,2
+MANDALAY,Australia,2
+LIGHT PASS,Australia,2
+SOUTH SPRINGFIELD,Australia,2
+MARTINS CREEK,Australia,2
+THE PALMS,Australia,2
+XANTIPPE,Australia,2
+BARA,Australia,2
+SCOPUS,Australia,2
+MERU,Australia,2
+KOYUGA SOUTH,Australia,2
+HACKNEY,Australia,2
+PINEWOOD,Australia,2
+Sheffield,Australia,2
+WOODY POINT,Australia,2
+MARMION,Australia,2
+PARAP,Australia,2
+DUNLUCE,Australia,2
+FLOREAT FORUM,Australia,2
+BLETCHINGTON,Australia,2
+GALORE,Australia,2
+LOWER LEWIS PONDS,Australia,2
+MOOLORT,Australia,2
+EIMEO,Australia,2
+Beaufort,Australia,2
+DARLING HEIGHTS,Australia,2
+FARINA,Australia,2
+Dalton,Australia,2
+ALISON,Australia,2
+BOORAN ROAD PO,Australia,2
+PINK LILY,Australia,2
+WRATTENS FOREST,Australia,2
+COFFEE CAMP,Australia,2
+Sherwood,Australia,2
+WALKAWAY,Australia,2
+AUBURN VALE,Australia,2
+BOOROOBIN,Australia,2
+WINNAP,Australia,2
+CAPALABA BC,Australia,2
+BIRKALLA,Australia,2
+BUNG BONG,Australia,2
+ELLISTON,Australia,2
+CUMBOOGLE,Australia,2
+COOLCHA,Australia,2
+WOODLANDS,Australia,2
+CARNEGIE,Australia,2
+Alexandria,Australia,2
+BASIN POCKET,Australia,2
+ALEXANDRA HILLS,Australia,2
+WILLINA,Australia,2
+LOONGANA,Australia,2
+HAMILTON CENTRAL,Australia,2
+LOCKHART,Australia,2
+YABBA SOUTH,Australia,2
+TANJA,Australia,2
+DINNER PLAIN,Australia,2
+BENDIGO FORWARD,Australia,2
+MOUNT WALKER,Australia,2
+GRANITE ROCK,Australia,2
+Collinsville,Australia,2
+WATTLE GROVE,Australia,2
+GRIFFITH EAST,Australia,2
+DAADENNING CREEK,Australia,2
+BOWGADA,Australia,2
+INGLISTON,Australia,2
+BANKSMEADOW,Australia,2
+MARDIE,Australia,2
+PINE VALLEY,Australia,2
+GORDONVILLE,Australia,2
+WOORREE,Australia,2
+GUNUNA,Australia,2
+BONNIE DOON,Australia,2
+CANIA,Australia,2
+ALLENS RIVULET,Australia,2
+HILLVUE,Australia,2
+Moore,Australia,2
+BUMBERRAH,Australia,2
+WINSTON,Australia,2
+DRY PLAIN,Australia,2
+WANDOWN,Australia,2
+GLOUCESTER TOPS,Australia,2
+GOWRIE,Australia,2
+REDHILL FARMS,Australia,2
+WONTHAGGI,Australia,2
+PARREARRA,Australia,2
+LETHBRIDGE PARK,Australia,2
+HARPERS HILL,Australia,2
+EMBLETON,Australia,2
+PADSTOW,Australia,2
+TULLOONA,Australia,2
+MIDDLE PARK,Australia,2
+DINNINUP,Australia,2
+WARATAH BAY,Australia,2
+Long Beach,Australia,2
+MELBA,Australia,2
+Amherst,Australia,2
+LANEFIELD,Australia,2
+WATTLEBANK,Australia,2
+LANSDOWNE FOREST,Australia,2
+DUARINGA,Australia,2
+WONDALGA,Australia,2
+BURRIER,Australia,2
+RURAL VIEW,Australia,2
+REESVILLE,Australia,2
+TUMUT PLAINS,Australia,2
+BODALLA,Australia,2
+BOUNDARY BEND,Australia,2
+MALARGA,Australia,2
+SOUTHGATE,Australia,2
+YULUMA,Australia,2
+DRY CREEK,Australia,2
+TOLMANS HILL,Australia,2
+Watford,Canada,2
+Albanel,Canada,2
+St John's,Canada,2
+Brechin,Canada,2
+Laval,Canada,2
+Crowsnest Pass,Canada,2
+Milton,Canada,2
+Fulford Harbour,Canada,2
+Courtenay,Canada,2
+Bromptonville,Canada,2
+Port Perry,Canada,2
+SACKVILLE,Canada,2
+Ville Le Gardeur,Canada,2
+Salmo,Canada,2
+Oyster River,Canada,2
+Val Des Bois,Canada,2
+Hearst,Canada,2
+Ma-Me-O-Beach,Canada,2
+Guigues,Canada,2
+Hillsburgh,Canada,2
+Cobourg,Canada,2
+Cambray,Canada,2
+Wabigoon,Canada,2
+Craigmyle,Canada,2
+Kimberley,Canada,2
+Owen Sound,Canada,2
+Dodsland,Canada,2
+Erin Mills,Canada,2
+Cardinal,Canada,2
+Algoma Mills,Canada,2
+Gander,Canada,2
+Bindloss,Canada,2
+Ramore,Canada,2
+Centralia,Canada,2
+St Leonard D'aston,Canada,2
+Lansdowne,Canada,2
+Notre Dame Des Laurentides,Canada,2
+Inuvik,Canada,2
+Strongfield,Canada,2
+Blackstock,Canada,2
+Castor,Canada,2
+Glenfinnan,Canada,2
+Grise Fiord,Canada,2
+Westmeath,Canada,2
+St Clements,Canada,2
+Mannweiler-Cölln,Germany,2
+Oelsnitz,Germany,2
+Wolfsheim,Germany,2
+Bosbüll,Germany,2
+Eiterfeld,Germany,2
+Bremen Kattenturm,Germany,2
+Beuren,Germany,2
+Braunlage,Germany,2
+Detmold Berlebeck,Germany,2
+Utting,Germany,2
+Bechhofen,Germany,2
+Nattheim,Germany,2
+Weitnau,Germany,2
+Rottenbuch,Germany,2
+Wolfratshausen,Germany,2
+Friedberg,Germany,2
+Steinach,Germany,2
+Rehlingen,Germany,2
+Krummendeich,Germany,2
+Geilenkirchen,Germany,2
+Düsseldorf Gerresheim,Germany,2
+Bernried,Germany,2
+Runkel,Germany,2
+Herbrechtingen,Germany,2
+Bad Lauterberg im Harz,Germany,2
+Weißenfels,Germany,2
+Ratingen Homberg,Germany,2
+Oberasbach,Germany,2
+Brunnthal,Germany,2
+Nordholz,Germany,2
+Bergisch Gladbach Moitzfeld,Germany,2
+Vilsbiburg,Germany,2
+Lüneburg,Germany,2
+Berlin Reinickendorf,Germany,2
+Dinklage,Germany,2
+Eßweiler,Germany,2
+Lindau,Germany,2
+Kraiburg,Germany,2
+Attendorf,Germany,2
+Berlin Neukölln,Germany,2
+Büchlberg,Germany,2
+Alsleben,Germany,2
+Weissach,Germany,2
+Untermarchtal,Germany,2
+Osnabrück,Germany,2
+Rollhäusl,Germany,2
+Allstedt,Germany,2
+Grafling,Germany,2
+Neuss Furth-Süd,Germany,2
+Delbrück,Germany,2
+Starnberg,Germany,2
+Ruppertshofen,Germany,2
+Amberg,Germany,2
+Kelheim,Germany,2
+Satow,Germany,2
+Gleiszellen-Gleishorbach,Germany,2
+Finowfurt,Germany,2
+Stemshorn,Germany,2
+Berschweiler bei Baumholder,Germany,2
+Riedenburg,Germany,2
+Lauf,Germany,2
+Hasselfelde,Germany,2
+Minden Meißen,Germany,2
+Georgensgmünd,Germany,2
+Ribnitz-Damgarten,Germany,2
+Zotzenheim,Germany,2
+Morbach,Germany,2
+Babenhausen,Germany,2
+Racksen,Germany,2
+Hamburg Hammerbrook,Germany,2
+Berßel,Germany,2
+Stuttgart Frauenkopf,Germany,2
+Reutlingen Weststadt,Germany,2
+Bad Überkingen,Germany,2
+Bad Windsheim,Germany,2
+Thannhausen,Germany,2
+Surwold,Germany,2
+Nordhalben,Germany,2
+Beiersdorf,Germany,2
+Bruck,Germany,2
+Bad Schwartau,Germany,2
+Finnentrop,Germany,2
+Münstertal,Germany,2
+Radebeul,Germany,2
+Berlin Zehlendorf,Germany,2
+Wohratal,Germany,2
+Brevörde,Germany,2
+Taura,Germany,2
+Grethem,Germany,2
+Karlsruhe Weststadt,Germany,2
+Dettenhausen,Germany,2
+Konstanz Petershausen,Germany,2
+Bielefeld Brackwede,Germany,2
+Niederhausen,Germany,2
+Ratingen Schwarzbach,Germany,2
+Stockelsdorf,Germany,2
+Karlsruhe Neureut,Germany,2
+Steinfeld,Germany,2
+Prutting,Germany,2
+Sessenhausen,Germany,2
+Wilstedt,Germany,2
+Auetal,Germany,2
+Zwiesel,Germany,2
+Königstein im Taunus,Germany,2
+Niedernberg,Germany,2
+Pohl,Germany,2
+Pleitersheim,Germany,2
+Flarchheim,Germany,2
+Oberpframmern,Germany,2
+Altshausen,Germany,2
+Düsseldorf Mörsenbroich,Germany,2
+Hamburg Curslack,Germany,2
+Bad Sülze,Germany,2
+Hamburg Poppenbüttel,Germany,2
+Rauenberg,Germany,2
+Arnstein,Germany,2
+Itzehoe,Germany,2
+Schiltberg,Germany,2
+Pfronstetten,Germany,2
+Dorstadt,Germany,2
+Hamburg Lurup,Germany,2
+Berlin Treptow,Germany,2
+Hohenstadt,Germany,2
+Hagermarsch,Germany,2
+Pleidelsheim,Germany,2
+Büren,Germany,2
+Bad Brambach,Germany,2
+Feusdorf,Germany,2
+Viereth-Trunstadt,Germany,2
+CHARLEVILLE-MÉZIÈRES,France,2
+SAINT-DIÉ,France,2
+SIX-FOURS-LES-PLAGES,France,2
+SAINT-SÉBASTIEN-SUR-LOIRE,France,2
+FORBACH,France,2
+MULHOUSE,France,2
+CHÂTILLON,France,2
+LE BOUSCAT,France,2
+ORLÉANS,France,2
+BOBIGNY,France,2
+BLAGNAC,France,2
+Orange,France,2
+ANGLET,France,2
+LORIENT,France,2
+VANNES,France,2
+LA VARENNE-SAINT-HILAIRE,France,2
+OULLINS,France,2
+BÉTHUNE,France,2
+CHELLES,France,2
+DZAOUDZI,France,2
+TOURS,France,2
+FOUGÈRES,France,2
+HAGUENAU,France,2
+LES LILAS,France,2
+ISSY-LES-MOULINEAUX,France,2
+LA GARDE,France,2
+CORBEIL-ESSONNES,France,2
+PLAISIR,France,2
+VILLEPARISIS,France,2
+LE CHESNAY,France,2
+CHERBOURG,France,2
+Brazzolo,Italy,2
+Chiuduno,Italy,2
+Dozza Imolese,Italy,2
+Osimo,Italy,2
+Cibiana Di Cadore,Italy,2
+Scaldasole,Italy,2
+Borgio Verezzi,Italy,2
+Osio Sopra,Italy,2
+Castello,Italy,2
+Castri Di Lecce,Italy,2
+Il Castagno Val D'Elsa,Italy,2
+Portovecchio,Italy,2
+Monastero Di Lanzo,Italy,2
+Villamaina,Italy,2
+Mogliano Veneto,Italy,2
+Rocca Tunda,Italy,2
+Vidigulfo,Italy,2
+Gaibola,Italy,2
+Ordona,Italy,2
+Mornico Losana,Italy,2
+Santa Severina,Italy,2
+Ruta,Italy,2
+Arabona,Italy,2
+Francavilla Sul Sinni,Italy,2
+Borgata Finocchio,Italy,2
+Solimbergo,Italy,2
+Morgongiori,Italy,2
+Terme Vigliatore,Italy,2
+Lanzo Di Martina Franca,Italy,2
+Diano D'Alba,Italy,2
+Domusnovas,Italy,2
+Manzi,Italy,2
+Cevo,Italy,2
+Sant'Ippolito,Italy,2
+Camaro Inferiore,Italy,2
+Casal Velino Scalo,Italy,2
+Soriano Calabro,Italy,2
+Bova Marina,Italy,2
+Comezzano,Italy,2
+Mazzoleni,Italy,2
+Poggiardo,Italy,2
+Sabbio Bergamasco,Italy,2
+Mathi,Italy,2
+Pompei Scavi,Italy,2
+Licola,Italy,2
+San Venerio,Italy,2
+Vallemare Di Cepagatti,Italy,2
+San Mosti,Italy,2
+Seppio,Italy,2
+Carmiano,Italy,2
+Porto Corsini,Italy,2
+Triponzo,Italy,2
+Casavecchia,Italy,2
+Balvano,Italy,2
+Concesa,Italy,2
+Lumezzane,Italy,2
+Faver,Italy,2
+Prato Ranieri,Italy,2
+Secli,Italy,2
+Flumignano,Italy,2
+Bosnasco,Italy,2
+Canelli Recapito Gancia,Italy,2
+Annicco,Italy,2
+Salvirola,Italy,2
+San Domino,Italy,2
+Gorlago,Italy,2
+Capannori,Italy,2
+San Biagio In Padule,Italy,2
+Hoogerheide,Netherlands,2
+Nunspeet,Netherlands,2
+Nieuw-Buinen,Netherlands,2
+Opmeer,Netherlands,2
+Bolsward,Netherlands,2
+Kerkrade,Netherlands,2
+Sas van Gent,Netherlands,2
+Rouveen,Netherlands,2
+Oost-Souburg,Netherlands,2
+Merkelbeek,Netherlands,2
+Albergen,Netherlands,2
+Buitenpost,Netherlands,2
+Huizen,Netherlands,2
+Gendringen,Netherlands,2
+Barendrecht,Netherlands,2
+IJmuiden,Netherlands,2
+Tegelen,Netherlands,2
+De Lier,Netherlands,2
+Vinkeveen,Netherlands,2
+Raalte,Netherlands,2
+Vlijmen,Netherlands,2
+Schoonhoven,Netherlands,2
+Velp,Netherlands,2
+Maassluis,Netherlands,2
+Houten,Netherlands,2
+Hoensbroek,Netherlands,2
+Heerenveen,Netherlands,2
+Bruinisse,Netherlands,2
+Eelde,Netherlands,2
+Odijk,Netherlands,2
+Honselersdijk,Netherlands,2
+Harderwijk,Netherlands,2
+Reeuwijk,Netherlands,2
+Ouderkerk aan de Amstel,Netherlands,2
+Sint Willebrord,Netherlands,2
+Son,Netherlands,2
+Eibergen,Netherlands,2
+Middelburg,Netherlands,2
+De Lutte,Netherlands,2
+Sint Odiliënberg,Netherlands,2
+Uithuizen,Netherlands,2
+Deurne,Netherlands,2
+Klarenbeek,Netherlands,2
+Vianen,Netherlands,2
+BOOTH WOOD,United Kingdom,2
+PRISTON,United Kingdom,2
+BLUNDESTON,United Kingdom,2
+COLNE ENGAINE,United Kingdom,2
+GLENEAGLES,United Kingdom,2
+BRYNAMMAN,United Kingdom,2
+WOODMINTON,United Kingdom,2
+CAMPERDOWN,United Kingdom,2
+PORTSKERRA,United Kingdom,2
+MALLENY MILLS,United Kingdom,2
+YSTRAD AERON,United Kingdom,2
+STEMSTER,United Kingdom,2
+INGLESHAM,United Kingdom,2
+GREAT SUTTON,United Kingdom,2
+SOLVA,United Kingdom,2
+BLAIRMORE,United Kingdom,2
+AUCHENCROW,United Kingdom,2
+EASTER TULLOCH,United Kingdom,2
+NORMANTON,United Kingdom,2
+ASHFORD,United Kingdom,2
+LLANRHAEADR,United Kingdom,2
+KIRN,United Kingdom,2
+ARDTEATLE,United Kingdom,2
+CEMMAES,United Kingdom,2
+STOKE BLISS,United Kingdom,2
+DALBRECK,United Kingdom,2
+LANGFORD,United Kingdom,2
+KIRKBURTON,United Kingdom,2
+PANT-LASAU,United Kingdom,2
+LANTON,United Kingdom,2
+MEADLE,United Kingdom,2
+RUSHMERE,United Kingdom,2
+LOXWOOD,United Kingdom,2
+BINWESTON,United Kingdom,2
+BLACKWATERFOOT,United Kingdom,2
+MEON,United Kingdom,2
+QUARTER,United Kingdom,2
+KILBARCHAN,United Kingdom,2
+MUCH WENLOCK,United Kingdom,2
+Star,United Kingdom,2
+GUITH,United Kingdom,2
+LATTON,United Kingdom,2
+DEERHILL,United Kingdom,2
+BRADFORD-ON-TONE,United Kingdom,2
+RADBOURNE,United Kingdom,2
+ILFORD,United Kingdom,2
+GURNARD,United Kingdom,2
+TINDALE,United Kingdom,2
+WAVERTON,United Kingdom,2
+KEMERTON,United Kingdom,2
+EDGERLEY,United Kingdom,2
+CHARLESWORTH,United Kingdom,2
+ACHAGLASS,United Kingdom,2
+Milford,United Kingdom,2
+ABERERCH,United Kingdom,2
+SCALLASTLE,United Kingdom,2
+BROMFIELD,United Kingdom,2
+BURLAWN,United Kingdom,2
+MOREBATTLE,United Kingdom,2
+HEACHAM,United Kingdom,2
+WORTHEN,United Kingdom,2
+LLANWYDDELAN,United Kingdom,2
+LLANMIHANGEL,United Kingdom,2
+INGROW,United Kingdom,2
+SAXMUNDHAM,United Kingdom,2
+PLASISAF,United Kingdom,2
+GARBHALLT,United Kingdom,2
+LIVINGSTON VILLAGE,United Kingdom,2
+BELL END,United Kingdom,2
+RAYNE,United Kingdom,2
+PONTESBURY,United Kingdom,2
+BALNAHARD,United Kingdom,2
+SEDLESCOMBE,United Kingdom,2
+BROWNSTON,United Kingdom,2
+ASSELBY,United Kingdom,2
+LOCHMADDY,United Kingdom,2
+WALTHAM ST LAWRENCE,United Kingdom,2
+SHIPLAKE,United Kingdom,2
+DORKET HEAD,United Kingdom,2
+LANGSKAILL,United Kingdom,2
+KETSBY,United Kingdom,2
+TOWIE,United Kingdom,2
+DOUNE,United Kingdom,2
+LONGHOPE,United Kingdom,2
+NOUNSLEY,United Kingdom,2
+BLETSOE,United Kingdom,2
+BUTLERS MARSTON,United Kingdom,2
+LUTHRIE,United Kingdom,2
+A'CHILL,United Kingdom,2
+TANNADICE,United Kingdom,2
+LLANGYBI,United Kingdom,2
+ASTON END,United Kingdom,2
+DALABROG,United Kingdom,2
+LITTLE HUCKLOW,United Kingdom,2
+LYMORE,United Kingdom,2
+GELLIGAER,United Kingdom,2
+DARVEL,United Kingdom,2
+NEWCHURCH,United Kingdom,2
+LINDLEY,United Kingdom,2
+ARDRADNAIG,United Kingdom,2
+GLENQUIECH,United Kingdom,2
+FOREST ROW,United Kingdom,2
+Newport,United Kingdom,2
+BLAIR'S FERRY,United Kingdom,2
+BIRKENHILLS,United Kingdom,2
+TEDSTONE DELAMERE,United Kingdom,2
+PORTON,United Kingdom,2
+TYE GREEN,United Kingdom,2
+BEDOL,United Kingdom,2
+SRON DOIRE,United Kingdom,2
+WHIN LANE END,United Kingdom,2
+TATTERFORD,United Kingdom,2
+OWSTON,United Kingdom,2
+BAILE NAN CAILLEACH,United Kingdom,2
+SCRABSTER,United Kingdom,2
+ARDEN,United Kingdom,2
+SCARTHO,United Kingdom,2
+BACKASKAILL,United Kingdom,2
+DIDDINGTON,United Kingdom,2
+EAST CLANDON,United Kingdom,2
+ROLLESBY,United Kingdom,2
+NETHERHALL,United Kingdom,2
+PEASLAKE,United Kingdom,2
+SOMERSHAM,United Kingdom,2
+HOLME LACY,United Kingdom,2
+LLWYNDAFYDD,United Kingdom,2
+ROFFEY,United Kingdom,2
+FLECKNEY,United Kingdom,2
+EAST PANSON,United Kingdom,2
+MELBOURN,United Kingdom,2
+ADMINGTON,United Kingdom,2
+TESTWOOD,United Kingdom,2
+BROCKLEY GREEN,United Kingdom,2
+REDBERTH,United Kingdom,2
+WARBURTON,United Kingdom,2
+BURTERSETT,United Kingdom,2
+CATHERTON,United Kingdom,2
+SHAROE GREEN,United Kingdom,2
+TIERS CROSS,United Kingdom,2
+BLAINA,United Kingdom,2
+WOODEND,United Kingdom,2
+CORNQUOY,United Kingdom,2
+FAWLEY CHAPEL,United Kingdom,2
+MUDFORD,United Kingdom,2
+KILBRIDEMORE,United Kingdom,2
+ARGRENNAN,United Kingdom,2
+IDVIES,United Kingdom,2
+CHAPEL,United Kingdom,2
+TOCHER,United Kingdom,2
+FAIRWARP,United Kingdom,2
+MORFA NEFYN,United Kingdom,2
+ERDINGTON,United Kingdom,2
+ELLERTON,United Kingdom,2
+Newtown,United Kingdom,2
+SHUTLANGER,United Kingdom,2
+LITTLE CHEVERELL,United Kingdom,2
+ACKLETON,United Kingdom,2
+KNOCKHOLT,United Kingdom,2
+NEWMILL,United Kingdom,2
+INSCH,United Kingdom,2
+NEW ROW,United Kingdom,2
+ARDINGTON,United Kingdom,2
+PLOXGREEN,United Kingdom,2
+ASPATRIA,United Kingdom,2
+CHARMOUTH,United Kingdom,2
+SEVEN SISTERS,United Kingdom,2
+POLWARTH,United Kingdom,2
+STRONE,United Kingdom,2
+LISTON,United Kingdom,2
+STOKE GABRIEL,United Kingdom,2
+ALLINGTON,United Kingdom,2
+CAENBY CORNER,United Kingdom,2
+JAYES PARK,United Kingdom,2
+SMUG OAK,United Kingdom,2
+PETTON,United Kingdom,2
+ARDINAMAR,United Kingdom,2
+CAMBLESFORTH,United Kingdom,2
+HORRABRIDGE,United Kingdom,2
+HEWELL GRANGE,United Kingdom,2
+SANDGREEN,United Kingdom,2
+BURTON-IN-KENDAL,United Kingdom,2
+EAST STOKE,United Kingdom,2
+GATEHOUSE,United Kingdom,2
+CHILSON,United Kingdom,2
+TULLOES,United Kingdom,2
+HEMINGTON,United Kingdom,2
+KINLOCH LAGGAN,United Kingdom,2
+REEPHAM,United Kingdom,2
+RUDDINGTON,United Kingdom,2
+DRUMWHINDLE,United Kingdom,2
+ASHLEY,United Kingdom,2
+CAVENS,United Kingdom,2
+SADDELL,United Kingdom,2
+DERWENLAS,United Kingdom,2
+HARTWOOD,United Kingdom,2
+CAIRNARGAT,United Kingdom,2
+PRESTBURY,United Kingdom,2
+BRIGHSTONE,United Kingdom,2
+Amesbury,United States,2
+Montpelier,United States,2
+Chillicothe,United States,2
+Ceresco,United States,2
+Maiden,United States,2
+Geneva,United States,2
+Succasunna,United States,2
+Mesa,United States,2
+Portville,United States,2
+Massey,United States,2
+Thomasboro,United States,2
+Houma,United States,2
+Auberry,United States,2
+Red Hook,United States,2
+East Grand Forks,United States,2
+Arab,United States,2
+Cook,United States,2
+Wedgwood,United States,2
+Moanalua,United States,2
+Sanford,United States,2
+Hoffman Estates,United States,2
+Deltona,United States,2
+Bigelow,United States,2
+Citronelle,United States,2
+Diamond Lake,United States,2
+Paradise,United States,2
+Clarks Hill,United States,2
+Bellwood,United States,2
+Rome,United States,2
+Carrier,United States,2
+Wexford,United States,2
+Sherwood,United States,2
+Bohemia,United States,2
+Maysville,United States,2
+Ludington,United States,2
+Star,United States,2
+Tinley Park,United States,2
+Macomb,United States,2
+Carmel,United States,2
+Havre,United States,2
+Wildwood,United States,2
+Hephzibah,United States,2
+Clarkfield,United States,2
+Suffern,United States,2
+Great Neck,United States,2
+Brimson,United States,2
+Wethersfield,United States,2
+Long Beach,United States,2
+Westchester,United States,2
+Parachute,United States,2
+Uniontown,United States,2
+Forum,United States,2
+Onalaska,United States,2
+El Reno,United States,2
+Ripley,United States,2
+Missoula,United States,2
+Baywood Park,United States,2
+Melrose,United States,2
+Fenton,United States,2
+Bluegrass,United States,2
+Swanton,United States,2
+Hill City,United States,2
+Kewaskum,United States,2
+Table Grove,United States,2
+Byron Center,United States,2
+Willoughby,United States,2
+Pennsville,United States,2
+Oceanside,United States,2
+Challenge,United States,2
+Cape Pole,United States,2
+Redding,United States,2
+Defiance,United States,2
+Delavan,United States,2
+Chelsea,United States,2
+Ione,United States,2
+Winter Park,United States,2
+Bonduel,United States,2
+Prairie Farm,United States,2
+Dale City,United States,2
+Sikeston,United States,2
+Oak Harbor,United States,2
+Smithland,United States,2
+Gary,United States,2
+Spearman,United States,2
+Mercury,United States,2
+Sophia,United States,2
+Higganum,United States,2
+Fort Riley,United States,2
+Buena Park,United States,2
+Sierra Vista,United States,2
+Temperance,United States,2
+Fortuna,United States,2
+Marlin,United States,2
+Kingsport,United States,2
+West Warwick,United States,2
+Macks Creek,United States,2
+Getzville,United States,2
+Diamond Bar,United States,2
+Noxapater,United States,2
+Harrisville,United States,2
+Kenosha,United States,2
+Blue Ridge Summit,United States,2
+Kamuela,United States,2
+Marshfield,United States,2
+Lostine,United States,2
+Scandia,United States,2
+Kalispell,United States,2
+Greenwood Lake,United States,2
+Ferguson,United States,2
+Lenoir,United States,2
+Houlton,United States,2
+Damon,United States,2
+Camdenton,United States,2
+Peekskill,United States,2
+Giddings,United States,2
+Venetie,United States,2
+French Camp,United States,2
+Fabens,United States,2
+Pocatello,United States,2
+Toronto,United States,2
+Stoutland,United States,2
+Ponder,United States,2
+Crystal,United States,2
+Warm Lake,United States,2
+Berkeley,United States,2
+Bel Air,United States,2
+Pekin,United States,2
+Vallejo,United States,2
+Wallace,United States,2
+Valparaiso,United States,2
+Endicott,United States,2
+Wood Dale,United States,2
+Vero Beach,United States,2
+Guernsey,United States,2
+Wittenberg,United States,2
+Nolensville,United States,2
+Sullivan City,United States,2
+Alvin,United States,2
+Nondalton,United States,2
+Mountain Home,United States,2
+Bainbridge,United States,2
+Kannapolis,United States,2
+Cascade,United States,2
+Pocono Lake,United States,2
+Sacaton,United States,2
+Mc Donald,United States,2
+Clintonville,United States,2
+Havana,United States,2
+Felton,United States,2
+WANDEARAH EAST,Australia,1
+TARLO,Australia,1
+BAMGANIE,Australia,1
+HOPPERS CROSSING,Australia,1
+DIXIE,Australia,1
+Mount Pleasant,Australia,1
+REEFTON,Australia,1
+STANWELL TOPS,Australia,1
+MOUNT WALLACE,Australia,1
+PARACOMBE,Australia,1
+NIKENBAH,Australia,1
+ROSENTHAL HEIGHTS,Australia,1
+KINGS FOREST,Australia,1
+NOBLE PARK NORTH,Australia,1
+MOONEM,Australia,1
+ROB ROY,Australia,1
+TASCOTT,Australia,1
+CHARTWELL,Australia,1
+CRAIGIE,Australia,1
+SOFALA,Australia,1
+PINEVALE,Australia,1
+MOSQUITO CREEK,Australia,1
+STAFFORD DC,Australia,1
+BOOMOODEERIE,Australia,1
+MOUNT CRYSTAL,Australia,1
+DJARAWONG,Australia,1
+DYRAABA,Australia,1
+KALLANGUR,Australia,1
+JUNEE,Australia,1
+CARSS PARK,Australia,1
+SACKVILLE,Australia,1
+PONTVILLE,Australia,1
+MURRAY ISLAND,Australia,1
+GREYMARE,Australia,1
+MOUNT DRUITT VILLAGE,Australia,1
+FRANKFORD,Australia,1
+SOUTH BUNBURY,Australia,1
+PIKES CREEK,Australia,1
+COLONGRA,Australia,1
+HASTINGS,Australia,1
+ORIELTON,Australia,1
+IVERAGH,Australia,1
+ROMAINE,Australia,1
+WONGARBON,Australia,1
+NULSEN,Australia,1
+PUNCHBOWL,Australia,1
+YIMBUN,Australia,1
+MOUNT CLEAR,Australia,1
+MOUNTAIN CREEK,Australia,1
+COMOBELLA,Australia,1
+CLUNES,Australia,1
+KNOXFIELD,Australia,1
+GLENVALE,Australia,1
+KOSCIUSZKO,Australia,1
+KURUNJANG,Australia,1
+DARLIMURLA,Australia,1
+EAST BOWES,Australia,1
+PORT KEMBLA,Australia,1
+GINDORAN,Australia,1
+BOOLE POOLE,Australia,1
+BUNDARRA,Australia,1
+ESKDALE,Australia,1
+MERMAID WATERS,Australia,1
+GEELONG WEST,Australia,1
+YAGOONYA,Australia,1
+NEWBRIDGE,Australia,1
+GORMANS HILL,Australia,1
+Damascus,Australia,1
+LAKE GEORGE,Australia,1
+BACK PLAINS,Australia,1
+GATTON COLLEGE,Australia,1
+CHINANGIN,Australia,1
+LARRIMAH,Australia,1
+CHILLINGOLLAH,Australia,1
+Fullerton,Australia,1
+KIRKSTALL,Australia,1
+LOGAN CITY BC,Australia,1
+WAMBERAL,Australia,1
+SOUTH GUNDAGAI,Australia,1
+PATYAH,Australia,1
+STURT CREEK,Australia,1
+OWANYILLA,Australia,1
+LAURA,Australia,1
+WOLFFDENE,Australia,1
+LARRAKEYAH,Australia,1
+LAMINGTON,Australia,1
+BRIDGES,Australia,1
+MOUNT MARLOW,Australia,1
+ARTHURVILLE,Australia,1
+INGEBIRAH,Australia,1
+LIFFEY,Australia,1
+HOPEVALE,Australia,1
+Midland,Australia,1
+MARRICKVILLE,Australia,1
+MAGRA,Australia,1
+SEVERNLEA,Australia,1
+WANDAL,Australia,1
+ANAMBAH,Australia,1
+CAMIRA CREEK,Australia,1
+EAST DAMBORING,Australia,1
+LANE COVE,Australia,1
+DUVAL,Australia,1
+NEEREMAN,Australia,1
+MALANDA,Australia,1
+LAKE TYERS,Australia,1
+BARINGHUP WEST,Australia,1
+STUN'SAIL BOOM,Australia,1
+NINDERRY,Australia,1
+CUMBORAH,Australia,1
+BOOMI,Australia,1
+Spalding,Australia,1
+CANE,Australia,1
+LAKE HINDS,Australia,1
+KYABRAM,Australia,1
+TOTTENHAM,Australia,1
+FAIRBANK,Australia,1
+NARELLAN VALE,Australia,1
+PARNAROO,Australia,1
+FISHERMANS POCKET,Australia,1
+BEN NEVIS,Australia,1
+THALIA,Australia,1
+WALLAROO,Australia,1
+LILLI PILLI,Australia,1
+TOONGI,Australia,1
+GRAYS GATE,Australia,1
+NILE,Australia,1
+PAGET,Australia,1
+AVENEL,Australia,1
+BASKERVILLE,Australia,1
+FOUR WAYS,Australia,1
+CHIPPING NORTON,Australia,1
+WELLINGTON FOREST,Australia,1
+NARIEL VALLEY,Australia,1
+CLAREMONT MEADOWS,Australia,1
+NEWBOROUGH EAST,Australia,1
+CHORREGON,Australia,1
+NEERIM SOUTH,Australia,1
+BURGOONEY,Australia,1
+CURLEWIS,Australia,1
+NEWPORT BEACH,Australia,1
+YEA,Australia,1
+THANGOOL,Australia,1
+GUNNAWARRA,Australia,1
+Lost River,Australia,1
+HOWQUA,Australia,1
+ORA BANDA,Australia,1
+BALLAROO,Australia,1
+ALBERTA,Australia,1
+ELEEBANA,Australia,1
+GLENGOWER,Australia,1
+NANIMA,Australia,1
+KURROWAH,Australia,1
+CLEAR ISLAND WATERS,Australia,1
+WITHERS,Australia,1
+Cluculz Lake,Canada,1
+Buchanan,Canada,1
+Seeleys Bay,Canada,1
+Bear Canyon,Canada,1
+Barraute,Canada,1
+Joliette,Canada,1
+Smithers,Canada,1
+Evansburg,Canada,1
+Wingham,Canada,1
+Haines Junction,Canada,1
+Quyon,Canada,1
+Barrington,Canada,1
+Glenavon,Canada,1
+Okanagan Mission,Canada,1
+Lansdowne House,Canada,1
+Chelsea,Canada,1
+Hughenden,Canada,1
+St Charles,Canada,1
+Highgate,Canada,1
+Holdfast,Canada,1
+Clearwater,Canada,1
+Innerkip,Canada,1
+Blezard Valley,Canada,1
+Granby,Canada,1
+Listowel,Canada,1
+St Agapit,Canada,1
+Kindersley,Canada,1
+Baie Des Sables,Canada,1
+Rochebaucourt,Canada,1
+St Albert,Canada,1
+Grande Entree,Canada,1
+St Gregoire De Nicolet,Canada,1
+Barrhead,Canada,1
+Moonbeam,Canada,1
+Hall Beach,Canada,1
+Deux Rivieres,Canada,1
+Trois Riviere,Canada,1
+Repulse Bay,Canada,1
+Coutts,Canada,1
+MITCHELL,Canada,1
+Inverary,Canada,1
+Milford Bay,Canada,1
+Ste Rose De Watford,Canada,1
+Duncan,Canada,1
+St Fulgence,Canada,1
+Carnarvon,Canada,1
+Cayley,Canada,1
+Port Hawkesbury,Canada,1
+Killam,Canada,1
+TOTTENHAM,Canada,1
+Lanark,Canada,1
+Faro,Canada,1
+Cumberland,Canada,1
+Avonlea,Canada,1
+Preston,Canada,1
+Beaver Creek,Canada,1
+Hull,Canada,1
+Malartic,Canada,1
+Dauphin,Canada,1
+Bowden,Canada,1
+Ingelfingen,Germany,1
+Düsseldorf Hafen,Germany,1
+Reipeldingen,Germany,1
+Planegg,Germany,1
+Ockfen,Germany,1
+Osann-Monzel,Germany,1
+Kaiserslautern Erfenbach,Germany,1
+Almersbach,Germany,1
+Neckartenzlingen,Germany,1
+Schwarzenborn,Germany,1
+Holzmaden,Germany,1
+Zinnowitz,Germany,1
+Kaiserslautern Innenstadt,Germany,1
+Sachsen,Germany,1
+Einöllen,Germany,1
+Bilshausen,Germany,1
+Bayersoien,Germany,1
+Bad Kreuznach Kuhberg,Germany,1
+Leutkirch,Germany,1
+Rödental,Germany,1
+Fürstenfeldbruck,Germany,1
+Westhausen,Germany,1
+Straßberg,Germany,1
+Trappenkamp,Germany,1
+Roßbach,Germany,1
+Osdorf,Germany,1
+Ihringen,Germany,1
+Zirndorf,Germany,1
+Ruhpolding,Germany,1
+Kaltental,Germany,1
+Ensdorf,Germany,1
+Neudietendorf,Germany,1
+Viersen Beberich,Germany,1
+Kerken,Germany,1
+Halstenbek,Germany,1
+Küllstedt,Germany,1
+Worms Ibersheim,Germany,1
+Bad Brückenau,Germany,1
+Mannheim Friesenheimer Insel,Germany,1
+Neuhausen,Germany,1
+Eutin,Germany,1
+Stolk,Germany,1
+Farven,Germany,1
+Scheyern,Germany,1
+Meddersheim,Germany,1
+Nister-Möhrendorf,Germany,1
+Donauwörth,Germany,1
+Erding,Germany,1
+Seevetal,Germany,1
+Dörsdorf,Germany,1
+Hayingen,Germany,1
+Namborn,Germany,1
+Rimpar,Germany,1
+Rommerskirchen,Germany,1
+Emstek,Germany,1
+Kusel,Germany,1
+Dollnstein,Germany,1
+Ludwigshafen am Rhein Oggersheim,Germany,1
+Lappersdorf,Germany,1
+Bremen Steffensweg,Germany,1
+Neukirchen,Germany,1
+Aspenstedt,Germany,1
+Lilienthal,Germany,1
+Neuburg,Germany,1
+Heilbronn Heilbronn,Germany,1
+Obermichelbach,Germany,1
+Kitzingen,Germany,1
+Rotthalmünster,Germany,1
+Bochum,Germany,1
+Schwerin,Germany,1
+Badenheim,Germany,1
+Eckelsheim,Germany,1
+Füssen,Germany,1
+Vöhringen,Germany,1
+Triebes,Germany,1
+Düsseldorf Hubbelrath,Germany,1
+Breddenberg,Germany,1
+Eggenfelden,Germany,1
+Remscheid Lüttringhausen,Germany,1
+Barsbüttel,Germany,1
+Hamburg Lokstedt,Germany,1
+Herbstein,Germany,1
+Maulbronn,Germany,1
+Saarlouis,Germany,1
+Oerlenbach,Germany,1
+Oberammergau,Germany,1
+Rudolstadt,Germany,1
+Flöthe,Germany,1
+Albersdorf,Germany,1
+Stegaurach,Germany,1
+Guderhandviertel,Germany,1
+Bubenheim,Germany,1
+Koblenz Pfaffendorfer-Höhe,Germany,1
+Hisel,Germany,1
+Hamburg Sankt Pauli,Germany,1
+Bad Feilnbach,Germany,1
+Rühen,Germany,1
+Stein-Bockenheim,Germany,1
+Hermersberg,Germany,1
+Köln Porz,Germany,1
+Bad Salzuflen Holzhausen,Germany,1
+Leopoldshöhe,Germany,1
+ÉLANCOURT,France,1
+SAINT-LÔ,France,1
+MONTÉLIMAR,France,1
+SEVRAN,France,1
+LE CANNET,France,1
+LONGJUMEAU,France,1
+BOURGES,France,1
+HÉNIN-BEAUMONT,France,1
+CHATOU,France,1
+ANNECY,France,1
+CHAMPIGNY-SUR-MARNE,France,1
+BELFORT,France,1
+DIJON,France,1
+COURBEVOIE,France,1
+SAINT-JOSEPH,France,1
+CROIX,France,1
+TALENCE,France,1
+SARCELLES,France,1
+TAVERNY,France,1
+VÉLIZY-VILLACOUBLAY,France,1
+Abbeville,France,1
+VILLEJUIF,France,1
+BONDY,France,1
+LONS-LE-SAUNIER,France,1
+CHAMBÉRY,France,1
+Natile,Italy,1
+Leivi,Italy,1
+Villar San Costanzo,Italy,1
+Celle Ligure,Italy,1
+Borgo Isonzo,Italy,1
+Santomato,Italy,1
+Merlara,Italy,1
+Ponte Di Legno,Italy,1
+Ghiare Di Corniglio,Italy,1
+Lodine,Italy,1
+Pieve Del Cairo,Italy,1
+Pino Torinese,Italy,1
+Mandria,Italy,1
+Cropalati,Italy,1
+Romagnese,Italy,1
+Carpari,Italy,1
+Frisa,Italy,1
+Montale Rangone,Italy,1
+Torchiara,Italy,1
+Casalsottano,Italy,1
+Montalcino,Italy,1
+Prato,Italy,1
+Sardara,Italy,1
+Altessano,Italy,1
+Luogosano,Italy,1
+Craco,Italy,1
+San Pietro Del Gallo,Italy,1
+Bolognola,Italy,1
+Terzigno,Italy,1
+Pomigliano D'Arco,Italy,1
+Montecarotto,Italy,1
+Rauscedo,Italy,1
+Nepezzano,Italy,1
+Quarto Oggiaro,Italy,1
+Racines,Italy,1
+Conche Di Codevigo,Italy,1
+Attimis,Italy,1
+Casazza,Italy,1
+St. Pankraz,Italy,1
+Garofali,Italy,1
+San Zenone Al Lambro,Italy,1
+Monte Oliveto Maggiore,Italy,1
+Nuchis,Italy,1
+Nureci,Italy,1
+Ronchi,Italy,1
+Villatora,Italy,1
+Sauris,Italy,1
+Sala,Italy,1
+Casirate D'Adda,Italy,1
+Cerasa,Italy,1
+Marcellise,Italy,1
+Piantamelon,Italy,1
+Capezzine,Italy,1
+Bellino,Italy,1
+Mocaiana Stazione,Italy,1
+Santadi,Italy,1
+Scagnello,Italy,1
+Bisano,Italy,1
+Santa Lucia Di Cava,Italy,1
+Savogna,Italy,1
+Madone,Italy,1
+San Pietro In Gu,Italy,1
+Marano Veneziano,Italy,1
+Quinzanello,Italy,1
+Trenzano,Italy,1
+Circello,Italy,1
+Giffoni Valle Piana,Italy,1
+Nieuwstadt,Netherlands,1
+Steenderen,Netherlands,1
+Hellevoetsluis,Netherlands,1
+Neede,Netherlands,1
+Kerkdriel,Netherlands,1
+Tuk,Netherlands,1
+Elshout,Netherlands,1
+Eersel,Netherlands,1
+Marrum,Netherlands,1
+Akkrum,Netherlands,1
+Gemert,Netherlands,1
+Enkhuizen,Netherlands,1
+Wolvega,Netherlands,1
+Baexem,Netherlands,1
+Eijsden,Netherlands,1
+Ewijk,Netherlands,1
+Lisse,Netherlands,1
+Genemuiden,Netherlands,1
+Meppel,Netherlands,1
+Lemelerveld,Netherlands,1
+Zevenaar,Netherlands,1
+Oudenbosch,Netherlands,1
+Oppenhuizen,Netherlands,1
+Oldenzijl,Netherlands,1
+Berghem,Netherlands,1
+Katwijk,Netherlands,1
+Middenmeer,Netherlands,1
+Grijpskerke,Netherlands,1
+Zieuwent,Netherlands,1
+Mijdrecht,Netherlands,1
+Musselkanaal,Netherlands,1
+UPPER BORTH,United Kingdom,1
+DALVOURN,United Kingdom,1
+HENFIELD,United Kingdom,1
+INVERCHAOLAIN,United Kingdom,1
+WARLEGGAN,United Kingdom,1
+BURSTOW,United Kingdom,1
+TUDDENHAM,United Kingdom,1
+CLASHNOIR,United Kingdom,1
+GIRSBY,United Kingdom,1
+STOKE ST GREGORY,United Kingdom,1
+WELLHILL,United Kingdom,1
+NORTHMUIR,United Kingdom,1
+PYE CORNER,United Kingdom,1
+MIDDLEHILL,United Kingdom,1
+NORTH OAKLEY,United Kingdom,1
+GEDLING,United Kingdom,1
+SOUTH CREAKE,United Kingdom,1
+SIXHILLS,United Kingdom,1
+SOLE STREET,United Kingdom,1
+RHOS-FAWR,United Kingdom,1
+BURTON IN LONSDALE,United Kingdom,1
+NAFFERTON,United Kingdom,1
+FEOLIN FERRY,United Kingdom,1
+HONEY TYE,United Kingdom,1
+SALEHURST,United Kingdom,1
+DILTON MARSH,United Kingdom,1
+WATCHET,United Kingdom,1
+WAVERBRIDGE,United Kingdom,1
+GASK,United Kingdom,1
+BALLINABY,United Kingdom,1
+AYSIDE,United Kingdom,1
+CONSETT,United Kingdom,1
+FARNHAM,United Kingdom,1
+SLONGABER,United Kingdom,1
+ASHEN,United Kingdom,1
+TROUSTAN,United Kingdom,1
+DOWNGATE,United Kingdom,1
+INGLEBY CROSS,United Kingdom,1
+OGBOURNE MAIZEY,United Kingdom,1
+KEADBY,United Kingdom,1
+SCOURIE MORE,United Kingdom,1
+TOWNHEAD OF GREENLAW,United Kingdom,1
+MITTON,United Kingdom,1
+BLACKPOOL GATE,United Kingdom,1
+BARCALDINE,United Kingdom,1
+SHILDON,United Kingdom,1
+MILSTON,United Kingdom,1
+SOUTH LOPHAM,United Kingdom,1
+CADDONFOOT,United Kingdom,1
+FAIRFORD,United Kingdom,1
+SWALLOWFIELD,United Kingdom,1
+RHYD-YR-ONNEN,United Kingdom,1
+THORNTON-LE-DALE,United Kingdom,1
+KEMPSTON HARDWICK,United Kingdom,1
+POOLEY BRIDGE,United Kingdom,1
+CORROUR SHOOTING LODGE,United Kingdom,1
+HAILEY,United Kingdom,1
+SUTTON ON THE HILL,United Kingdom,1
+RUTHERFORD,United Kingdom,1
+FALMER,United Kingdom,1
+CATTON,United Kingdom,1
+DUNURE MAINS,United Kingdom,1
+ZEAL MONACHORUM,United Kingdom,1
+BADNAGIE,United Kingdom,1
+BOVENEY,United Kingdom,1
+LADY HALL,United Kingdom,1
+CROXTON KERRIAL,United Kingdom,1
+LITTLE SUTTON,United Kingdom,1
+NEW RACKHEATH,United Kingdom,1
+LONDON BEACH,United Kingdom,1
+COTTON END,United Kingdom,1
+ALLIMORE GREEN,United Kingdom,1
+BRADWELL,United Kingdom,1
+HOUGHTON ST GILES,United Kingdom,1
+KENNINGHALL,United Kingdom,1
+ANDERBY,United Kingdom,1
+HOBKIRK,United Kingdom,1
+SEWORGAN,United Kingdom,1
+STAPLETON,United Kingdom,1
+STAVERTON,United Kingdom,1
+LEDSTON,United Kingdom,1
+GRAFTON,United Kingdom,1
+BALLOCHAN,United Kingdom,1
+SELWORTHY,United Kingdom,1
+WEMBLEY,United Kingdom,1
+ARDANEASKAN,United Kingdom,1
+LOWER MACHEN,United Kingdom,1
+PENROSE,United Kingdom,1
+CAOLAS SCALPAIGH,United Kingdom,1
+GOGINAN,United Kingdom,1
+COCKLEY BECK,United Kingdom,1
+BORROWBY,United Kingdom,1
+BALVICAR,United Kingdom,1
+TROSTON,United Kingdom,1
+CRABTREE,United Kingdom,1
+LONG ITCHINGTON,United Kingdom,1
+POLMASSICK,United Kingdom,1
+WOOBURN,United Kingdom,1
+CARLISLE,United Kingdom,1
+MARSHAM,United Kingdom,1
+FORD,United Kingdom,1
+STOKE PRIOR,United Kingdom,1
+ACHNAGARRON,United Kingdom,1
+ACHLEANAN,United Kingdom,1
+STEEPMARSH,United Kingdom,1
+HOWE STREET,United Kingdom,1
+ESTON,United Kingdom,1
+PEBWORTH,United Kingdom,1
+WICKERSLEY,United Kingdom,1
+FRAMPTON,United Kingdom,1
+COLTFIELD,United Kingdom,1
+ACHNACLYTH,United Kingdom,1
+BOLSTONE,United Kingdom,1
+DOVE HOLES,United Kingdom,1
+TOLLCROSS,United Kingdom,1
+SHINNESS LODGE,United Kingdom,1
+LONG SUTTON,United Kingdom,1
+WERGS,United Kingdom,1
+ROLLESTON,United Kingdom,1
+LUDGERSHALL,United Kingdom,1
+WEEFORD,United Kingdom,1
+DRUMUILLIE,United Kingdom,1
+LOSTOCK GREEN,United Kingdom,1
+TALWRN,United Kingdom,1
+HARLTON,United Kingdom,1
+LYDBURY NORTH,United Kingdom,1
+BUSCOT,United Kingdom,1
+WHITTONDITCH,United Kingdom,1
+MAWLA,United Kingdom,1
+RAVENSTONE,United Kingdom,1
+BRADFORD LEIGH,United Kingdom,1
+HEDON,United Kingdom,1
+SALT,United Kingdom,1
+CAREW CHERITON,United Kingdom,1
+BURWELL,United Kingdom,1
+NETTON,United Kingdom,1
+HEALEYFIELD,United Kingdom,1
+LOWICK,United Kingdom,1
+LLANLLAWDDOG,United Kingdom,1
+YARROWFORD,United Kingdom,1
+LECKGRUINART,United Kingdom,1
+DARLISTON,United Kingdom,1
+TUNSTALL,United Kingdom,1
+BULPHAN,United Kingdom,1
+LIFTON,United Kingdom,1
+INSTOW,United Kingdom,1
+KINGSTON RUSSELL,United Kingdom,1
+NORBRECK,United Kingdom,1
+SPEEN,United Kingdom,1
+BIALLAID,United Kingdom,1
+GREAT BEALINGS,United Kingdom,1
+CARSEGOWAN,United Kingdom,1
+BRIDSTOW,United Kingdom,1
+GREETHAM,United Kingdom,1
+Northfield,United Kingdom,1
+HOLLINGBOURNE,United Kingdom,1
+WATTSVILLE,United Kingdom,1
+WEST PERRY,United Kingdom,1
+LOW HUTTON,United Kingdom,1
+STAUNTON ON ARROW,United Kingdom,1
+WOTTON,United Kingdom,1
+LOW HAYGARTH,United Kingdom,1
+MARTON,United Kingdom,1
+BADDIDARACH,United Kingdom,1
+YTHSIE,United Kingdom,1
+WATERSIDE,United Kingdom,1
+AMPNEY CRUCIS,United Kingdom,1
+LITTLE SMEATON,United Kingdom,1
+HALSTEAD,United Kingdom,1
+WEST KNAPTON,United Kingdom,1
+WELSH END,United Kingdom,1
+CHILLINGTON,United Kingdom,1
+LITTLE BERKHAMSTED,United Kingdom,1
+COUNTISBURY,United Kingdom,1
+DOWNEND,United Kingdom,1
+POOLE KEYNES,United Kingdom,1
+ARBORFIELD CROSS,United Kingdom,1
+STUCKBEG,United Kingdom,1
+TREGEARE,United Kingdom,1
+BURNTWOOD,United Kingdom,1
+BRIGHTLING,United Kingdom,1
+Oxford,United Kingdom,1
+GILBERDYKE,United Kingdom,1
+GELLYWEN,United Kingdom,1
+CROWNTOWN,United Kingdom,1
+FENROTHER,United Kingdom,1
+GROES-FAEN,United Kingdom,1
+LANDULPH,United Kingdom,1
+SCOTFORTH,United Kingdom,1
+EVERTHORPE,United Kingdom,1
+LYNCHAT,United Kingdom,1
+Eaton,United Kingdom,1
+CLEE ST MARGARET,United Kingdom,1
+BOLTBY,United Kingdom,1
+MALVERN LINK,United Kingdom,1
+STAPLEFORD,United Kingdom,1
+HINDRINGHAM,United Kingdom,1
+NEWTON ST PETROCK,United Kingdom,1
+CALDERGLEN,United Kingdom,1
+OFFTON,United Kingdom,1
+BASHALL EAVES,United Kingdom,1
+GALGATE,United Kingdom,1
+WASBISTER,United Kingdom,1
+BANTHAM,United Kingdom,1
+TANDRIDGE,United Kingdom,1
+UDDINGSTON,United Kingdom,1
+MERTHER,United Kingdom,1
+DOUGALSTON,United Kingdom,1
+LITLINGTON,United Kingdom,1
+CULCHETH,United Kingdom,1
+Provo,United States,1
+Port St Lucie,United States,1
+East Boston,United States,1
+Science Hill,United States,1
+Lake Placid,United States,1
+Glasgow,United States,1
+Qulin,United States,1
+Flanagan,United States,1
+Winder,United States,1
+Johnston,United States,1
+Warsaw,United States,1
+Greenbelt,United States,1
+Malakoff,United States,1
+Alhambra,United States,1
+Unalaska,United States,1
+Millville,United States,1
+Elberfeld,United States,1
+Fairmount,United States,1
+Wake Forest,United States,1
+New Braunfels,United States,1
+Caruthers,United States,1
+Rolling Meadows,United States,1
+Perley,United States,1
+Fort Lewis,United States,1
+Parsons,United States,1
+Culver City,United States,1
+Floyd,United States,1
+Archer,United States,1
+Perry,United States,1
+Sulphur,United States,1
+Sunrise,United States,1
+New Bern,United States,1
+Oak Hill,United States,1
+Glide,United States,1
+Sunizona,United States,1
+Earlimart,United States,1
+Bronson,United States,1
+Sanibel,United States,1
+Jamaica,United States,1
+Hickory,United States,1
+Mcalester,United States,1
+Manteo,United States,1
+Fairfield,United States,1
+Stewardson,United States,1
+Chesterfield,United States,1
+Lillington,United States,1
+Norborne,United States,1
+Loda,United States,1
+Boynton Beach,United States,1
+Indiana,United States,1
+Casa Grande,United States,1
+Passaic,United States,1
+Heber Springs,United States,1
+Doylestown,United States,1
+Lockport,United States,1
+Stateburg,United States,1
+Flemingsburg,United States,1
+Emmett,United States,1
+Southington,United States,1
+Travelers Rest,United States,1
+Dickinson,United States,1
+Blue Earth,United States,1
+Bethel Park,United States,1
+Mount Pleasant,United States,1
+Fort Pierce,United States,1
+Custer,United States,1
+Wellesley,United States,1
+Greeneville,United States,1
+Kanab,United States,1
+Boy River,United States,1
+Strawn,United States,1
+Miller,United States,1
+Bennington,United States,1
+Jupiter,United States,1
+Monroeville,United States,1
+Dodge City,United States,1
+Jeffersonville,United States,1
+Gonzales,United States,1
+Benicia,United States,1
+Brundidge,United States,1
+Millsboro,United States,1
+Town Creek,United States,1
+Norwich,United States,1
+New Raymer,United States,1
+Ravenwood,United States,1
+Fort Kent,United States,1
+York Valley,United States,1
+Iron Mountain,United States,1
+West Frankfort,United States,1
+Dierks,United States,1
+Mocksville,United States,1
+Reddick,United States,1
+Seaford,United States,1
+Fairmont,United States,1
+Clewiston,United States,1
+Mantorville,United States,1
+Saxtons River,United States,1
+Glennie,United States,1
+Thompsontown (Juniata),United States,1
+North Fort Myers,United States,1
+Marksville,United States,1
+Elkhorn,United States,1
+River Falls,United States,1
+Parkman,United States,1
+Lunenburg,United States,1
+Miamisburg,United States,1
+Clairton,United States,1
+Raymondville,United States,1
+Bartlett,United States,1
+South Deerfield,United States,1
+Lakehurst,United States,1
+Fargo,United States,1
+Stone Creek,United States,1
+Ringling,United States,1
+Cayce,United States,1
+Redlands,United States,1
+Loyalton,United States,1
+Rohnert Park,United States,1
+Andover,United States,1
+Platteville,United States,1
+Aspermont,United States,1
+Hendersonville,United States,1
+Lost River,United States,1
+Canton,United States,1
+Tabiona,United States,1
+Fort Morgan,United States,1
+Gloversville,United States,1
+Squaw Gap,United States,1
+Saint Charles,United States,1
+Grand Ledge,United States,1
+Southmont,United States,1
+Twinsburg,United States,1
+Largo,United States,1
+Rockdale,United States,1
+Gwinner,United States,1
+Casselberry,United States,1
+Valley Center,United States,1
+Mcclellan Afb,United States,1
+St Augustine,United States,1
+Whitakers,United States,1
+Palmer,United States,1
+Stuart,United States,1
+Alameda,United States,1
+Adelphi,United States,1
+Ellsworth,United States,1
+North Charleston,United States,1
+Rancho Dominguez,United States,1
+Ruby Valley,United States,1
+Yreka,United States,1
+Humansville,United States,1
+Osage,United States,1
+Wishon,United States,1
+Newburg,United States,1
